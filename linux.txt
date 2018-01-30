@@ -1,0 +1,16232 @@
+﻿
+单选题：
+
+1、struts1 的核心控制器是()：
+
+  正确答案：A
+
+A   ActionServlet
+
+B  DispatcherServlet
+
+C   FiltDispatcherAction
+
+D   FiltDispatche
+
+2、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：C
+
+A  md是mid的缩写;
+
+B  sm是small的缩写;
+
+C  lg是lag的缩写;
+
+D  xs是extremely small的缩写。
+
+3、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  以下都是
+
+B  IE
+
+C  火狐
+
+D  谷歌
+
+4、关于Spring中的ApplicationContext接口的描述不正确的是：：
+
+  正确答案：B
+
+A  对事件的支持
+
+B  持久化支持
+
+C  继承自BeanFactory接口
+
+D  国际化支持
+
+5、bootstrap中pagination说法正确的是：
+
+  正确答案：C
+
+A  bootstrap不是开源的
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  Bootstrap 的组件不支持定制
+
+6、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：C
+
+A  使用Hibernate可以简化持久化层的编码
+
+B  Hibernate是一个ORM的实现
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  hibernate是一种数据持久化技术
+
+7、spring中,bean的作用域不包括？：
+
+  正确答案：B
+
+A  request
+
+B  response
+
+C  singleton
+
+D  prototype
+
+8、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：B
+
+A  md是mid的缩写;
+
+B  lg是lag的缩写;
+
+C  sm是small的缩写;
+
+D  xs是extremely small的缩写。
+
+9、不带js的html网站与jsp网站的重要区别是( )：
+
+  正确答案：C
+
+A  以上都对
+
+B  看网站有没有广告
+
+C  html不能与数据库交互数据，jsp能与数据库交互数据
+
+D  看网站有没有会动的图片
+
+10、bootstrap中pagination说法正确的是：
+
+  正确答案：C
+
+A  bootstrap跟jQuery一样提供了很多dom操作方法
+
+B  Bootstrap 的组件不支持定制
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  bootstrap不是开源的
+
+11、要使用bootstrap最基本样式功能必须引入的文件是：
+
+  正确答案：D
+
+A  jquery.js
+
+B  bootstrap.css
+
+C  bootstrap.min.js
+
+D  bootstrap.min.css
+
+12、MVC中的C是()：
+
+  正确答案：B
+
+A  模型层
+
+B  控制层
+
+C  视图层
+
+D  业务层
+
+13、struts1 的核心控制器是()：
+
+  正确答案：B
+
+A   FiltDispatcherAction
+
+B   ActionServlet
+
+C   FiltDispatche
+
+D  DispatcherServlet
+
+14、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：A
+
+A   .col-xs-4
+
+B   .col-xs-6
+
+C   .col-xs-2
+
+D   .col-xs-3
+
+15、bootstrap中说法有误的是：
+
+  正确答案：B
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap必须在移动设备上使用
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持火狐浏览器
+
+16、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  谷歌
+
+B  IE
+
+C  火狐
+
+D  以下都是
+
+17、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：C
+
+A  .btn-primary
+
+B  .btn-success
+
+C  .btn-default
+
+D  .btn
+
+18、在Controller类中可以使用到的注解有：：
+
+  正确答案：B
+
+A  @servlet
+
+B  @Controller
+
+C  @RequestMap
+
+D  @Auto
+
+19、MyBatis框架是一个什么样的框架：
+
+  正确答案：C
+
+A  js框架
+
+B  MVC框架
+
+C  数据持久化框架
+
+D  整合框架
+
+20、bootstrap框架是由哪家公司开源的：
+
+  正确答案：C
+
+A  Google
+
+B  Baidu
+
+C  Twitter
+
+D  Facebook
+多选题：
+
+1、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int a1[]={3,4,5};
+
+B int[][] a4=new int[3][3]; 
+
+C String a2[]={"string1","string1","string1"}; 
+
+D String a3[]=new String(3);
+
+2、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：C ; D
+
+A <s:form>
+
+B <s: textfield>
+
+C <c:out>
+
+D <bean:write>
+
+3、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 立即发送sql语句与数据库同步；
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+4、Struts2以___________为核心，采用___________的机制来处理用户的请求：：
+						 
+
+正确答案：A ; C
+
+A webwork
+
+B 监听器
+
+C 拦截器
+
+D 过滤器
+
+5、struts2中下列说法不正确的为( )：：
+						 
+
+正确答案：B ; D
+
+A struts2是非侵入型框架，不严重依赖servletAPI
+
+B strtus2基于struts1
+
+C struts2基于webwork
+
+D struts2是侵入型框架，严重依赖servletAPI
+
+6、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：C ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 立即发送sql语句与数据库同步；
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+7、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：B ; D
+
+A MVC
+
+B IOC
+
+C ORM
+
+D AOP
+
+8、在拦截器中，使用ActionInvocation:：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可以获得ActionContext对象；
+
+B 的invoke方法可以调用action的执行方法；
+
+C 的invoke方法可以调用下一个拦截器的intercept方法
+
+D 可以获得Action对象；
+
+9、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; D
+
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的主要作用是处理Http请求；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的运行环境是web容器；
+
+10、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int[][] a4=new int[3][3]; 
+
+B String a2[]={"string1","string1","string1"}; 
+
+C int a1[]={3,4,5};
+
+D String a3[]=new String(3);
+判断题：
+
+1、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+2、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+3、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+4、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+5、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+6、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+7、Bootstrap 轮播（Carousel）插件是一种灵活的响应式的向站点添加滑块的方式：：
+
+正确答案：对	
+
+√
+
+×
+
+8、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+9、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+10、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、Hibernate核心配置文件的后缀名是：
+
+  正确答案：C
+
+A  .properties
+
+B  .doc
+
+C  .xml
+
+D  .hbm
+
+2、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：D
+
+A  使用Hibernate可以简化持久化层的编码
+
+B  Hibernate是一个ORM的实现
+
+C  ibernate是一种数据持久化技术
+
+D  Hibernate会使数据库的操作变得复杂
+
+3、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+4、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  IE
+
+B  以下都是
+
+C  火狐
+
+D  谷歌
+
+5、Hibernate核心配置文件的后缀名是：
+
+  正确答案：C
+
+A  .properties
+
+B  .doc
+
+C  .xml
+
+D  .hbm
+
+6、Hibernate中对象在session关闭之后的状态是：：
+
+  正确答案：A
+
+A  Detached
+
+B  Transient
+
+C  Persistent
+
+D  singleton
+
+7、struts1 的核心控制器是()：
+
+  正确答案：C
+
+A  DispatcherServlet
+
+B   FiltDispatche
+
+C   ActionServlet
+
+D   FiltDispatcherAction
+
+8、struts的理解正确的是：
+
+  正确答案：C
+
+A  struts不是基于MVC设计模式的框架
+
+B  struts不是Apache组织开发的
+
+C  struts是Apache旗下的框架
+
+D  struts不是框架
+
+9、下面操作可以通过ID获得页面元素：：
+
+  正确答案：D
+
+A  $("ID")
+
+B  $(ID)
+
+C  $(".ID")
+
+D  $("#ID")
+
+10、struts2动态调用的格式为：(    )：：
+
+  正确答案：C
+
+A  ActionName*methodName.action
+
+B  ActionName@mathodName.action
+
+C  ActionName!methodName.action
+
+D  ActionName?methodName.action
+
+11、下列不属于sql的聚合函数的是：：
+
+  正确答案：D
+
+A  max
+
+B  count
+
+C  min
+
+D  today
+
+12、jquery中$.ajax()的dataType是：
+
+  正确答案：A
+
+A  服务器返回的数据类型
+
+B  发送的数据
+
+C  提交的类型
+
+D  发送请求的地址
+
+13、bootstrap中pagination说法正确的是：
+
+  正确答案：B
+
+A  bootstrap不是开源的
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  Bootstrap 的组件不支持定制
+
+14、关于Spring中的ApplicationContext接口的描述不正确的是：：
+
+  正确答案：D
+
+A  对事件的支持
+
+B  国际化支持
+
+C  继承自BeanFactory接口
+
+D  持久化支持
+
+15、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  以下都是
+
+C  谷歌
+
+D  IE
+
+16、bootstrap框架是由哪家公司开源的：
+
+  正确答案：C
+
+A  Facebook
+
+B  Baidu
+
+C  Twitter
+
+D  Google
+
+17、在使用interface声明一个接口时，可以使用什么修饰符修饰该接口：
+
+  正确答案：A
+
+A  public
+
+B  private protected
+
+C  private
+
+D  protected
+
+18、Oracle特有的主键生成策略是：：
+
+  正确答案：A
+
+A  sequence
+
+B  oracle
+
+C  sqlserver
+
+D  mysql
+
+19、Hibernate中获取最大id,在此基础上加1的主键生成策略为（ ）：
+
+  正确答案：C
+
+A  native
+
+B  uuid
+
+C  increment
+
+D  sequence
+
+20、Spring中的bean的描述不正确的是：：
+
+  正确答案：A
+
+A  必须通过new关键字来实例化
+
+B  其实例保存在sprig的容器中
+
+C  是最基本也是最常用的单元
+
+D  在Spring技术中是基于组件的
+多选题：
+
+1、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; D
+
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的运行环境是web容器；
+
+2、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：C ; D
+
+A select now() from dual
+
+B select today()
+
+C select sysdate()
+
+D select now()
+
+3、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select now()
+
+B select today()
+
+C select sysdate()
+
+D select now() from dual
+
+4、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; D
+
+A String a2[]={"string1","string1","string1"}; 
+
+B int a1[]={3,4,5};
+
+C String a3[]=new String(3);
+
+D int[][] a4=new int[3][3]; 
+
+5、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; D
+
+A struts2框架可以脱离web容器运行
+
+B struts2框架的主要作用是处理Http请求；
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的运行环境是web容器；
+
+6、Struts2以___________为核心，采用___________的机制来处理用户的请求：：
+						 
+
+正确答案：B ; D
+
+A 监听器
+
+B 拦截器
+
+C 过滤器
+
+D webwork
+
+7、struts2中下列说法不正确的为( )：：
+						 
+
+正确答案：A ; C
+
+A strtus2基于struts1
+
+B struts2是非侵入型框架，不严重依赖servletAPI
+
+C struts2是侵入型框架，严重依赖servletAPI
+
+D struts2基于webwork
+
+8、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：B ; C
+
+A <s: textfield>
+
+B <c:out>
+
+C <bean:write>
+
+D <s:form>
+
+9、静态代理由_________和__________和__________三部分构成：
+						 
+
+正确答案：A ; B ; C
+
+A 代理实现
+
+B 接口
+
+C 真实实现
+
+D 目标类
+
+10、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：C ; D
+
+A select now() from dual
+
+B select today()
+
+C select now()
+
+D select sysdate()
+判断题：
+
+1、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+3、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+4、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+5、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+6、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+7、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+8、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+9、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+10、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：B
+
+A  ibernate是一种数据持久化技术
+
+B  Hibernate会使数据库的操作变得复杂
+
+C  Hibernate是一个ORM的实现
+
+D  使用Hibernate可以简化持久化层的编码
+
+2、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+3、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  以下都是
+
+C  IE
+
+D  谷歌
+
+4、bootstrap中pagination说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap 的组件不支持定制
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap不是开源的
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+5、spring中,bean的作用域不包括？：
+
+  正确答案：D
+
+A  singleton
+
+B  request
+
+C  prototype
+
+D  response
+
+6、bootstrap框架是由哪家公司开源的：
+
+  正确答案：B
+
+A  Baidu
+
+B  Twitter
+
+C  Google
+
+D  Facebook
+
+7、Hibernate核心配置文件的后缀名是：
+
+  正确答案：C
+
+A  .properties
+
+B  .hbm
+
+C  .xml
+
+D  .doc
+
+8、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Facebook
+
+C  Baidu
+
+D  Google
+
+9、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap支持谷歌浏览器
+
+10、spring中,bean的作用域不包括？：
+
+  正确答案：A
+
+A  response
+
+B  prototype
+
+C  request
+
+D  singleton
+
+11、firebug属于哪款浏览器调试工具：
+
+  正确答案：B
+
+A  IE
+
+B  火狐
+
+C  以下都是
+
+D  谷歌
+
+12、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：A
+
+A  lg是lag的缩写;
+
+B  xs是extremely small的缩写。
+
+C  sm是small的缩写;
+
+D  md是mid的缩写;
+
+13、struts1 的核心控制器是()：
+
+  正确答案：D
+
+A   FiltDispatcherAction
+
+B  DispatcherServlet
+
+C   FiltDispatche
+
+D   ActionServlet
+
+14、bootstrap中pagination说法正确的是：
+
+  正确答案：C
+
+A  Bootstrap 的组件不支持定制
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  bootstrap不是开源的
+
+15、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：C
+
+A  使用Hibernate可以简化持久化层的编码
+
+B  ibernate是一种数据持久化技术
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  Hibernate是一个ORM的实现
+多选题：
+
+1、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：B ; D
+
+A select now() from dual
+
+B select sysdate()
+
+C select today()
+
+D select now()
+
+2、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; C
+
+A struts2框架的运行环境是web容器；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架定义了访问数据库的方式；
+
+3、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; C
+
+A 立即发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+4、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：B ; C ; D
+
+A String a3[]=new String(3);
+
+B int[][] a4=new int[3][3]; 
+
+C String a2[]={"string1","string1","string1"}; 
+
+D int a1[]={3,4,5};
+
+5、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：B ; D
+
+A <s: textfield>
+
+B <bean:write>
+
+C <s:form>
+
+D <c:out>
+
+6、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; C
+
+A struts2框架的运行环境是web容器；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架定义了访问数据库的方式；
+
+7、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：B ; C ; D
+
+A String a3[]=new String(3);
+
+B int[][] a4=new int[3][3]; 
+
+C int a1[]={3,4,5};
+
+D String a2[]={"string1","string1","string1"}; 
+
+8、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select sysdate()
+
+B select now() from dual
+
+C select now()
+
+D select today()
+
+9、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：C ; D
+
+A <s: textfield>
+
+B <s:form>
+
+C <bean:write>
+
+D <c:out>
+
+10、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; C
+
+A 事务提交时发送sql语句与数据库同步；
+
+B 立即发送sql语句与数据库同步；
+
+C 调用session.flush()时，发送sql语句与数据库同步
+
+D 关闭Session对象时，发送sql语句与数据库同步
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+2、bootstrap支持响应式布局：：
+
+正确答案：对	
+
+√
+
+×
+
+3、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+4、bootstrap是开源的：：
+
+正确答案：对	
+
+√
+
+×
+
+5、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+6、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+7、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+8、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+9、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+10、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、spring中,bean的作用域不包括？：
+
+  正确答案：A
+
+A  response
+
+B  singleton
+
+C  request
+
+D  prototype
+
+2、bootstrap中pagination说法正确的是：
+
+  正确答案：C
+
+A  Bootstrap 的组件不支持定制
+
+B  bootstrap不是开源的
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+3、Hibernate核心配置文件的后缀名是：
+
+  正确答案：B
+
+A  .properties
+
+B  .xml
+
+C  .hbm
+
+D  .doc
+
+4、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  谷歌
+
+B  IE
+
+C  火狐
+
+D  以下都是
+
+5、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap支持谷歌浏览器
+
+6、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Facebook
+
+C  Google
+
+D  Baidu
+
+7、struts1 的核心控制器是()：
+
+  正确答案：D
+
+A   FiltDispatche
+
+B  DispatcherServlet
+
+C   FiltDispatcherAction
+
+D   ActionServlet
+
+8、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：A
+
+A  Hibernate会使数据库的操作变得复杂
+
+B  ibernate是一种数据持久化技术
+
+C  Hibernate是一个ORM的实现
+
+D  使用Hibernate可以简化持久化层的编码
+
+9、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：B
+
+A  match
+
+B  regexp
+
+C  like
+
+D  against
+多选题：
+
+1、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; B
+
+A 调用session.flush()时，发送sql语句与数据库同步
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 立即发送sql语句与数据库同步；
+
+2、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select sysdate()
+
+B select now() from dual
+
+C select now()
+
+D select today()
+
+3、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; C
+
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架可以脱离web容器运行
+
+4、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; D
+
+A <bean:write>
+
+B <s: textfield>
+
+C <s:form>
+
+D <c:out>
+
+5、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; D
+
+A String a2[]={"string1","string1","string1"}; 
+
+B int[][] a4=new int[3][3]; 
+
+C String a3[]=new String(3);
+
+D int a1[]={3,4,5};
+判断题：
+
+1、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+3、bootstrap是开源的：：
+
+正确答案：对	
+
+√
+
+×
+
+4、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+5、bootstrap支持响应式布局：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、Hibernate核心配置文件的后缀名是：
+   正确答案：C
+A  .doc
+
+B  .hbm
+
+C  .xml
+
+D  .properties
+
+2、对于Hibernate框架，下面的说法不正确的是：
+   正确答案：A
+A  Hibernate会使数据库的操作变得复杂
+
+B  ibernate是一种数据持久化技术
+
+C  Hibernate是一个ORM的实现
+
+D  使用Hibernate可以简化持久化层的编码
+
+3、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：B
+A  jquery.js
+
+B  bootstrap.min.css
+
+C  bootstrap.min.css
+
+D  bootstrap.min.js
+
+4、firebug属于哪款浏览器调试工具：
+   正确答案：A
+A  火狐
+
+B  以下都是
+
+C  IE
+
+D  谷歌
+
+5、spring中,bean的作用域不包括？：
+   正确答案：A
+A  response
+
+B  singleton
+
+C  request
+
+D  prototype
+
+6、bootstrap中pagination说法正确的是：
+   正确答案：D
+A  Bootstrap 的组件不支持定制
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  bootstrap不是开源的
+
+D  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+7、bootstrap中说法有误的是：
+   正确答案：D
+A  bootstrap支持火狐浏览器
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap必须在移动设备上使用
+
+8、struts1 的核心控制器是()：
+   正确答案：C
+A  DispatcherServlet
+
+B   FiltDispatche
+
+C   ActionServlet
+
+D   FiltDispatcherAction
+
+9、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+   正确答案：C
+A  like
+
+B  match
+
+C  regexp
+
+D  against
+
+10、bootstrap框架是由哪家公司开源的：
+   正确答案：D
+A  Facebook
+
+B  Baidu
+
+C  Google
+
+D  Twitter
+
+多选题：
+
+1、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：A ; D
+A <c:out>
+
+B <s:form>
+
+C <s: textfield>
+
+D <bean:write>
+
+2、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; D
+A struts2框架可以脱离web容器运行
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的主要作用是处理Http请求；
+
+3、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：A ; B ; D
+A int[][] a4=new int[3][3]; 
+
+B String a2[]={"string1","string1","string1"}; 
+
+C String a3[]=new String(3);
+
+D int a1[]={3,4,5};
+
+4、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：A ; D
+A 事务提交时发送sql语句与数据库同步；
+
+B 关闭Session对象时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+5、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：A ; D
+A select sysdate()
+
+B select today()
+
+C select now() from dual
+
+D select now()
+
+判断题：
+
+1、bootstrap是开源的：：
+ 正确答案：对
+√
+
+×
+
+2、MVC中的C是控制层：：
+ 正确答案：对
+√
+
+×
+
+3、bootstrap支持响应式布局：：
+ 正确答案：对
+√
+
+×
+
+4、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+5、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、当当属于哪种经营模式：
+   正确答案：B
+A  C2C
+
+B  B2C
+
+C  O2O
+
+D  P2P
+
+2、最初的网站架构物理部署是怎么样的：
+   正确答案：D
+A  应用程序、数据库、文件分开部署在不同服务器上
+
+B  应用程序、数据库、文件分开部署在不同服务器上,并且有对应的备机
+
+C  以上都不是
+
+D  应用程序、数据库、文件都部署在一台服务器上
+
+3、2015年电商交易量最大的端：
+   正确答案：B
+A  线下
+
+B  移动端
+
+C  以上都一样
+
+D  PC端
+
+4、淘宝属于哪种经营模式：
+   正确答案：B
+A  O2O
+
+B  C2C
+
+C  P2P
+
+D  B2B2C
+
+5、关于分布式文件系统说法正确的是？：
+   正确答案：D
+A  分布式文件系统存放文件容易丢失
+
+B  将一个大文件存放在一台文件服务器上
+
+C  分布式文件系统不适合存放大文件
+
+D  将一个大文件分成若干份存放在不同的文件服务器上
+
+6、如何使用集群改善应用服务器性能：
+   正确答案：D
+A  使用Redis将数据库中的经常查询的数据保存起来
+
+B  使用Dubbo进行将系统进行拆分成很多服务，多个服务组成一个应用
+
+C  使用MySQL分区技术，将数据按照时间或其它方式分散到不同的数据库文件中
+
+D  使用Nginx将请求转发到多台Web服务器
+
+7、关于读写分离说明正确的是？：
+   正确答案：D
+A  MySQL自身就有读写分离的功能
+
+B  主从复制是读写分离的一种实现方式
+
+C  从库用写操作，主库用来读操作
+
+D  读写分离不能提高应用的性能
+
+8、关于O2O经营模式说法正确的是：：
+   正确答案：D
+A  54
+
+B  客户之间自己把东西放上网去卖，是个人与个人之间的电子商务
+
+C  由客户发布自己要些什么东西，要求的价格是什么，然后由商家来决定是否接受客户的要约
+
+D  即将线下商务的机会与互联网结合在了一起，让互联网成为线下交易的前台
+
+9、常用的NoSQL数据库有哪些：
+   正确答案：D
+A  MySQL
+
+B  Oracle
+
+C  SQLServer
+
+D  MongoDB
+
+10、B2C市场中哪个市场占有量最大？：
+   正确答案：D
+A  京东
+
+B  惟品会
+
+C  苏宁易购
+
+D  天猫
+
+多选题：
+
+1、互联网应用与传统应用相比有什么特点：
+						 
+ 正确答案：A ; B ; C ; D
+A 渐近式发展
+
+B 海量数据
+
+C 高可用
+
+D 高并发访问
+
+2、未来电子商务发展趋势：
+						 
+ 正确答案：A ; C ; D
+A 移动购物
+
+B PC购物
+
+C 电商向三四线城市发展
+
+D 社交购物
+
+判断题：
+
+1、Dubbo是惟一的服务框架：：
+ 正确答案：错
+√
+
+×
+
+2、大型网站一开始就具有完备的高性能：：
+ 正确答案：错
+√
+
+×
+
+3、电子商务是互联网应用的其中一种：：
+ 正确答案：对
+√
+
+×
+
+4、最初的架构，应用程序、数据库、文件都部署在一台服务器上：：
+ 正确答案：对
+√
+
+×
+
+5、将系统服务化后不遵循MVC设计模式：：
+ 正确答案：错
+√
+
+×
+
+6、向面服务化架构是将应用拆分成N个服务，通过RPC进行服务通信：：
+ 正确答案：对
+√
+
+×
+
+7、MVC设计模式有利于软件工程化管理：：
+ 正确答案：对
+√
+
+×
+
+8、向面服务化架构适合小型项目：：
+ 正确答案：错
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中说法有误的是：
+   正确答案：D
+A  bootstrap支持谷歌浏览器
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap必须在移动设备上使用
+
+2、bootstrap框架是由哪家公司开源的：
+   正确答案：A
+A  Twitter
+
+B  Google
+
+C  Facebook
+
+D  Baidu
+
+3、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+   正确答案：D
+A  like
+
+B  match
+
+C  against
+
+D  regexp
+
+4、Hibernate核心配置文件的后缀名是：
+   正确答案：A
+A  .xml
+
+B  .hbm
+
+C  .doc
+
+D  .properties
+
+5、firebug属于哪款浏览器调试工具：
+   正确答案：C
+A  IE
+
+B  以下都是
+
+C  火狐
+
+D  谷歌
+
+6、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：A
+A  bootstrap.min.css
+
+B  bootstrap.min.css
+
+C  jquery.js
+
+D  bootstrap.min.js
+
+7、对于Hibernate框架，下面的说法不正确的是：
+   正确答案：A
+A  Hibernate会使数据库的操作变得复杂
+
+B  ibernate是一种数据持久化技术
+
+C  使用Hibernate可以简化持久化层的编码
+
+D  Hibernate是一个ORM的实现
+
+8、spring中,bean的作用域不包括？：
+   正确答案：A
+A  response
+
+B  singleton
+
+C  prototype
+
+D  request
+
+9、struts1 的核心控制器是()：
+   正确答案：D
+A  DispatcherServlet
+
+B   FiltDispatche
+
+C   FiltDispatcherAction
+
+D   ActionServlet
+
+10、bootstrap中pagination说法正确的是：
+   正确答案：B
+A  Bootstrap 的组件不支持定制
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap不是开源的
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+11、firebug属于哪款浏览器调试工具：
+   正确答案：D
+A  谷歌
+
+B  以下都是
+
+C  IE
+
+D  火狐
+
+12、Hibernate核心配置文件的后缀名是：
+   正确答案：B
+A  .properties
+
+B  .xml
+
+C  .doc
+
+D  .hbm
+
+13、struts1 的核心控制器是()：
+   正确答案：A
+A   ActionServlet
+
+B   FiltDispatcherAction
+
+C   FiltDispatche
+
+D  DispatcherServlet
+
+14、bootstrap中说法有误的是：
+   正确答案：D
+A  bootstrap支持谷歌浏览器
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap必须在移动设备上使用
+
+15、bootstrap框架是由哪家公司开源的：
+   正确答案：D
+A  Facebook
+
+B  Google
+
+C  Baidu
+
+D  Twitter
+
+16、spring中,bean的作用域不包括？：
+   正确答案：D
+A  prototype
+
+B  request
+
+C  singleton
+
+D  response
+
+17、对于Hibernate框架，下面的说法不正确的是：
+   正确答案：C
+A  ibernate是一种数据持久化技术
+
+B  使用Hibernate可以简化持久化层的编码
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  Hibernate是一个ORM的实现
+
+18、下列bootstrap关于大小样式缩写错误的是：
+   正确答案：B
+A  sm是small的缩写;
+
+B  lg是lag的缩写;
+
+C  xs是extremely small的缩写。
+
+D  md是mid的缩写;
+
+19、bootstrap中pagination说法正确的是：
+   正确答案：C
+A  bootstrap不是开源的
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  Bootstrap 的组件不支持定制
+
+20、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：B
+A  jquery.js
+
+B  bootstrap.min.css
+
+C  bootstrap.min.css
+
+D  bootstrap.min.js
+
+多选题：
+
+1、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：C ; D
+A <s:form>
+
+B <s: textfield>
+
+C <c:out>
+
+D <bean:write>
+
+2、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：A ; B ; C
+A String a2[]={"string1","string1","string1"}; 
+
+B int a1[]={3,4,5};
+
+C int[][] a4=new int[3][3]; 
+
+D String a3[]=new String(3);
+
+3、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：C ; D
+A struts2框架可以脱离web容器运行
+
+B struts2框架定义了访问数据库的方式；
+
+C struts2框架的运行环境是web容器；
+
+D struts2框架的主要作用是处理Http请求；
+
+4、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：C ; D
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 立即发送sql语句与数据库同步；
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+5、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：A ; B
+A select sysdate()
+
+B select now()
+
+C select now() from dual
+
+D select today()
+
+6、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：A ; B ; D
+A int a1[]={3,4,5};
+
+B String a2[]={"string1","string1","string1"}; 
+
+C String a3[]=new String(3);
+
+D int[][] a4=new int[3][3]; 
+
+7、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：B ; C
+A select today()
+
+B select sysdate()
+
+C select now()
+
+D select now() from dual
+
+8、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：C ; D
+A struts2框架可以脱离web容器运行
+
+B struts2框架定义了访问数据库的方式；
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架的运行环境是web容器；
+
+9、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：B ; D
+A <s: textfield>
+
+B <bean:write>
+
+C <s:form>
+
+D <c:out>
+
+10、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：A ; B
+A 事务提交时发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步；
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+2、MVC中的C是控制层：：
+ 正确答案：对
+√
+
+×
+
+3、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+4、bootstrap支持响应式布局：：
+ 正确答案：对
+√
+
+×
+
+5、bootstrap是开源的：：
+ 正确答案：对
+√
+
+×
+
+6、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+ 正确答案：错
+√
+
+×
+
+7、MVC中的C是控制层：：
+ 正确答案：对
+√
+
+×
+
+8、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+9、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+10、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、struts2的文本域标签是：：
+   正确答案：D
+A  path
+
+B  name
+
+C  file
+
+D  textarea
+
+2、下面不是ORM实现的是(       )：：
+   正确答案：A
+A  jsp
+
+B  ibatis
+
+C  Hibernate
+
+D  mybatis
+
+3、在乐扣商城中，用户管理增加说法正确的是( )：
+   正确答案：B
+A  用户管理模块中，增加用户功能不重要
+
+B  用户管理模块中，有增加用户功能
+
+C  以上都对
+
+D  用户管理模块中，没有增加用户功能
+
+4、struts1 的核心控制器是()：：
+   正确答案：D
+A  FiltDispatche
+
+B  FiltDispatcherAction
+
+C  DispatcherServlet
+
+D  ActionServlet
+
+5、下面属于jsp动作的是：
+   正确答案：A
+A  <jsp:include>
+
+B  <jsp:paramBean>
+
+C  <jsp:user>
+
+D  <jsp:session>
+
+6、关于乐扣商城项目的说法正确的是( )：
+   正确答案：D
+A  一个电商项目的不需要建立企业的发展
+
+B  一个电商项目的不需要企业需求
+
+C  一个电商项目的不需要客户实际的需求与公司的发展
+
+D  一个电商项目的确立是建立在各种各样的需求上面的，这种需求往往来自于客户的实际需求或者是出于公司自身发展的需要
+
+7、Struts1的默认配置文件存放的位置是：
+   正确答案：B
+A  lib
+
+B  WEB-INF
+
+C  WebRoot
+
+D  src
+
+8、Struts1配置文件默认的名称是：
+   正确答案：B
+A  Struts2.xml
+
+B  struts-config.xml
+
+C  struts.xml
+
+D  Struts2-config.xml
+
+9、Struts1 的默认配置文件是在(   )目录下：
+   正确答案：A
+A  WEB-INF
+
+B  src
+
+C  以上都不对
+
+D  lib
+
+10、下面说法正确的是( )：
+   正确答案：C
+A  struts1没有配置文件
+
+B  struts1 不是框架
+
+C  struts1的技术根本就是jsp+servlet
+
+D  struts1不开源
+
+11、关于struts1描述对的是( )：
+   正确答案：B
+A  struts1不能通过xml修改配置
+
+B  struts1的本质是jsp+servlet
+
+C  struts1 不能做web开发
+
+D  struts1代码不公开
+
+12、不带js的html网站与jsp网站的重要区别是( )：
+   正确答案：D
+A  看网站有没有广告
+
+B  以上都对
+
+C  看网站有没有会动的图片
+
+D  html不能与数据库交互数据，jsp能与数据库交互数据
+
+13、下在哪个属于微服务实现框架：
+   正确答案：C
+A  spring
+
+B  springmvc
+
+C  dubbo
+
+D  mybatis
+
+14、关系商品规格正确说法是：：
+   正确答案：B
+A  以上都是
+
+B  规格确定为这个商品有多少种。规格组合牵扯价格、库存甚至货号（商家编码）
+
+C  是对商品特性的描述
+
+D  是商品属性，与价格、库存无任何关系
+
+15、SOA是指：
+   正确答案：C
+A  把Service层采用面向接口编程
+
+B  对MVC设计模式的改进
+
+C  SOA是一种粗粒度、松耦合服务架构
+
+D  是一种设计模式
+
+16、目前电子网购交易量最大的是：
+   正确答案：A
+A  移动端
+
+B  PC端
+
+C  线下
+
+D  以上都不是
+
+17、商品详情页面为什么要使用静态页面：
+   正确答案：A
+A  访问量高
+
+B  页面布局过于复杂
+
+C  JSP无法实现
+
+D  商品业务数据字段多
+
+18、对于类目的设计合适的说法：
+   正确答案：C
+A  使用列表展示方式进行展示
+
+B  以上都可以
+
+C  使用树状层次结构进行展示
+
+D  使用纵向表格展示
+
+19、Springmvc中哪个注解返回JSON数据：
+   正确答案：A
+A  ResponseBody注解
+
+B  ModelAttribute注解
+
+C  SessionAttributes注解
+
+D  RequestBody注解
+
+20、商品业务模块中类型作用是什么：
+   正确答案：A
+A  将规格、品牌关系起来，并提供其实商品属性，方便与类目进行关联
+
+B  为了给商品定义不同价格
+
+C  是对商品的分类
+
+D  是对商品特性的定义不同描述
+
+21、代码复用技术的发展过程：
+   正确答案：C
+A  面向服务--->面向组件---->面向过程---->面向对象
+
+B  面向组件---->面向过程---->面向对象--->面向服务
+
+C  面向过程---->面向对象--->面向组件---->面向服务
+
+D  以上都不是
+
+多选题：
+
+1、关于jsp的原理说法正确的是：
+						 
+ 正确答案：C ; D
+A jsp全称JavaScript
+
+B jsp中可以书写PHP和.net代码
+
+C error.jsp经过转译之后的文件的名称是error_jsp.java
+
+D jsp经过转译之后的文件在tomcat的work文件夹下面
+
+2、关于create下面说法正确的是：
+						 
+ 正确答案：A ; C
+A 可以用来创建视图
+
+B 是DML语句
+
+C 是DDL语句
+
+D 用它来创建表的时候，若是表名已经存在会把原来的表覆盖掉
+
+3、乐扣商城会涉及的知识点有：
+						 
+ 正确答案：A ; B ; C ; D
+A spring
+
+B struts2
+
+C hibernate
+
+D jsp
+
+4、Struts2的优势在于：
+						 
+ 正确答案：A ; C ; D
+A 具有良好的架构和设计
+
+B 耦合的比较强的框架
+
+C 是一个开源的框架
+
+D 可重用、模块化、扩展性好
+
+5、未来电子商务发展趋势：
+						 
+ 正确答案：A ; B ; D
+A 社交购物
+
+B O2O
+
+C 以上全不是
+
+D 移动购物
+
+6、使用Dubbo架构项目时不合理的说法：
+						 
+ 正确答案：B ; C
+A 把服务提供者和消费者放在同一工程中
+
+B 把服务实现和接口放在两个不同工程中
+
+C 把公共通用组件单独建立一个工程
+
+D 把服务实现和接口放在同一工程中
+
+7、大型电商系统面临的技术挑战有哪些：
+						 
+ 正确答案：B ; D
+A 以上全是
+
+B 业务流程复杂
+
+C 技术含量低
+
+D 用户访问量大
+
+8、在网站项目开发中使用伪静态页面的特点是什么？：
+						 
+ 正确答案：B ; C
+A 提升访问速度
+
+B 提升用户访问体验
+
+C 使于搜索引擎收录网站
+
+D 比静态页面流行
+
+9、典型的电子商务经营模式有哪些：
+						 
+ 正确答案：A ; B ; C ; D
+A B2C
+
+B O2O
+
+C B2B
+
+D C2C
+
+10、在商品业务模块中类型与分类的关系是：
+						 
+ 正确答案：
+A 54
+
+B 一对一
+
+C 多对多
+
+D 多对一
+
+判断题：
+
+1、乐扣商城中可以没有用户管理模块：：
+ 正确答案：错
+√
+
+×
+
+2、要运行javaScript电脑必须安装jdk：：
+ 正确答案：错
+√
+
+×
+
+3、Struts2在中前后台之间能交互数据：：
+ 正确答案：对
+√
+
+×
+
+4、Struts2是apache旗下的框架：：
+ 正确答案：对
+√
+
+×
+
+5、Dubbo的服务调用底层实质是RPC：：
+ 正确答案：对
+√
+
+×
+
+6、SKU是物理上不可分割的最小存货单元。在使用时要根据不同业态，不同管 理模式来处理。：：
+ 正确答案：对
+√
+
+×
+
+7、属性值、特性相同的商品就可以称为一个SPU：：
+ 正确答案：对
+√
+
+×
+
+8、在分布式应用中Session是保存在任意一台应用服务器上：：
+ 正确答案：错
+√
+
+×
+
+9、服务消费者是直接调用服务注册中心，然后由服务注册中心再调用服务提供者：：
+ 正确答案：错
+√
+
+×
+
+
+单选题：
+
+1、Hibernate核心配置文件的后缀名是：
+   正确答案：B
+A  .hbm
+
+B  .xml
+
+C  .doc
+
+D  .properties
+
+2、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+   正确答案：D
+A  against
+
+B  match
+
+C  like
+
+D  regexp
+
+3、bootstrap中pagination说法正确的是：
+   正确答案：C
+A  bootstrap跟jQuery一样提供了很多dom操作方法
+
+B  bootstrap不是开源的
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  Bootstrap 的组件不支持定制
+
+4、spring中,bean的作用域不包括？：
+   正确答案：C
+A  singleton
+
+B  prototype
+
+C  response
+
+D  request
+
+5、Hibernate核心配置文件的后缀名是：
+   正确答案：B
+A  .properties
+
+B  .xml
+
+C  .hbm
+
+D  .doc
+
+6、下面操作可以通过ID获得页面元素：：
+   正确答案：B
+A  $(ID)
+
+B  $("#ID")
+
+C  $(".ID")
+
+D  $("ID")
+
+7、firebug属于哪款浏览器调试工具：
+   正确答案：D
+A  以下都是
+
+B  IE
+
+C  谷歌
+
+D  火狐
+
+8、Hibernate中对象在session关闭之后的状态是：：
+   正确答案：D
+A  singleton
+
+B  Transient
+
+C  Persistent
+
+D  Detached
+
+9、下列不属于sql的聚合函数的是：：
+   正确答案：A
+A  today
+
+B  count
+
+C  min
+
+D  max
+
+10、Hibernate中获取最大id,在此基础上加1的主键生成策略为（ ）：
+   正确答案：A
+A  increment
+
+B  sequence
+
+C  native
+
+D  uuid
+
+11、Spring中的bean的描述不正确的是：：
+   正确答案：B
+A  在Spring技术中是基于组件的
+
+B  必须通过new关键字来实例化
+
+C  其实例保存在sprig的容器中
+
+D  是最基本也是最常用的单元
+
+12、关于Spring中的ApplicationContext接口的描述不正确的是：：
+   正确答案：A
+A  持久化支持
+
+B  对事件的支持
+
+C  国际化支持
+
+D  继承自BeanFactory接口
+
+13、对于Hibernate框架，下面的说法正确的是：
+   正确答案：D
+A  hibernate的实体必须有id字段
+
+B  Hibernate只能操作mysql数据库
+
+C  使用Hibernate必须引入spring
+
+D  Hibernate是一个ORM的实现
+
+14、Oracle特有的主键生成策略是：：
+   正确答案：C
+A  oracle
+
+B  sqlserver
+
+C  sequence
+
+D  mysql
+
+15、struts2动态调用的格式为：(    )：：
+   正确答案：C
+A  ActionName*methodName.action
+
+B  ActionName@mathodName.action
+
+C  ActionName!methodName.action
+
+D  ActionName?methodName.action
+
+16、在使用interface声明一个接口时，可以使用什么修饰符修饰该接口：
+   正确答案：B
+A  private protected
+
+B  public
+
+C  private
+
+D  protected
+
+17、struts概念是( )：：
+   正确答案：B
+A  struts不是基于MVC设计模式的框架
+
+B  struts是Apache组织开发的基于MVC设计模式的一个开源的框架
+
+C  struts不是框架
+
+D  struts不是Apache组织开发的
+
+18、bootstrap框架是由哪家公司开源的：
+   正确答案：C
+A  Baidu
+
+B  Google
+
+C  Twitter
+
+D  Facebook
+
+19、jquery中$.ajax()的dataType是：
+   正确答案：B
+A  提交的类型
+
+B  服务器返回的数据类型
+
+C  发送请求的地址
+
+D  发送的数据
+
+20、struts的理解正确的是：
+   正确答案：B
+A  struts不是Apache组织开发的
+
+B  struts是Apache旗下的框架
+
+C  struts不是基于MVC设计模式的框架
+
+D  struts不是框架
+
+多选题：
+
+1、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：A ; D
+A <c:out>
+
+B <s: textfield>
+
+C <s:form>
+
+D <bean:write>
+
+2、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：A ; B ; C
+A String a2[]={"string1","string1","string1"}; 
+
+B int a1[]={3,4,5};
+
+C int[][] a4=new int[3][3]; 
+
+D String a3[]=new String(3);
+
+3、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：B ; C
+A 立即发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+4、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：A ; D
+A <bean:write>
+
+B <s: textfield>
+
+C <s:form>
+
+D <c:out>
+
+5、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; C
+A struts2框架可以脱离web容器运行
+
+B struts2框架的主要作用是处理Http请求；
+
+C struts2框架的运行环境是web容器；
+
+D struts2框架定义了访问数据库的方式；
+
+6、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：A ; D
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架定义了访问数据库的方式；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的运行环境是web容器；
+
+7、bootstrap是基于什么组成的：
+						 
+ 正确答案：B ; C ; D
+A JAVA
+
+B JAVASCRIPT
+
+C CSS
+
+D HTML
+
+8、以下属于struts2动作执行的结果类型Result Type的是  (     )：：
+						 
+ 正确答案：A ; C ; D
+A redirect
+
+B action
+
+C redirectAction
+
+D dispatcher
+
+9、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：C ; D
+A select today()
+
+B select now() from dual
+
+C select sysdate()
+
+D select now()
+
+10、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：A ; B
+A <bean:write>
+
+B <c:out>
+
+C <s: textfield>
+
+D <s:form>
+
+判断题：
+
+1、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+2、bootstrap支持响应式布局：：
+ 正确答案：对
+√
+
+×
+
+3、MVC中的C是控制层：：
+ 正确答案：对
+√
+
+×
+
+4、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+5、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+6、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+ 正确答案：错
+√
+
+×
+
+7、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+8、 MyBatis 现属于apache的一个开源项目：：
+ 正确答案：错
+√
+
+×
+
+9、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+10、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中说法有误的是：
+   正确答案：A
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap支持自定义 Bootstrap 组件
+
+2、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：A
+A  bootstrap.min.css
+
+B  jquery.js
+
+C  bootstrap.min.css
+
+D  bootstrap.min.js
+
+3、Spring中的bean的描述不正确的是：：
+   正确答案：C
+A  其实例保存在sprig的容器中
+
+B  是最基本也是最常用的单元
+
+C  必须通过new关键字来实例化
+
+D  在Spring技术中是基于组件的
+
+4、Hibernate中获取最大id,在此基础上加1的主键生成策略为（ ）：
+   正确答案：B
+A  native
+
+B  increment
+
+C  sequence
+
+D  uuid
+
+5、Oracle特有的主键生成策略是：：
+   正确答案：C
+A  oracle
+
+B  sqlserver
+
+C  sequence
+
+D  mysql
+
+6、spring中,bean的作用域不包括？：
+   正确答案：D
+A  request
+
+B  prototype
+
+C  singleton
+
+D  response
+
+7、MyBatis框架是一个什么样的框架：
+   正确答案：B
+A  整合框架
+
+B  数据持久化框架
+
+C  js框架
+
+D  MVC框架
+
+8、bootstrap中pagination说法正确的是：
+   正确答案：C
+A  Bootstrap 的组件不支持定制
+
+B  bootstrap不是开源的
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+9、对于Hibernate框架，下面的说法不正确的是：
+   正确答案：C
+A  Hibernate是一个ORM的实现
+
+B  hibernate是一种数据持久化技术
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  使用Hibernate可以简化持久化层的编码
+
+10、firebug属于哪款浏览器调试工具：
+   正确答案：C
+A  谷歌
+
+B  以下都是
+
+C  火狐
+
+D  IE
+
+11、在Controller类中可以使用到的注解有：：
+   正确答案：B
+A  @servlet
+
+B  @Controller
+
+C  @Auto
+
+D  @RequestMap
+
+12、bootstrap中哪个是按钮的默认样式类：
+   正确答案：D
+A  .btn-success
+
+B  .btn-primary
+
+C  .btn
+
+D  .btn-default
+
+13、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+   正确答案：A
+A   .col-xs-4
+
+B   .col-xs-2
+
+C   .col-xs-6
+
+D   .col-xs-3
+
+14、下列bootstrap关于大小样式缩写错误的是：
+   正确答案：C
+A  xs是extremely small的缩写。
+
+B  sm是small的缩写;
+
+C  lg是lag的缩写;
+
+D  md是mid的缩写;
+
+15、Hibernate核心配置文件的后缀名是：
+   正确答案：C
+A  .hbm
+
+B  .properties
+
+C  .xml
+
+D  .doc
+
+16、关于Spring中的ApplicationContext接口的描述不正确的是：：
+   正确答案：D
+A  继承自BeanFactory接口
+
+B  对事件的支持
+
+C  国际化支持
+
+D  持久化支持
+
+17、不带js的html网站与jsp网站的重要区别是( )：
+   正确答案：D
+A  看网站有没有会动的图片
+
+B  看网站有没有广告
+
+C  以上都对
+
+D  html不能与数据库交互数据，jsp能与数据库交互数据
+
+18、bootstrap框架是由哪家公司开源的：
+   正确答案：A
+A  Twitter
+
+B  Facebook
+
+C  Baidu
+
+D  Google
+
+19、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：A
+A  bootstrap.min.css
+
+B  bootstrap.min.js
+
+C  jquery.js
+
+D  bootstrap.min.css
+
+20、下面操作可以通过ID获得页面元素：：
+   正确答案：D
+A  $(ID)
+
+B  $("ID")
+
+C  $(".ID")
+
+D  $("#ID")
+
+多选题：
+
+1、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：C ; D
+A <s:form>
+
+B <s: textfield>
+
+C <bean:write>
+
+D <c:out>
+
+2、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：A ; C
+A select now()
+
+B select today()
+
+C select sysdate()
+
+D select now() from dual
+
+3、struts2中下列说法不正确的为( )：：
+						 
+ 正确答案：A ; B
+A strtus2基于struts1
+
+B struts2是侵入型框架，严重依赖servletAPI
+
+C struts2是非侵入型框架，不严重依赖servletAPI
+
+D struts2基于webwork
+
+4、静态代理由_________和__________和__________三部分构成：
+						 
+ 正确答案：A ; B ; D
+A 真实实现
+
+B 接口
+
+C 目标类
+
+D 代理实现
+
+5、bootstrap是基于什么组成的：
+						 
+ 正确答案：B ; C ; D
+A JAVA
+
+B JAVASCRIPT
+
+C CSS
+
+D HTML
+
+6、关于类继承关系的映射，下列说法正确的是：：
+						 
+ 正确答案：C ; D
+A 继承关系不能映射；
+
+B 只将继承关系中的子类分别映射成不同的表；
+
+C 父类映射成一张表，各子类将其特有属性分别映射成不同的表
+
+D 可以将继承关系中的每个类映射到一张表中；
+
+7、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：A ; C ; D
+A int a1[]={3,4,5};
+
+B String a3[]=new String(3);
+
+C String a2[]={"string1","string1","string1"}; 
+
+D int[][] a4=new int[3][3]; 
+
+8、在bootstrap中,下面哪三个元素可以使用按钮样式：
+						 
+ 正确答案：A ; B ; D
+A <a>元素
+
+B <input>元素
+
+C btn元素
+
+D <button>元素
+
+9、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：B ; C
+A 立即发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+10、bootstrap是基于什么组成的：
+						 
+ 正确答案：A ; C ; D
+A CSS
+
+B JAVA
+
+C JAVASCRIPT
+
+D HTML
+
+判断题：
+
+1、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+2、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+3、 MyBatis 现属于apache的一个开源项目：：
+ 正确答案：错
+√
+
+×
+
+4、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+ 正确答案：对
+√
+
+×
+
+5、MVC中的C是控制层：：
+ 正确答案：对
+√
+
+×
+
+6、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+ 正确答案：错
+√
+
+×
+
+7、“行（row）”必须包含在 .container （固定宽度）或 .container-fluid （100% 宽度）中，以便为其赋予合适的排列（aligment）和内补（padding）：：
+ 正确答案：对
+√
+
+×
+
+8、Bootstrap 轮播（Carousel）插件是一种灵活的响应式的向站点添加滑块的方式：：
+ 正确答案：对
+√
+
+×
+
+9、 MyBatis 现属于apache的一个开源项目：：
+ 正确答案：错
+√
+
+×
+
+10、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、关于Zookper的说法正确的是：：
+   正确答案：A
+A  它是一个服务注册中心
+
+B  它是一个数据库中间件
+
+C  它是一个分布式缓存
+
+D  它是一个NOSQL数据库
+
+2、把通用的代码独立成一个工程的原因是：
+   正确答案：C
+A  使得项目代码更清晰
+
+B  为了更好管理代码
+
+C  终于构建成独立的构件供其它工程引用，为了代码复用
+
+D  以上都不是
+
+3、关于分布式说明正确的是：：
+   正确答案：C
+A  分布式是指把项目拆分成很个jar包
+
+B  分布式是指将所有业务放在一个地方
+
+C  分布式是指将不同的业务分布在不同的地方
+
+D  分布式是把数据库和应用部署到不同服务器
+
+4、下面哪个模块中会用到Lucene：
+   正确答案：D
+A  商品查询
+
+B  规格查询
+
+C  类目查询
+
+D  商品搜索
+
+5、关于高可用的说明正确的是：
+   正确答案：A
+A  高可用是通过备机来实现
+
+B  以上说法都不对
+
+C  高可用降低应用的性能
+
+D  高可用是不安全的
+
+6、天天特价属性于哪个模块：
+   正确答案：D
+A  
+
+B  交易模块
+
+C  商品模块
+
+D  CMS模块
+
+7、Web模块包括了哪些组件：
+   正确答案：B
+A  工具类
+
+B  视图和控制器
+
+C  Service组件接口
+
+D  Service组件实现类
+
+8、将ECSHOP商城中的前台和后台独立成两个独立的WEB应用的原因是：：
+   正确答案：D
+A  功能更全面
+
+B  开发更简单
+
+C  提高代码复用
+
+D  模块独立，职责更清晰
+
+9、关于cookie说法正确的是：
+   正确答案：C
+A  存放在缓存中
+
+B  存放在数据库中
+
+C  存放在客户端
+
+D  存放在服务端
+
+10、用户登录后登录信息存放在什么中：
+   正确答案：A
+A  session
+
+B  request
+
+C  response
+
+D  application
+
+11、Web模块调用的是哪个模块：
+   正确答案：B
+A  工程父模块
+
+B  服务API模块
+
+C  Web模块
+
+D  服务实现模块
+
+12、为了安全考虑jsp视图页面应该放在Web应用的哪个目录下：
+   正确答案：C
+A  类路径下
+
+B  根目录下
+
+C  WEB-INF目录下
+
+D  lib目录下
+
+13、在maven项目中配置文件应该放在哪个目录下：
+   正确答案：B
+A  src/main/java
+
+B  src/main/resources
+
+C  src/test/java
+
+D  src/test/resources
+
+14、关于服务实现层说法正确的是：
+   正确答案：B
+A  依赖于Web层
+
+B  依赖于服务接口
+
+C  依赖于视图层
+
+D  不依赖于任何组件
+
+15、关于JSP说明不正确的是：：
+   正确答案：D
+A  JSP视图技术已在JavaEE7规范中标注为过时视图技术
+
+B  JSP的性能低于Freemark、Vilocity等模板视图
+
+C  JSP与能进行请求处理和响应数据
+
+D  JSP与HTML相比,JSP性能更高
+
+16、springmvc中文件上传用什么类型参数接收：
+   正确答案：A
+A  MultipartFile
+
+B  Date
+
+C  Integer
+
+D  String
+
+17、在Restful风格请求中PUT请求方式对应数据表的哪种操作：
+   正确答案：B
+A  Commit操作
+
+B  更新操作
+
+C  查询操作
+
+D  删除操作
+
+18、如果要能够支持第三方登录首先要做什么：
+   正确答案：A
+A  绑定第三方账号
+
+B  调用支付接口
+
+C  调用搜索接口
+
+D  调短信接口
+
+19、账户充值需要选择什么：
+   正确答案：A
+A  支付方式
+
+B  接口方式
+
+C  请求方式
+
+D  以上都不选择
+
+20、springmvc中RequestHeader注解的作用：
+   正确答案：B
+A  获取Cookie的中的内容
+
+B  获取请求头的内容
+
+C  获取请求休内容
+
+D  获取请求参数
+
+21、关于发送邮件时配置邮件服务器信息不正确的是：：
+   正确答案：D
+A  邮件密码
+
+B  邮件用户名
+
+C  邮件服务器地址
+
+D  http协议
+
+22、关于RequestMapping注解的method属性的作用：
+   正确答案：B
+A  限定请求头内容
+
+B  限定请求方式
+
+C  限定请求参数
+
+D  以上都不正确
+
+23、springmvc中CookieValue注解的作用：
+   正确答案：C
+A  获取请求参数
+
+B  用于修改Cookie
+
+C  获取请求体Cookie的内容
+
+D  获取请求头的内容
+
+24、springmvc 中RequestParam注解的作用：
+   正确答案：C
+A  初始化数据绑定
+
+B  获取请求头的内容
+
+C  从指定的请求参数名中获取请求参数值
+
+D  用于将请求映射到请求处理方法上
+
+25、在Restfull中POST请求方式对应数据表的哪种操作：
+   正确答案：B
+A  查询操作
+
+B  修改操作
+
+C  删除操作
+
+D  插入操作
+
+多选题：
+
+1、Nginx在企业中功能应用是：：
+						 
+ 正确答案：B ; C
+A 后端业务数据缓存
+
+B 反向代理或负载均衡服务
+
+C 前端业务数据缓存
+
+D 
+
+2、ECSHOP后台有哪此功能?：
+						 
+ 正确答案：A ; B ; D
+A 分类管理
+
+B 品管管理
+
+C 商品搜索
+
+D 商品管理
+
+3、公共模块中可以细分为哪些模块：
+						 
+ 正确答案：B ; C ; D
+A 商品Service模块组件
+
+B 系统Web层公共类库
+
+C 系统公共类库
+
+D 系统公共配置
+
+4、找加密码功能可能用到的技术：
+						 
+ 正确答案：A ; C
+A 短信服务商接口
+
+B 全文检索
+
+C javamail规范
+
+D 数据缓存
+
+5、关于注销功能说明正确的是：
+						 
+ 正确答案：A ; B
+A 要清除session用户信息
+
+B 要删除cookie中存放的用户信息
+
+C 删除session属性范围中的数据
+
+D 删除request属性范围中的数据
+
+6、站内普通消息包括哪种：
+						 
+ 正确答案：A ; D
+A 系统发送的消息
+
+B 短信消息
+
+C QQ消息
+
+D 好友直接发送的消息
+
+7、如果要能够支持第三方登录首先要做什么：
+						 
+ 正确答案：A ; D
+A 调用支付接口
+
+B 调短信接口
+
+C 调用搜索接口
+
+D 绑定第三方账号
+
+8、站内消息主要包括哪些字段：
+						 
+ 正确答案：B ; C ; D
+A QQ号码
+
+B 发送人
+
+C 发送内容
+
+D 发送时间
+
+判断题：
+
+1、向面服务化架构是将应用拆分成N个服务，通过RPC进行服务通信：：
+ 正确答案：对
+√
+
+×
+
+2、向面服务化架构适合小型项目：：
+ 正确答案：错
+√
+
+×
+
+3、在分布式环境中登录后的用户信息可以集中保存在缓存服务器中：：
+ 正确答案：对
+√
+
+×
+
+4、第三方支付需要调用第三方服务商支付接口：：
+ 正确答案：对
+√
+
+×
+
+5、HTTP接口中只能用json传递数据：：
+ 正确答案：错
+√
+
+×
+
+6、调用接口需要验证签名：：
+ 正确答案：对
+√
+
+×
+
+7、发送短信需要调用第三方服务商短信发送接口：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中说法有误的是：
+   正确答案：B
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap必须在移动设备上使用
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持火狐浏览器
+
+2、bootstrap中pagination说法正确的是：
+   正确答案：A
+A  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+B  Bootstrap 的组件不支持定制
+
+C  bootstrap不是开源的
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+3、struts1 的核心控制器是()：
+   正确答案：D
+A   FiltDispatcherAction
+
+B  DispatcherServlet
+
+C   FiltDispatche
+
+D   ActionServlet
+
+4、Hibernate核心配置文件的后缀名是：
+   正确答案：C
+A  .doc
+
+B  .properties
+
+C  .xml
+
+D  .hbm
+
+5、bootstrap中说法有误的是：
+   正确答案：C
+A  bootstrap支持谷歌浏览器
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+6、firebug属于哪款浏览器调试工具：
+   正确答案：D
+A  以下都是
+
+B  谷歌
+
+C  IE
+
+D  火狐
+
+7、bootstrap中说法有误的是：
+   正确答案：D
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap必须在移动设备上使用
+
+8、AngularJs中ng-repeat指令说法正确的是：
+   正确答案：C
+A  为应用程序数据提供状态
+
+B  为应用程序数据提供类型验证
+
+C  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+D  为 HTML 元素提供 CSS 类
+
+9、下列bootstrap关于下拉菜单说法错误的是：
+   正确答案：B
+A  使用dropup可以向上弹出菜单
+
+B  使用dropdown-lg可以指定菜单的大小
+
+C  使用.divider可以添加下拉菜单中的分割线
+
+D  使用dropdown-header可以给下拉菜单可以添加标题
+
+10、能够让文字居中的bootstrap样式是：
+   正确答案：B
+A  center
+
+B  text-center
+
+C  block-center
+
+D  help-block
+
+11、bootstrap中下列说法错误的是：
+   正确答案：A
+A  danger类标记显示的是黑色的
+
+B  success类标记显示的是绿色的
+
+C  在一个普通的table标签上加 class="table"即可以将之显示为bootstrap样式的表单
+
+D  warning类标记显示的是黄色的
+
+12、要使用bootstrap最基本样式功能必须引入的文件是：
+   正确答案：A
+A  bootstrap.min.css
+
+B  bootstrap.min.js
+
+C  jquery.js
+
+D  bootstrap.min.css
+
+13、jquery中$.ajax()的dataType是：
+   正确答案：C
+A  发送请求的地址
+
+B  发送的数据
+
+C  服务器返回的数据类型
+
+D  提交的类型
+
+14、下列bootstrap关于大小样式缩写错误的是：
+   正确答案：B
+A  md是mid的缩写;
+
+B  lg是lag的缩写;
+
+C  sm是small的缩写;
+
+D  xs是extremely small的缩写。
+
+15、下列不属于sql的聚合函数的是：：
+   正确答案：D
+A  min
+
+B  count
+
+C  max
+
+D  today
+
+16、Hibernate的三种状态不包括：
+   正确答案：B
+A  Persistent(持久化)
+
+B  临时游离态
+
+C  Transient(临时)
+
+D  Detached(托管/游离)
+
+17、firebug属于哪款浏览器调试工具：
+   正确答案：A
+A  火狐
+
+B  谷歌
+
+C  以下都是
+
+D  IE
+
+18、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+   正确答案：C
+A   .col-xs-3
+
+B   .col-xs-2
+
+C   .col-xs-4
+
+D   .col-xs-6
+
+19、bootstrap中col-lg-4的意思是（单选）：
+   正确答案：C
+A  任何屏幕下占12份中的4份宽度
+
+B  小屏幕下占12份中的4份宽度
+
+C  大屏幕下占12份中的4份宽度
+
+D  超小屏幕下占12份中的4份宽度
+
+20、bootstrap中描述有误的是：
+   正确答案：D
+A  bootstrap是一个响应式布局框架
+
+B  bootstrap不是w3c的标准
+
+C  bootstrap不需要购买任何授权许可即可以使用
+
+D  bootstrap只支持火狐浏览器
+
+多选题：
+
+1、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+ 正确答案：B ; D
+A 立即发送sql语句与数据库同步；
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+2、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：B ; D
+A <s:form>
+
+B <c:out>
+
+C <s: textfield>
+
+D <bean:write>
+
+3、下面关于数组声明和初始化的语句正确的有？：：
+						 
+ 正确答案：B ; C ; D
+A String a3[]=new String(3);
+
+B int[][] a4=new int[3][3]; 
+
+C String a2[]={"string1","string1","string1"}; 
+
+D int a1[]={3,4,5};
+
+4、bootstrap是基于什么组成的：
+						 
+ 正确答案：A ; C ; D
+A HTML
+
+B JAVA
+
+C CSS
+
+D JAVASCRIPT
+
+5、Spring的两个核心为_____和_______：：
+						 
+ 正确答案：A ; B
+A AOP
+
+B IOC
+
+C ORM
+
+D MVC
+
+6、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; C
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架可以脱离web容器运行
+
+7、超小屏幕下，下列代码说法错误的有：
+&lt;div class=&quot;row&quot; &gt;
+      &lt;div class=&quot;col-xs-6 col-md-offset-3&quot;  &gt;
+        hello
+      &lt;/div&gt;
+   &lt;/div&gt;：
+						 
+ 正确答案：A ; B ; C
+A hello字符所在div宽度占12份中的3份
+
+B hello字符所在div宽度占12份中的9份
+
+C hello字符显示在浏览器的最左边
+
+D hello字符所在div宽度占12份中的6份
+
+8、bootstrap中关于下拉菜单（Dropdowns）说法正确的是：
+						 
+ 正确答案：A ; B ; C
+A 通过向 .dropdown-menu 添加 class .pull-right 来向右对齐下拉菜单
+
+B 菜单默认是向下弹出的
+
+C 使用 class dropdown-header 向下拉菜单的标签区域添加标题
+
+D 菜单无法向上弹出
+
+9、bootstrap中说法正确的有：
+						 
+ 正确答案：A ; D
+A label label-primary显示蓝色标签
+
+B label label-warning显示灰色标签
+
+C label label-default显示白色标签
+
+D label label-info显示浅蓝色标签
+
+10、创建一个数组正确的是：
+						 
+ 正确答案：B ; C ; D
+A var arrayObj = {"123","321"};
+
+B var arrayObj = new Array([size]);
+
+C var arrayObj = new Array([element0[, element1[, ...[, elementN]]]]);
+
+D var arrayObj = new Array();
+
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+2、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+3、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+ 正确答案：对
+√
+
+×
+
+4、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+ 正确答案：错
+√
+
+×
+
+5、“行（row）”必须包含在 .container （固定宽度）或 .container-fluid （100% 宽度）中，以便为其赋予合适的排列（aligment）和内补（padding）：：
+ 正确答案：对
+√
+
+×
+
+6、bootstrap中：在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+7、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+ 正确答案：对
+√
+
+×
+
+8、struts2标签可以与ognl表达式结合起来使用：：
+ 正确答案：对
+√
+
+×
+
+9、在使用Struts2标签时，不需要导入标签库：：
+ 正确答案：错
+√
+
+×
+
+10、当使用&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;意味着移动设备优先，兼容移动设备显示：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、tomcat 更改端口号的配置文件是 ：
+
+  正确答案：A
+
+A  server.xml
+
+B  web.xml
+
+C  config.xml
+
+D  application.xml
+
+2、JDBC中的?号占位符开始值是：：
+
+  正确答案：C
+
+A  0
+
+B  3
+
+C  1
+
+D  2
+
+3、bootstrap中pagination说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap 的组件不支持定制
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap不是开源的
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+4、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：B
+
+A  Hibernate是一个ORM的实现
+
+B  Hibernate会使数据库的操作变得复杂
+
+C  ibernate是一种数据持久化技术
+
+D  使用Hibernate可以简化持久化层的编码
+
+5、MVC中的C是()：
+
+  正确答案：D
+
+A  模型层
+
+B  视图层
+
+C  业务层
+
+D  控制层
+
+6、要使用bootstrap最基本样式功能必须引入的文件是：
+
+  正确答案：D
+
+A  jquery.js
+
+B  bootstrap.css
+
+C  bootstrap.min.js
+
+D  bootstrap.min.css
+
+7、Hibernate更新数据调用session的()：
+
+  正确答案：D
+
+A  get()方法
+
+B  insert()方法
+
+C  load()方法
+
+D  update()方法
+
+8、jquery匹配所有的单行文本框的选择器是：：
+
+  正确答案：A
+
+A  text选择器
+
+B  button选择器
+
+C  singletext选择器
+
+D  input选择器
+
+9、MyBatis框架是一个什么样的框架：
+
+  正确答案：B
+
+A  js框架
+
+B  数据持久化框架
+
+C  MVC框架
+
+D  整合框架
+
+10、在Controller类中可以使用到的注解有：：
+
+  正确答案：C
+
+A  @Auto
+
+B  @RequestMap
+
+C  @Controller
+
+D  @servlet
+
+11、已知总记录数listCount和每页显示的记录数pageSize,求总页数,下面说法正确的是()：
+
+  正确答案：A
+
+A  listCount / pageSize + (listCount % pageSize == 0 ? 0 : 1);
+
+B  listCount / pageSize + (listCount % pageSize != 1 ? 1 : 0);
+
+C  listCount / pageSize + (listCount % pageSize != 0 ? 0 : 1);
+
+D  listCount / pageSize + (listCount % pageSize != 0 ? 1 : 1);
+
+12、引入拦截器的标签是：
+
+  正确答案：D
+
+A  <interceptor>
+
+B  <intercep>
+
+C  <defaull-interceptor-ref>
+
+D   <interceptor-ref>
+
+13、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：C
+
+A   .col-xs-2
+
+B   .col-xs-6
+
+C   .col-xs-4
+
+D   .col-xs-3
+
+14、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：C
+
+A  <environments>
+
+B  <sqlMapConfig>
+
+C  <configuration>
+
+D  <setting>
+
+15、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：D
+
+A  against
+
+B  like
+
+C  match
+
+D  regexp
+
+16、bootstrap框架是由哪家公司开源的：
+
+  正确答案：B
+
+A  Baidu
+
+B  Twitter
+
+C  Google
+
+D  Facebook
+
+17、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  谷歌
+
+B  以下都是
+
+C  火狐
+
+D  IE
+
+18、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：D
+
+A  prototype.js
+
+B  javascript.js
+
+C  Angular.js
+
+D  popover.js
+
+19、struts1 的核心控制器是()：
+
+  正确答案：C
+
+A  DispatcherServlet
+
+B   FiltDispatcherAction
+
+C   ActionServlet
+
+D   FiltDispatche
+
+20、Linux系统中的vi命令，文件没有修改，不可以使用哪个命令进行退出（）：
+
+  正确答案：A
+
+A  :w
+
+B  :wq
+
+C  :q
+
+D  :q!
+多选题：
+
+1、在拦截器中，使用ActionInvocation   ：
+						 
+
+正确答案：A ; B ; C ; D
+
+A  可以获得Action对象；
+
+B  的invoke方法可以调用action的执行方法；
+
+C  的invoke方法可以调用下一个拦截器的intercept方法；
+
+D  可以获得ActionContext对象；
+
+2、Spring整合Struts时那些Spring模块是必须的：
+						 
+
+正确答案：B ; D
+
+A Spring AOP模块
+
+B Spring WEB模块
+
+C Spring MVC模块
+
+D Spring核心模块
+
+3、下面struts2的核心配置文件中的action标签说法正确的是( ：
+						 
+
+正确答案：C ; D
+
+A 一个action标签内只能有一个result标签
+
+B 一个package内只能有一个action标签
+
+C 一个action标签内可以有多个result标签
+
+D 一个package内可以有多个action标签
+
+4、将Action中的属性，以json格式发送到客户端浏览器，需要做的是：
+						 
+
+正确答案：A ; D
+
+A  action的包配置需要继承"json-default"
+
+B  必须在Action中进行json格式的处理；
+
+C 编写jsp页面输出json字符串；
+
+D  导入struts2-json-plugin插件
+
+5、Struts2的action需要向客户端浏览器发送字节流，正确的做法是：
+						 
+
+正确答案：B ; D
+
+A  在Action的配置文件中配置跳转的jsp页面；
+
+B  在Action中设置InputStream类型的属性；
+
+C  在Action中设置OutputStream类型的属性；
+
+D  需要在<result>标签内设置<param name="inputName">的内容
+
+6、下面关于在Spring中配置Bean的name属性的说法正确的是：
+						 
+
+正确答案：A ; B
+
+A name属性不是必须的，可以没有
+
+B name属性的值不可以重复
+
+C name属性的值可以重复
+
+D name属性是必须，没有name属性就会报错
+
+7、针对一个Action的struts.xml文件中，配置如下：
+   &lt;action name=&quot;oneAction&quot; class=&quot;control.OneAction&quot;&gt;
+     &lt;result&gt;output.jsp&lt;/result&gt;
+   &lt;/action&gt;
+   下列哪些说法是正确的？
+：
+						 
+
+正确答案：A ; B
+
+A  (c)result标签的type属性是dispatcher
+
+B  (a)result标签的name属性是"success";
+
+C  (d)result标签的name属性是"none"；
+
+D  (b)result标签的type属性是是NONE；
+
+8、针对一个Action的struts.xml文件中，配置如下：：
+						 
+
+正确答案：A ; C
+
+A  result标签的name属性是"success";
+
+B  result标签的name属性是"none"；
+
+C  result标签的type属性是dispatcher
+
+D  result标签的type属性是是NONE；
+
+9、下面关于在Spring中配置Bean的id属性的说法正确的是：
+						 
+
+正确答案：A ; B
+
+A id属性不是必须的，可以没有
+
+B id属性的值不可以重复
+
+C id属性是必须，没有id属性就会报错
+
+D id属性的值可以重复
+
+10、关于ActionSupport类，下面正确的说法是：
+						 
+
+正确答案：B ; C
+
+A  ActionSupport类提供了Struts2框架的内置验证器；
+
+B  利用ActionSupport类的validate方法可以实施自定义验证；
+
+C  ActionSupport类，提供了访问国际化消息资源文件的方法；
+
+D  编写Action类必须继承ActionSupport类；
+判断题：
+
+1、jdbc对Hibernate实现了轻量级的封装：：：：
+
+正确答案：错	
+
+√
+
+×
+
+2、基本数据类型的数组在创建时系统将指定默认值：：
+
+正确答案：对	
+
+√
+
+×
+
+3、集合（set）中可以包含相同对象：：
+
+正确答案：错	
+
+√
+
+×
+
+4、HQL没有表和字段的概念，只有类和属性的概念：：：
+
+正确答案：对	
+
+√
+
+×
+
+5、select * from stu;中的*代表是表中的所有字段：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Struts2国际化同一组资源文件必须有相同的基名，也就是资源文件名前缀：：
+
+正确答案：对	
+
+√
+
+×
+
+7、SSH框架的搭建没有spring：：：：
+
+正确答案：错	
+
+√
+
+×
+
+8、如果表设置了主外键关键，那么外键的值要在主键范围之内。：：
+
+正确答案：对	
+
+√
+
+×
+
+9、cookie也是服务器端会话技术,session是服务器端会话技术：：
+
+正确答案：错	
+
+√
+
+×
+
+10、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+
+
+单选题：
+
+1、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn
+
+B  .btn-success
+
+C  .btn-primary
+
+D  .btn-default
+
+2、在Controller类中可以使用到的注解有：：
+
+  正确答案：C
+
+A  @RequestMap
+
+B  @servlet
+
+C  @Controller
+
+D  @Auto
+
+3、在AngularJs中,自定义指令可以：
+
+  正确答案：A
+
+A  使用.directive 函数来添加自定义的指令
+
+B  把元素值（比如输入域的值）绑定到应用程序。
+
+C  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+D  初始化应用程序数据
+
+4、AngularJs中ng-repeat指令说法正确的是：
+
+  正确答案：B
+
+A  为 HTML 元素提供 CSS 类
+
+B  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+C  为应用程序数据提供状态
+
+D  为应用程序数据提供类型验证
+
+5、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：C
+
+A  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+B  字体图标大小颜色是固定的无法设置
+
+C  字体图标可以改变字体尺寸、颜色
+
+D  字体图标只能添加在按钮上
+
+6、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：C
+
+A  使用.divider可以添加下拉菜单中的分割线
+
+B  使用dropdown-header可以给下拉菜单可以添加标题
+
+C  使用dropdown-lg可以指定菜单的大小
+
+D  使用dropup可以向上弹出菜单
+
+7、angularjs的根作用域为：
+
+  正确答案：B
+
+A  $sce
+
+B  $rootScope
+
+C  $scope
+
+D  $http
+
+8、在Controller类中可以使用到的注解有：：
+
+  正确答案：B
+
+A  @Auto
+
+B  @Controller
+
+C  @servlet
+
+D  @RequestMap
+
+9、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：D
+
+A  分
+
+B  秒
+
+C  时
+
+D  毫秒
+
+10、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：A
+
+A  .btn-default
+
+B  .btn-success
+
+C  .btn
+
+D  .btn-primary
+
+11、过滤器将字符串格式化为大写的是：
+
+  正确答案：C
+
+A  orderBy
+
+B  lowercase
+
+C  uppercase
+
+D  currency
+
+12、AngularJs中ng-repeat指令说法正确的是：
+
+  正确答案：B
+
+A  为应用程序数据提供状态
+
+B  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+C  为应用程序数据提供类型验证
+
+D  为 HTML 元素提供 CSS 类
+
+13、以下能够删除一列的是：
+
+  正确答案：A
+
+A  alter table emp drop column addcolumn
+
+B  alter table emp delete addcolumn
+
+C  alter table emp delete column addcolumn
+
+D  alter table emp remove addcolumn
+
+14、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap支持谷歌浏览器
+
+15、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：C
+
+A  match
+
+B  against
+
+C  regexp
+
+D  like
+
+16、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：C
+
+A  为了代码复用
+
+B  为了切分职责
+
+C  为了加重工作量
+
+D  为了后期维护方便
+
+17、AngularJs中ng-model指令用于：
+
+  正确答案：C
+
+A  初始化应用程序数据
+
+B  创建模型工厂
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序
+
+18、那个指令可以实现重复一个 HTML 元素：
+
+  正确答案：D
+
+A  ng-include
+
+B  na-src
+
+C  ng-app
+
+D  ng-repeat
+
+19、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：C
+
+A  ng-show
+
+B  ng-model
+
+C  ng-bind
+
+D  ng-init
+
+20、下列哪一项不属于AngularJS 服务(Service)：
+
+  正确答案：D
+
+A  $timeout
+
+B  $interval
+
+C  $http
+
+D  $service
+多选题：
+
+1、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; B
+
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架定义了访问数据库的方式；
+
+2、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int a1[]={3,4,5};
+
+B int[][] a4=new int[3][3]; 
+
+C String a2[]={"string1","string1","string1"}; 
+
+D String a3[]=new String(3);
+
+3、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A HTML
+
+B JAVA
+
+C CSS
+
+D JAVASCRIPT
+
+4、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：B ; D
+
+A MVC
+
+B AOP
+
+C ORM
+
+D IOC
+
+5、AngularJS 应用组成有：
+						 
+
+正确答案：B ; C ; D
+
+A Filter过滤器
+
+B View(视图)，即html
+
+C Controller(控制器), 即 JavaScript 函数
+
+D Model(模型), 当前视图中可用的数据
+
+6、以下哪些是mysql聚合函数：
+						 
+
+正确答案：A ; C
+
+A avg
+
+B all
+
+C sum
+
+D round
+
+7、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 立即发送sql语句与数据库同步；
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+8、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：A ; B ; D
+
+A 脏数据检测会检测rootscope下所有被watcher的元素。
+
+B 每个双向绑定的元素都有一个watcher
+
+C 脏数据检测会检测rootscope下部分被watcher的元素。
+
+D 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+9、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; C
+
+A CSS
+
+B JAVASCRIPT
+
+C HTML
+
+D JAVA
+
+10、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 语义化标签、依赖注入
+
+B 模块化
+
+C MVC
+
+D 自动化双向数据绑定
+判断题：
+
+1、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+2、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数10：：
+
+正确答案：错	
+
+√
+
+×
+
+3、Bootstrap 中的导航组件都依赖同一个 .nav 类，状态是共用的：：
+
+正确答案：对	
+
+√
+
+×
+
+4、MVC是一种框架，是java开发的：：
+
+正确答案：错	
+
+√
+
+×
+
+5、AngularJs中P标签的ng-hide指令的值为true时标签内容不可见：：
+
+正确答案：对	
+
+√
+
+×
+
+6、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+7、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共显示10次：：
+
+正确答案：错	
+
+√
+
+×
+
+8、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl显示出当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+9、&lt;td style=&quot;exam_$even?'background-color: red':''&quot;&gt;}&lt;/td&gt;设置$index偶数行背景为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+10、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+
+正确答案：错	
+
+√
+
+×
+
+
+
+单选题：
+
+1、在Controller类中可以使用到的注解有：：
+
+  正确答案：A
+
+A  @Controller
+
+B  @Auto
+
+C  @servlet
+
+D  @RequestMap
+
+2、AngularJs中ng-model指令用于：
+
+  正确答案：D
+
+A  初始化应用程序
+
+B  初始化应用程序数据
+
+C  创建模型工厂
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+
+3、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：A
+
+A  字体图标可以改变字体尺寸、颜色
+
+B  字体图标大小颜色是固定的无法设置
+
+C  字体图标只能添加在按钮上
+
+D  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+4、AngularJs中ng-model指令用于：
+
+  正确答案：A
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  创建模型工厂
+
+C  初始化应用程序
+
+D  初始化应用程序数据
+
+5、那个指令可以实现重复一个 HTML 元素：
+
+  正确答案：C
+
+A  ng-app
+
+B  na-src
+
+C  ng-repeat
+
+D  ng-include
+
+6、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：C
+
+A  ng-model
+
+B  ng-template
+
+C  ng-controller
+
+D  ng-route
+
+7、关于angularjs说法，错误的是：
+
+  正确答案：C
+
+A  实现了依赖注入
+
+B  前端mvc，极大降低前端开发的耦合
+
+C  极大的丰富了dom操作
+
+D  实现了数据双向绑定
+
+8、假设有如下代码，那么a(10)的返回结果是？
+function a(a)
+{
+  a^=(1&lt;&lt;4)-1;
+   return a;
+}：
+
+  正确答案：D
+
+A  15
+
+B  10
+
+C  16
+
+D  5
+
+9、以下说法正确的是：
+
+  正确答案：D
+
+A  ng_app:定义应用程序的根元素
+
+B  ng-bind-html:规定要使用模板替换的文本内容
+
+C  ng_bind:绑定 HTML 元素到应用程序数据
+
+D  ng-app:定义应用程序的根元素
+
+10、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持火狐浏览器
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持自定义 Bootstrap 组件
+
+11、angulars支持以下（）事件：
+
+  正确答案：A
+
+A  ng-click
+
+B  ng-open
+
+C  ng-switch
+
+D  ng-srcset
+
+12、ng-model与ng-bind的区别是：
+
+  正确答案：C
+
+A  使用ng-model显示速度比ng-bind快
+
+B  没有区别
+
+C  ng-model会绑定到模型，ng-bind不会
+
+D  ng-model可以使用在div上
+
+13、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：B
+
+A  使用dropup可以向上弹出菜单
+
+B  使用dropdown-lg可以指定菜单的大小
+
+C  使用dropdown-header可以给下拉菜单可以添加标题
+
+D  使用.divider可以添加下拉菜单中的分割线
+
+14、&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+       &lt;div class=&quot;col-xm-* col-md-*&quot;&gt;&lt;/div&gt;       
+    &lt;/div&gt;   
+  &lt;/div&gt;
+   以上代码可以实现最小屏幕一行一列，中型屏幕一行4列的选项：
+
+  正确答案：A
+
+A  col-xm-12 col-md-3;
+
+B  col-xm-1 col-md-3;
+
+C  col-xm-12 col-md-4;
+
+D  col-xm-1 col-md-4;
+
+15、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：D
+
+A  字体图标只能添加在按钮上
+
+B  字体图标大小颜色是固定的无法设置
+
+C  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+D  字体图标可以改变字体尺寸、颜色
+
+16、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：D
+
+A  input, select, button
+
+B  input, button, textarea
+
+C  button, select, textarea
+
+D  input, select, textarea
+
+17、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：B
+
+A  ng-show
+
+B  ng-bind
+
+C  ng-model
+
+D  ng-init
+
+18、在AngularJs中,自定义指令可以：
+
+  正确答案：D
+
+A  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+B  初始化应用程序数据
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  使用.directive 函数来添加自定义的指令
+
+19、angularjs的mvc模式不包括：
+
+  正确答案：A
+
+A  springMVC
+
+B  $scope（作用域）
+
+C  内置service 过滤器
+
+D  controller（控制器）
+
+20、AngularJs中ng-model指令用于：
+
+  正确答案：D
+
+A  创建模型工厂
+
+B  初始化应用程序
+
+C  初始化应用程序数据
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+多选题：
+
+1、AngularJS 中说法正确的是：
+						 
+
+正确答案：C ; D
+
+A 一个controller对应多个$scope
+
+B Controller可以单独存在
+
+C Controller必须在module中注册
+
+D 一个$scope对应一个controller
+
+2、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; C
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 调用session.flush()时，发送sql语句与数据库同步
+
+D 立即发送sql语句与数据库同步；
+
+3、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A HTML
+
+B JAVA
+
+C JAVASCRIPT
+
+D CSS
+
+4、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：D ; H
+
+A 
+
+B 
+
+C 
+
+D AOP
+
+E ORM
+
+F 
+
+G MVC
+
+H IOC
+
+ 
+
+5、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：A ; B ; D
+
+A 脏数据检测会检测rootscope下所有被watcher的元素。
+
+B 每个双向绑定的元素都有一个watcher
+
+C 脏数据检测会检测rootscope下部分被watcher的元素。
+
+D 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+6、bootstrap是基于什么组成的：
+						 
+
+正确答案：B ; C ; D
+
+A JAVA
+
+B JAVASCRIPT
+
+C HTML
+
+D CSS
+
+7、单页Web应用（single page web application，SPA）有哪些优缺点：
+						 
+
+正确答案：A ; B ; D
+
+A 重前端，业务逻辑全部在本地操作，数据都需要通过AJAX同步、提交。
+
+B 经典MVC开发模式，前后端各负其责
+
+C  在URL中采用$号来作为当前视图的地址,改变#号后的参数，页面并不会重载
+
+D 更好的用户体验，让用户在web app感受native app的速度和流畅，
+
+8、$routeProvider.when路由设置对象包括：
+						 
+
+正确答案：A ; B ; C ; D
+
+A templateUrl
+
+B Template
+
+C controllerAs
+
+D redirectTo
+
+9、ng-model 指令为应用程序数据提供状态：
+						 
+
+正确答案：A ; B ; C ; D
+
+A error
+
+B touched
+
+C invalid
+
+D dirty
+
+10、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：B ; C
+
+A 没有区别
+
+B ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+C ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+D 以上都对
+判断题：
+
+1、在AnhularJs中mvvm的含义不是数据视图双向绑定：：
+
+正确答案：错	
+
+√
+
+×
+
+2、Struts2国际化同一组资源文件必须有相同的基名，也就是资源文件名前缀：：
+
+正确答案：对	
+
+√
+
+×
+
+3、var customTimeout = $timeout(function () {  
+  // your code
+}, 1000);
+
+$timeout.cancel(customTimeout);用来停止这个定时$watch()：：
+
+正确答案：对	
+
+√
+
+×
+
+4、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl显示出当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+5、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共显示10次：：
+
+正确答案：错	
+
+√
+
+×
+
+6、 angularJS中的控制器controller可以操作当前页面所有元素：：
+
+正确答案：错	
+
+√
+
+×
+
+7、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+8、控制器是 JavaScript 对象，由标准的 JavaScript 对象的构造函数 创建。：：
+
+正确答案：对	
+
+√
+
+×
+
+9、&lt;td style=&quot;exam_$even?'background-color: red':''&quot;&gt;}&lt;/td&gt;设置$index偶数行背景为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+10、&lt;head&gt;     
+        &lt;script type=&quot;text/javascript&quot;&gt;  
+            function Aaa($scope) {  
+                $scope.name = 'zhang';  
+                $scope.age = 10;  
+            }  
+        &lt;/script&gt;  
+&lt;/head&gt;  
+  
+    &lt;body&gt;  
+  
+        &lt;div ng-controller=&quot;Aaa&quot;&gt;  
+            &lt;p&gt;exam_name&lt;/p&gt;  
+        &lt;/div&gt;  
+        &lt;div&gt;  
+            &lt;p&gt;exam_age&lt;/p&gt;  
+        &lt;/div&gt;  
+  
+    &lt;/body&gt;  
+显示结果为zhang 10：：
+
+正确答案：错	
+
+√
+
+×
+
+
+
+单选题：
+
+1、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：D
+
+A  秒
+
+B  时
+
+C  分
+
+D  毫秒
+
+2、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap支持谷歌浏览器
+
+3、AngularJs中ng-model指令用于：
+
+  正确答案：C
+
+A  创建模型工厂
+
+B  初始化应用程序
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序数据
+
+4、以下说法正确的是：
+
+  正确答案：C
+
+A  ng-bind-html:规定要使用模板替换的文本内容
+
+B  ng_app:定义应用程序的根元素
+
+C  ng-app:定义应用程序的根元素
+
+D  ng_bind:绑定 HTML 元素到应用程序数据
+
+5、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：C
+
+A  ng-init
+
+B  ng-show
+
+C  ng-bind
+
+D  ng-model
+
+6、Angularjs路由通过_______标记帮助我们区分不同逻辑页面，并将其绑定到对应的控制器上：
+
+  正确答案：D
+
+A  #
+
+B  +#
+
+C  @+
+
+D  #+标记
+
+7、angularjs中服务的正确写法是？：
+
+  正确答案：D
+
+A  ng-server
+
+B  ng-class
+
+C  ng-service
+
+D  ng-command
+
+8、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：A
+
+A  ng-controller
+
+B  ng-model
+
+C  ng-template
+
+D  ng-route
+
+9、下列错误的是：
+
+  正确答案：C
+
+A  AngularJS 使用动画需要引入 angular-animate.min.js 库。
+
+B  CSS 过渡可以让我们平滑的将一个 CSS 属性值修改为另外一个
+
+C  我们不可以使用 CSS transition(过渡) 或 CSS 动画让 HTML 元素产生动画效果
+
+D  AngularJS 提供了动画效果，可以配合 CSS 使用
+
+10、AngularJs中ng-model指令用于：
+
+  正确答案：D
+
+A  初始化应用程序
+
+B  创建模型工厂
+
+C  初始化应用程序数据
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+
+11、通过 AngularJS 可以实现（）应用：
+
+  正确答案：C
+
+A  不能多视图的单页应用
+
+B  可以实现多视图的多页应用
+
+C  可以实现多视图的单页Web
+
+D  只能实现单视图的单页Web
+
+12、下列哪一项不属于AngularJS 服务(Service)：
+
+  正确答案：B
+
+A  $timeout
+
+B  $service
+
+C  $interval
+
+D  $http
+
+13、主要标签和成功按钮分别是:______：
+
+  正确答案：D
+
+A  btn-default, label-waring
+
+B  label-default, btn-primary
+
+C  btn-primary,label-success
+
+D  label-primary, btn-success
+
+14、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：C
+
+A  字体图标大小颜色是固定的无法设置
+
+B  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+C  字体图标可以改变字体尺寸、颜色
+
+D  字体图标只能添加在按钮上
+
+15、路由设置对象说法正确的是：
+
+  正确答案：B
+
+A  $routeProvider.when 函数的第一个参数是路由配置对象
+
+B  AngularJS 路由也可以通过不同的模板来实现
+
+C  AngularJS 路由不可以通过不同的模板来实现
+
+D  $routeProvider.when 函数的第一个参数只能是URL
+
+16、关于angularjs说法，错误的是：
+
+  正确答案：C
+
+A  前端mvc，极大降低前端开发的耦合
+
+B  实现了数据双向绑定
+
+C  极大的丰富了dom操作
+
+D  实现了依赖注入
+
+17、angulars支持以下（）事件：
+
+  正确答案：C
+
+A  ng-open
+
+B  ng-srcset
+
+C  ng-click
+
+D  ng-switch
+
+18、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：A
+
+A  input, select, textarea
+
+B  button, select, textarea
+
+C  input, select, button
+
+D  input, button, textarea
+
+19、&lt;div ng-app&gt;
+ &lt;p&gt;我的第一个表达式: exam_ &quot;1&quot;+1 ,exam_&quot;1&quot;*2+1&lt;/p&gt;
+ &lt;/div&gt;
+ 以上代码可以正确输出的选项是：
+
+  正确答案：B
+
+A  11,13;
+
+B  11,3;
+
+C  2,3;
+
+D  2,13;
+
+20、Bootstrap 的所有 JavaScript 插件都依赖______，因此必须在 Bootstrapjs________引入；：
+
+  正确答案：C
+
+A  jQuery.js, 之后
+
+B  Bootstrap, 之后
+
+C  jQuery, 之前
+
+D  Bootstrap, 之前
+多选题：
+
+1、以下哪些是mysql聚合函数：
+						 
+
+正确答案：A ; C
+
+A sum
+
+B round
+
+C avg
+
+D all
+
+2、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; C
+
+A 事务提交时发送sql语句与数据库同步；
+
+B 立即发送sql语句与数据库同步；
+
+C 调用session.flush()时，发送sql语句与数据库同步
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+3、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：A ; B ; C
+
+A 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+B 每个双向绑定的元素都有一个watcher
+
+C 脏数据检测会检测rootscope下所有被watcher的元素。
+
+D 脏数据检测会检测rootscope下部分被watcher的元素。
+
+4、单页Web应用（single page web application，SPA）有哪些优缺点：
+						 
+
+正确答案：A ; B ; D
+
+A 重前端，业务逻辑全部在本地操作，数据都需要通过AJAX同步、提交。
+
+B 更好的用户体验，让用户在web app感受native app的速度和流畅，
+
+C  在URL中采用$号来作为当前视图的地址,改变#号后的参数，页面并不会重载
+
+D 经典MVC开发模式，前后端各负其责
+
+5、$routeProvider.when路由设置对象包括：
+						 
+
+正确答案：A ; B ; C ; D
+
+A templateUrl
+
+B redirectTo
+
+C controllerAs
+
+D Template
+
+6、bootstrap是基于什么组成的：
+						 
+
+正确答案：B ; C ; D
+
+A JAVA
+
+B HTML
+
+C CSS
+
+D JAVASCRIPT
+
+7、ng-model 指令为应用程序数据提供状态：
+						 
+
+正确答案：A ; B ; C ; D
+
+A error
+
+B dirty
+
+C invalid
+
+D touched
+
+8、属于AngularJS 指令的有：
+						 
+
+正确答案：B ; C ; D
+
+A ng-small
+
+B ng-app
+
+C ng-model
+
+D ng-init
+
+9、关于$routeChangeStart下列说法错误的是：
+						 
+
+正确答案：A ; B ; D
+
+A 这个事件会在路由跳转成功后触发
+
+B 这个事件不会初始化ng-model
+
+C 这个事件会在路由跳转前触发
+
+D 这个事件会初始化ng-model
+
+10、HTTP指令包括下面哪三个：
+						 
+
+正确答案：B ; C ; D
+
+A $http.gets
+
+B $http.get
+
+C $http.post
+
+D $http.head
+判断题：
+
+1、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl显示出当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+2、&lt;head&gt;     
+        &lt;script type=&quot;text/javascript&quot;&gt;  
+            function Aaa($scope) {  
+                $scope.name = 'zhang';  
+                $scope.age = 10;  
+            }  
+        &lt;/script&gt;  
+&lt;/head&gt;  
+  
+    &lt;body&gt;  
+  
+        &lt;div ng-controller=&quot;Aaa&quot;&gt;  
+            &lt;p&gt;exam_name&lt;/p&gt;  
+        &lt;/div&gt;  
+        &lt;div&gt;  
+            &lt;p&gt;exam_age&lt;/p&gt;  
+        &lt;/div&gt;  
+  
+    &lt;/body&gt;  
+显示结果为zhang 10：：
+
+正确答案：错	
+
+√
+
+×
+
+3、&lt;td ng-if=&quot;$even&quot;  style=&quot;background-color:red&quot;&gt;列表第一行背景显示为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+4、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+5、&lt;head&gt;     
+        &lt;script type=&quot;text/javascript&quot;&gt;  
+            function Aaa($scope) {  
+                $scope.name = 'zhang';  
+                $scope.age = 10;  
+            }  
+        &lt;/script&gt;  
+&lt;/head&gt;  
+  
+    &lt;body&gt;  
+  
+        &lt;div ng-controller=&quot;Aaa&quot;&gt;  
+            &lt;p&gt;exam_name&lt;/p&gt;  
+        &lt;/div&gt;  
+        &lt;div&gt;  
+            &lt;p&gt;exam_age&lt;/p&gt;  
+        &lt;/div&gt;  
+  
+    &lt;/body&gt;  
+显示结果为zhang 10：：
+
+正确答案：错	
+
+√
+
+×
+
+6、$routeProvider.when 函数的第一个参数是 URL 或者 URL 正则规则，第二个参数为路由配置对象：：
+
+正确答案：对	
+
+√
+
+×
+
+7、angularjs是基于java的：：
+
+正确答案：错	
+
+√
+
+×
+
+8、 angularJS中的控制器controller可以操作当前页面所有的angularJS元素：：
+
+正确答案：错	
+
+√
+
+×
+
+9、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+10、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+
+单选题：
+
+1、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：B
+
+A  为了切分职责
+
+B  为了加重工作量
+
+C  为了代码复用
+
+D  为了后期维护方便
+
+2、MVC中的C是()：
+
+  正确答案：A
+
+A  控制层
+
+B  业务层
+
+C  视图层
+
+D  模型层
+
+3、JDBC中的?号占位符开始值是：
+
+  正确答案：C
+
+A  是0
+
+B  是3
+
+C  是1
+
+D  是2
+
+4、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：D
+
+A  md是mid的缩写
+
+B  sm是small的缩写;
+
+C  xs是extremely small的缩写
+
+D   lg是lag的缩写;
+
+5、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：B
+
+A  .col-xs-6
+
+B  .col-xs-4
+
+C  .col-xs-3
+
+D  .col-xs-2
+
+6、要使用bootstrap最基本样式功能必须引入的文件是：
+
+  正确答案：C
+
+A  jquery.js
+
+B  bootstrap.css
+
+C  bootstrap.min.css
+
+D  bootstrap.min.js
+
+7、在select语句的where子句中，使用正则表达式过滤数据的关键字是：：
+
+  正确答案：D
+
+A  match
+
+B  like
+
+C  against
+
+D  regexp
+
+8、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持自定义 Bootstrap 组件
+
+9、Linux系统中的vi命令，文件没有修改，不可以使用哪个命令进行退出（：
+
+  正确答案：C
+
+A  :q!
+
+B  :wq
+
+C  :w
+
+D  :q
+
+10、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：B
+
+A  <environments>
+
+B  <configuration>
+
+C  <sqlMapConfig>
+
+D  <setting>
+
+11、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  IE
+
+C  谷歌
+
+D  以下都是
+
+12、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Google
+
+C  Baidu
+
+D  Facebook
+
+13、spring中,bean的作用域不包括：
+
+  正确答案：B
+
+A  singleton
+
+B  response
+
+C  request
+
+D  prototype
+
+14、bootstrap中pagination说法正确的是：
+
+  正确答案：C
+
+A  Bootstrap 的组件不支持定制
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+D  bootstrap不是开源的
+
+15、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：B
+
+A  .btn-default
+
+B  .btn
+
+C  .btn-primary
+
+D  .btn-success
+
+16、AngularJs中ng-init指令用于：
+
+  正确答案：A
+
+A  初始化应用程序数据
+
+B  创建init
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序
+
+17、过滤器将字符串格式化为大写的是：
+
+  正确答案：C
+
+A  orderBy
+
+B  currency
+
+C  uppercase
+
+D  lowercase
+
+18、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：D
+
+A  字体图标只能添加在按钮上
+
+B  字体图标大小颜色是固定的无法设置
+
+C  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+D  字体图标可以改变字体尺寸、颜色
+
+19、在Controller类中可以使用到的注解有：
+
+  正确答案：D
+
+A   @Auto
+
+B   @servlet
+
+C   @RequestMap
+
+D   @Controller
+
+20、MyBatis框架是一个什么样的框架：
+
+  正确答案：D
+
+A  MVC框架
+
+B  整合框架
+
+C  js框架
+
+D  数据持久化框架
+
+21、jquery中$.ajax()的dataType是：
+
+  正确答案：B
+
+A  提交的类型
+
+B  服务器返回的数据类型
+
+C  发送的数据
+
+D  发送请求的地址
+多选题：
+
+1、下面关于mysql的日期的获取正确的是：
+						 
+
+正确答案：B ; D
+
+A select today()
+
+B select now()
+
+C select now() from dual
+
+D select sysdate()
+
+2、HTTP指令包括下面哪三个：
+						 
+
+正确答案：A ; B ; C
+
+A $http.head
+
+B $http.get
+
+C $http.post
+
+D $http.gets
+
+3、属于AngularJS 指令的有：
+						 
+
+正确答案：B ; C ; D
+
+A ng-small
+
+B ng-model
+
+C ng-init
+
+D ng-app
+
+4、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C
+
+A View(视图)，即html
+
+B Model(模型), 当前视图中可用的数据
+
+C Controller(控制器), 即 JavaScript 函数
+
+D Filter过滤器
+
+5、Spring的两个核心为_____和_______：
+						 
+
+正确答案：A ; B
+
+A AOP
+
+B IOC
+
+C ORM
+
+D MVC
+
+6、bootstrap是基于什么组成的：
+						 
+
+正确答案：B ; C ; D
+
+A JAVA
+
+B HTML
+
+C JAVASCRIPT
+
+D CSS
+
+7、下面关于数组声明和初始化的语句正确的有：
+						 
+
+正确答案：
+
+8、在拦截器中，使用ActionInvocation：
+						 
+
+正确答案：A ; B ; C ; D
+
+A invoke方法可以调用action的执行方法
+
+B 可以获得Action对象
+
+C 的invoke方法可以调用下一个拦截器的intercept方法
+
+D 可以获得ActionContext对象
+
+9、已知总记录数listCount和每页显示的记录数pageSize,求总页数,下面说法正确的是()：
+						 
+
+正确答案：A ; B ; C ; D
+
+A listCount / pageSize + (listCount % pageSize != 0 ? 1 : 1);
+
+B listCount / pageSize + (listCount % pageSize != 1 ? 1 : 0);
+
+C listCount / pageSize + (listCount % pageSize != 0 ? 0 : 1);
+
+D listCount / pageSize + (listCount % pageSize == 0 ? 0 : 1);
+判断题：
+
+1、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+2、Bootstrap 轮播（Carousel）插件是一种灵活的响应式的向站点添加滑块的方式：：
+
+正确答案：对	
+
+√
+
+×
+
+3、实现接口的类不能是抽象类：：
+
+正确答案：对	
+
+√
+
+×
+
+4、Java语言只支持单重继承，不支持多重继承：：
+
+正确答案：对	
+
+√
+
+×
+
+5、使用构造方法只能给非静态变量赋初值：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+7、Java语言中，构造方法是可以继承的：：
+
+正确答案：错	
+
+√
+
+×
+
+8、MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+9、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+10、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+
+
+单选题：
+
+1、关于angularjs说法，错误的是：
+
+  正确答案：B
+
+A  前端mvc，极大降低前端开发的耦合
+
+B  极大的丰富了dom操作
+
+C  实现了数据双向绑定
+
+D  实现了依赖注入
+
+2、bootstrap中说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap 的组件不支持定制
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap不是开源的
+
+D  bootstrap跟jQuery一样提供了很多dom操作方法
+
+3、关于angularjs说法，错误的是：
+
+  正确答案：D
+
+A  实现了数据双向绑定
+
+B  实现了依赖注入
+
+C  前端mvc，极大降低前端开发的耦合
+
+D  极大的丰富了dom操作
+
+4、微信公众号认证的有效期是：
+
+  正确答案：C
+
+A  一个月
+
+B  终身
+
+C  一年
+
+D  两年
+
+5、下面哪种不是微信开发平台的消息加解密方式：
+
+  正确答案：A
+
+A  克隆模式
+
+B  兼容模式
+
+C  明文模式
+
+D  安全模式
+
+6、微信公众平台的最大作用？：
+
+  正确答案：D
+
+A  微信公众平台是万能的。
+
+B  微信公众平台可以出售商品，让商家快速实现销售额。
+
+C  微信公众平台可以吸粉，增加更多的粉丝。
+
+D  微信渠道将品牌推广给上亿的微信用户，减少宣传成本，提高品牌知名度，打造更具影响力的品牌形象
+
+7、下面哪种不是微信开发平台的消息加解密方式：
+
+  正确答案：A
+
+A  克隆模式
+
+B  兼容模式
+
+C  安全模式
+
+D  明文模式
+
+8、什么是微信公众平台？：
+
+  正确答案：C
+
+A  微信公众平台主要是企业宣传推广用的。
+
+B  微信公众平台主要是商家和客户交易的平台。
+
+C  微信公众号主要面向名人、政府、媒体、企业等机构推出的合作推广业务
+
+D  微信公众平台主要是发送商家信息的平台。
+
+9、订阅号的运营策略，其核心是（）：
+
+  正确答案：C
+
+A  服务为王
+
+B  形式为王
+
+C  内容为王
+
+D  客户为王
+
+10、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：B
+
+A  javascript.js
+
+B  popover.js
+
+C  prototype.js
+
+D  Angular.js
+
+11、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：B
+
+A  .btn-success
+
+B  .btn-default
+
+C  .btn-primary
+
+D  .btn
+
+12、下列错误的是：
+
+  正确答案：A
+
+A  我们不可以使用 CSS transition(过渡) 或 CSS 动画让 HTML 元素产生动画效果
+
+B  CSS 过渡可以让我们平滑的将一个 CSS 属性值修改为另外一个
+
+C  AngularJS 提供了动画效果，可以配合 CSS 使用
+
+D  AngularJS 使用动画需要引入 angular-animate.min.js 库。
+
+13、angularjs的根作用域为：
+
+  正确答案：A
+
+A  $rootScope
+
+B  $http
+
+C  $sce
+
+D  $scope
+
+14、以下能够删除一列的是：
+
+  正确答案：A
+
+A  alter table emp drop column addcolumn
+
+B  alter table emp delete addcolumn
+
+C  alter table emp delete column addcolumn
+
+D  alter table emp remove addcolumn
+
+15、过滤器将字符串格式化为大写的是：
+
+  正确答案：A
+
+A  uppercase
+
+B  orderBy
+
+C  lowercase
+
+D  currency
+
+16、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap支持自定义 Bootstrap 组件
+
+17、服务号的运营策略，其核心是（）：
+
+  正确答案：A
+
+A  服务为王
+
+B  内容为王
+
+C  形式为王
+
+D  客户为王
+
+18、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：B
+
+A  秒
+
+B  毫秒
+
+C  分
+
+D  时
+
+19、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：B
+
+A  ng-route
+
+B  ng-controller
+
+C  ng-model
+
+D  ng-template
+
+20、关于angularjs说法，错误的是：
+
+  正确答案：B
+
+A  实现了数据双向绑定
+
+B  极大的丰富了dom操作
+
+C  实现了依赖注入
+
+D  前端mvc，极大降低前端开发的耦合
+多选题：
+
+1、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：C ; D
+
+A 以上都对
+
+B 没有区别
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+2、常用的虚拟主机技术有哪些？：
+						 
+
+正确答案：A ; B ; C
+
+A 端口号
+
+B 主机头
+
+C IP地址
+
+D DNS
+
+3、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A MVC
+
+B 语义化标签、依赖注入
+
+C 自动化双向数据绑定
+
+D 模块化
+
+4、接入微信公众平台开发，开发者需要如下的哪几个步骤完成：：
+						 
+
+正确答案：B ; C ; D
+
+A 选择消息加密方式
+
+B 验证服务器地址的有效性
+
+C 填写服务器配置
+
+D 依据接口文档实现业务逻辑
+
+5、微信公众号开发后台素材管理有哪些？：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 素材类型
+
+B 图文消息类型
+
+C 多图文消息
+
+D 单图文消息
+
+6、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：C ; D
+
+A <s: textfield>
+
+B <s:form>
+
+C <c:out>
+
+D <bean:write>
+
+7、bootstrap中说法有误的是：
+						 
+
+正确答案：B ; C ; D
+
+A bootstrap支持自定义 Bootstrap 组件
+
+B bootstrap不支持谷歌浏览器
+
+C bootstrap不支持火狐浏览器
+
+D bootstrap必须在移动设备上使用
+
+8、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 语义化标签、依赖注入
+
+B MVC
+
+C 模块化
+
+D 自动化双向数据绑定
+
+9、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; D
+
+A 调用session.flush()时，发送sql语句与数据库同步
+
+B 立即发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 事务提交时发送sql语句与数据库同步；
+
+10、公众账号有哪几种类型? ：
+						 
+
+正确答案：A ; C ; D
+
+A 订阅号
+
+B 亲情号
+
+C 服务号
+
+D 企业号
+判断题：
+
+1、AngularJs中P标签的ng-hide指令的值为true时标签内容不可见：：
+
+正确答案：对	
+
+√
+
+×
+
+2、域名不可以重复使用，申请之前要先查询域名是否已存在：：
+
+正确答案：对	
+
+√
+
+×
+
+3、TCP/IP协议是internet的标准通信协议。：：
+
+正确答案：对	
+
+√
+
+×
+
+4、微信公众平台群发消息的人数没有限制，只能群发给粉丝(订阅用户),不支持群发给非订阅用户：：
+
+正确答案：对	
+
+√
+
+×
+
+5、微信公众号可以主动添加粉丝关注：：
+
+正确答案：错	
+
+√
+
+×
+
+6、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+7、在登录微信官方平台之后，开启开发者模式，此时需要我们填写url和token，所谓url就是我们自己服务器的接口地址 ：：
+
+正确答案：对	
+
+√
+
+×
+
+8、域名不可以重复使用，申请之前要先查询域名是否已存在：：
+
+正确答案：对	
+
+√
+
+×
+
+9、微信公众平台只允许用户发送文本消息。：：
+
+正确答案：错	
+
+√
+
+×
+
+10、TCP/IP协议是internet的标准通信协议。：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、假设有如下代码，那么a(10)的返回结果是？
+function a(a)
+{
+  a^=(1&lt;&lt;4)-1;
+   return a;
+}：
+
+  正确答案：B
+
+A  15
+
+B  5
+
+C  16
+
+D  10
+
+2、&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+       &lt;div class=&quot;col-xm-* col-md-*&quot;&gt;&lt;/div&gt;       
+    &lt;/div&gt;   
+  &lt;/div&gt;
+   以上代码可以实现最小屏幕一行一列，中型屏幕一行4列的选项：
+
+  正确答案：A
+
+A  col-xm-12 col-md-3;
+
+B  col-xm-1 col-md-4;
+
+C  col-xm-1 col-md-3;
+
+D  col-xm-12 col-md-4;
+
+3、angularjs的根作用域为：
+
+  正确答案：A
+
+A  $rootScope
+
+B  $scope
+
+C  $http
+
+D  $sce
+
+4、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：A
+
+A  popover.js
+
+B  Angular.js
+
+C  javascript.js
+
+D  prototype.js
+
+5、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：D
+
+A  时
+
+B  秒
+
+C  分
+
+D  毫秒
+
+6、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：A
+
+A  .btn-default
+
+B  .btn-success
+
+C  .btn-primary
+
+D  .btn
+
+7、在使用interface声明一个接口时，可以使用什么修饰符修饰该接口：
+
+  正确答案：A
+
+A  public
+
+B  protected
+
+C  private protected
+
+D  private
+
+8、spring中,bean的作用域不包括？：
+
+  正确答案：D
+
+A  request
+
+B  prototype
+
+C  singleton
+
+D  response
+
+9、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：A
+
+A  ng-controller
+
+B  ng-model
+
+C  ng-route
+
+D  ng-template
+
+10、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  IE
+
+C  以下都是
+
+D  谷歌
+
+11、微信公众号认证的有效期是：
+
+  正确答案：C
+
+A  终身
+
+B  两年
+
+C  一年
+
+D  一个月
+
+12、Hibernate中对象在session关闭之后的状态是：：
+
+  正确答案：B
+
+A  singleton
+
+B  Detached
+
+C  Transient
+
+D  Persistent
+
+13、关于angularjs说法，错误的是：
+
+  正确答案：D
+
+A  前端mvc，极大降低前端开发的耦合
+
+B  实现了数据双向绑定
+
+C  实现了依赖注入
+
+D  极大的丰富了dom操作
+
+14、下面操作可以通过ID获得页面元素：：
+
+  正确答案：D
+
+A  $(".ID")
+
+B  $("ID")
+
+C  $(ID)
+
+D  $("#ID")
+
+15、过滤器将字符串格式化为大写的是：
+
+  正确答案：C
+
+A  orderBy
+
+B  lowercase
+
+C  uppercase
+
+D  currency
+
+16、struts1 的核心控制器是()：
+
+  正确答案：A
+
+A   ActionServlet
+
+B  DispatcherServlet
+
+C   FiltDispatche
+
+D   FiltDispatcherAction
+
+17、struts概念是( )：：
+
+  正确答案：C
+
+A  struts不是框架
+
+B  struts不是基于MVC设计模式的框架
+
+C  struts是Apache组织开发的基于MVC设计模式的一个开源的框架
+
+D  struts不是Apache组织开发的
+
+18、jquery中$.ajax()的dataType是：
+
+  正确答案：C
+
+A  提交的类型
+
+B  发送的数据
+
+C  服务器返回的数据类型
+
+D  发送请求的地址
+
+19、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Facebook
+
+C  Baidu
+
+D  Google
+
+20、下列不属于sql的聚合函数的是：：
+
+  正确答案：A
+
+A  today
+
+B  max
+
+C  min
+
+D  count
+多选题：
+
+1、用户管理菜单有哪三个默认分组：
+						 
+
+正确答案：A ; B ; D
+
+A 黑名单
+
+B 未分组
+
+C 同学组
+
+D 星标组
+
+2、接入微信公众平台开发，开发者需要如下的哪几个步骤完成：：
+						 
+
+正确答案：A ; B ; D
+
+A 填写服务器配置
+
+B 依据接口文档实现业务逻辑
+
+C 选择消息加密方式
+
+D 验证服务器地址的有效性
+
+3、以下哪些是mysql聚合函数：
+						 
+
+正确答案：C ; D
+
+A round
+
+B all
+
+C sum
+
+D avg
+
+4、微信公众平台不倡导的项有：
+						 
+
+正确答案：A ; B
+
+A 诱导用户关注
+
+B 以广告为主，多发广告
+
+C 以上都对
+
+D 多宣传吸引更多粉丝关注
+
+5、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步；
+
+D 事务提交时发送sql语句与数据库同步；
+
+6、以下哪些是mysql聚合函数：
+						 
+
+正确答案：B ; C
+
+A all
+
+B avg
+
+C sum
+
+D round
+
+7、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; C ; D
+
+A int[][] a4=new int[3][3]; 
+
+B String a3[]=new String(3);
+
+C String a2[]={"string1","string1","string1"}; 
+
+D int a1[]={3,4,5};
+
+8、为什么我们会需要MVC.下面正确说法是：
+						 
+
+正确答案：B ; C ; D
+
+A 为了加重工作量
+
+B 为了切分职责
+
+C 为了后期维护方便
+
+D 为了代码复用
+
+9、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：C ; D
+
+A struts2框架可以脱离web容器运行
+
+B struts2框架定义了访问数据库的方式；
+
+C struts2框架的运行环境是web容器；
+
+D struts2框架的主要作用是处理Http请求；
+
+10、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; D
+
+A <c:out>
+
+B <s:form>
+
+C <s: textfield>
+
+D <bean:write>
+判断题：
+
+1、政府机构申请的订阅号做认证时，需要缴纳300元认证费用。：：
+
+正确答案：对	
+
+√
+
+×
+
+2、微信公众号服务接入只支持微信自己的服务器，阿里云的服务器不支持：：
+
+正确答案：错	
+
+√
+
+×
+
+3、微信公众号的类型目前为三种订阅号、服务号、企业号：：
+
+正确答案：对	
+
+√
+
+×
+
+4、域名不可以重复使用，申请之前要先查询域名是否已存在：：
+
+正确答案：对	
+
+√
+
+×
+
+5、TCP/IP协议是internet的标准通信协议。：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+7、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+8、微信公众号可以主动添加粉丝关注：：
+
+正确答案：错	
+
+√
+
+×
+
+9、微信公众平台只允许用户发送文本消息。：：
+
+正确答案：错	
+
+√
+
+×
+
+10、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn-success
+
+B  .btn
+
+C  .btn-primary
+
+D  .btn-default
+
+2、bootstrap中说法有误的是：
+
+  正确答案：D
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap必须在移动设备上使用
+
+3、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn
+
+B  .btn-primary
+
+C  .btn-success
+
+D  .btn-default
+
+4、微信公众号认证的有效期是：
+
+  正确答案：A
+
+A  一年
+
+B  一个月
+
+C  终身
+
+D  两年
+
+5、struts1 的核心控制器是()：
+
+  正确答案：C
+
+A   FiltDispatcherAction
+
+B  DispatcherServlet
+
+C   ActionServlet
+
+D   FiltDispatche
+
+6、用 $rootscope 定义的值，可以在各个_______ 中使用：
+
+  正确答案：A
+
+A  controller
+
+B  以上都对
+
+C  model
+
+D  service
+
+7、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：D
+
+A  ng-template
+
+B  ng-model
+
+C  ng-route
+
+D  ng-controller
+
+8、微信公众平台的最大作用？：
+
+  正确答案：A
+
+A  微信渠道将品牌推广给上亿的微信用户，减少宣传成本，提高品牌知名度，打造更具影响力的品牌形象
+
+B  微信公众平台可以出售商品，让商家快速实现销售额。
+
+C  微信公众平台是万能的。
+
+D  微信公众平台可以吸粉，增加更多的粉丝。
+
+9、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：D
+
+A  javascript.js
+
+B  prototype.js
+
+C  Angular.js
+
+D  popover.js
+
+10、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap支持谷歌浏览器
+
+11、angularjs的根作用域为：
+
+  正确答案：A
+
+A  $rootScope
+
+B  $sce
+
+C  $scope
+
+D  $http
+
+12、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：C
+
+A  字体图标大小颜色是固定的无法设置
+
+B  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+C  字体图标可以改变字体尺寸、颜色
+
+D  字体图标只能添加在按钮上
+
+13、微信公众号认证的有效期是：
+
+  正确答案：D
+
+A  两年
+
+B  终身
+
+C  一个月
+
+D  一年
+
+14、以下能够删除一列的是：
+
+  正确答案：D
+
+A  alter table emp remove addcolumn
+
+B  alter table emp delete column addcolumn
+
+C  alter table emp delete addcolumn
+
+D  alter table emp drop column addcolumn
+
+15、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：B
+
+A  时
+
+B  毫秒
+
+C  分
+
+D  秒
+
+16、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn-success
+
+B  .btn
+
+C  .btn-primary
+
+D  .btn-default
+
+17、下列错误的是：
+
+  正确答案：D
+
+A  AngularJS 提供了动画效果，可以配合 CSS 使用
+
+B  CSS 过渡可以让我们平滑的将一个 CSS 属性值修改为另外一个
+
+C  AngularJS 使用动画需要引入 angular-animate.min.js 库。
+
+D  我们不可以使用 CSS transition(过渡) 或 CSS 动画让 HTML 元素产生动画效果
+
+18、微信公众号认证的有效期是：
+
+  正确答案：B
+
+A  一个月
+
+B  一年
+
+C  两年
+
+D  终身
+
+19、什么是微信公众平台？：
+
+  正确答案：A
+
+A  微信公众号主要面向名人、政府、媒体、企业等机构推出的合作推广业务
+
+B  微信公众平台主要是企业宣传推广用的。
+
+C  微信公众平台主要是发送商家信息的平台。
+
+D  微信公众平台主要是商家和客户交易的平台。
+
+20、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：C
+
+A  为了代码复用
+
+B  为了切分职责
+
+C  为了加重工作量
+
+D  为了后期维护方便
+多选题：
+
+1、MVC中包括()：
+						 
+
+正确答案：A ; B ; D
+
+A 模型层
+
+B 视图层
+
+C 数据层
+
+D 控制层
+
+2、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：A ; B
+
+A AOP
+
+B IOC
+
+C MVC
+
+D ORM
+
+3、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 立即发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+4、struts2中下列说法不正确的为( )：：
+						 
+
+正确答案：A ; D
+
+A struts2是侵入型框架，严重依赖servletAPI
+
+B struts2是非侵入型框架，不严重依赖servletAPI
+
+C struts2基于webwork
+
+D strtus2基于struts1
+
+5、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 模块化
+
+B 自动化双向数据绑定
+
+C 语义化标签、依赖注入
+
+D MVC
+
+6、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; B
+
+A <c:out>
+
+B <bean:write>
+
+C <s: textfield>
+
+D <s:form>
+
+7、在拦截器中，使用ActionInvocation：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可以获得ActionContext对象
+
+B 可以获得Action对象
+
+C 的invoke方法可以调用action的执行方法
+
+D 的invoke方法可以调用下一个拦截器的intercept方法
+
+8、Spring的两个核心为_____和_______：
+						 
+
+正确答案：C ; D
+
+A MVC
+
+B ORM
+
+C IOC
+
+D AOP
+
+9、MVC中包括()：
+						 
+
+正确答案：B ; C ; D
+
+A 数据层
+
+B 模型层
+
+C 视图层
+
+D 控制层
+
+10、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A JAVASCRIPT
+
+B CSS
+
+C JAVA
+
+D HTML
+判断题：
+
+1、注册公众号微信官方链接，注意配置一下 URL，Token。Token 必须为英文或数字，长度不限制：：
+
+正确答案：错	
+
+√
+
+×
+
+2、域名不可以重复使用，申请之前要先查询域名是否已存在：：
+
+正确答案：对	
+
+√
+
+×
+
+3、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+4、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+5、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+6、注册公众号微信官方链接，注意配置一下 URL，Token。Token 必须为英文或数字，长度没有限制：：
+
+正确答案：错	
+
+√
+
+×
+
+7、微信认证年审时，主体（企业/组织）全称不能修改。：：
+
+正确答案：对	
+
+√
+
+×
+
+8、微信公众号的类型目前主要为三种订阅号、服务号、企业号：：
+
+正确答案：对	
+
+√
+
+×
+
+9、Spring中Bean默认是多例的：：
+
+正确答案：错	
+
+√
+
+×
+
+10、MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+
+单选题：
+
+1、jquery中$.ajax()的dataType是：
+
+  正确答案：B
+
+A  发送请求的地址
+
+B  服务器返回的数据类型
+
+C  发送的数据
+
+D  提交的类型
+
+2、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  以下都是
+
+B  谷歌
+
+C  火狐
+
+D  IE
+
+3、以下能够删除一列的是：
+
+  正确答案：A
+
+A  alter table emp drop column addcolumn
+
+B  alter table emp remove addcolumn
+
+C  alter table emp delete addcolumn
+
+D  alter table emp delete column addcolumn
+
+4、下面哪种不是微信开发平台的消息加解密方式：
+
+  正确答案：D
+
+A  兼容模式
+
+B  安全模式
+
+C  明文模式
+
+D  克隆模式
+
+5、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：C
+
+A  秒
+
+B  分
+
+C  毫秒
+
+D  时
+
+6、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：C
+
+A  prototype.js
+
+B  javascript.js
+
+C  popover.js
+
+D  Angular.js
+
+7、bootstrap中说法有误的是：
+
+  正确答案：B
+
+A  bootstrap支持谷歌浏览器
+
+B  bootstrap必须在移动设备上使用
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap支持火狐浏览器
+
+8、下面哪种不是微信开发平台的消息加解密方式：
+
+  正确答案：B
+
+A  明文模式
+
+B  克隆模式
+
+C  兼容模式
+
+D  安全模式
+
+9、bootstrap框架是由哪家公司开源的：
+
+  正确答案：C
+
+A  Google
+
+B  Baidu
+
+C  Twitter
+
+D  Facebook
+
+10、Hibernate中对象在session关闭之后的状态是：：
+
+  正确答案：B
+
+A  Persistent
+
+B  Detached
+
+C  Transient
+
+D  singleton
+
+11、spring中,bean的作用域不包括？：
+
+  正确答案：A
+
+A  response
+
+B  prototype
+
+C  request
+
+D  singleton
+
+12、struts概念是( )：：
+
+  正确答案：A
+
+A  struts是Apache组织开发的基于MVC设计模式的一个开源的框架
+
+B  struts不是Apache组织开发的
+
+C  struts不是基于MVC设计模式的框架
+
+D  struts不是框架
+
+13、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn-success
+
+B  .btn
+
+C  .btn-primary
+
+D  .btn-default
+
+14、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：B
+
+A  为了代码复用
+
+B  为了加重工作量
+
+C  为了后期维护方便
+
+D  为了切分职责
+
+15、Spring中的bean的描述不正确的是：：
+
+  正确答案：C
+
+A  在Spring技术中是基于组件的
+
+B  是最基本也是最常用的单元
+
+C  必须通过new关键字来实例化
+
+D  其实例保存在sprig的容器中
+
+16、struts2动态调用的格式为：(    )：：
+
+  正确答案：C
+
+A  ActionName@mathodName.action
+
+B  ActionName*methodName.action
+
+C  ActionName!methodName.action
+
+D  ActionName?methodName.action
+
+17、Hibernate核心配置文件的后缀名是：
+
+  正确答案：C
+
+A  .properties
+
+B  .doc
+
+C  .xml
+
+D  .hbm
+
+18、firebug属于哪款浏览器调试工具：
+
+  正确答案：B
+
+A  以下都是
+
+B  火狐
+
+C  IE
+
+D  谷歌
+
+19、Hibernate中获取最大id,在此基础上加1的主键生成策略为（ ）：
+
+  正确答案：A
+
+A  increment
+
+B  native
+
+C  uuid
+
+D  sequence
+
+20、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：B
+
+A  ibernate是一种数据持久化技术
+
+B  Hibernate会使数据库的操作变得复杂
+
+C  Hibernate是一个ORM的实现
+
+D  使用Hibernate可以简化持久化层的编码
+多选题：
+
+1、以下哪些是mysql聚合函数：
+						 
+
+正确答案：C ; D
+
+A all
+
+B round
+
+C sum
+
+D avg
+
+2、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; B
+
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架定义了访问数据库的方式；
+
+3、在拦截器中，使用ActionInvocation：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 的invoke方法可以调用下一个拦截器的intercept方法
+
+B 的invoke方法可以调用action的执行方法
+
+C 可以获得Action对象
+
+D 可以获得ActionContext对象
+
+4、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 语义化标签、依赖注入
+
+B MVC
+
+C 自动化双向数据绑定
+
+D 模块化
+
+5、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; C
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 立即发送sql语句与数据库同步；
+
+6、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：C ; D
+
+A <s: textfield>
+
+B <s:form>
+
+C <c:out>
+
+D <bean:write>
+
+7、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; D
+
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的运行环境是web容器；
+
+8、以下哪些是mysql聚合函数：
+						 
+
+正确答案：B ; D
+
+A all
+
+B sum
+
+C round
+
+D avg
+
+9、静态代理由_________和__________和__________三部分构成：
+						 
+
+正确答案：A ; B ; D
+
+A 接口
+
+B 代理实现
+
+C 目标类
+
+D 真实实现
+
+10、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A HTML
+
+B CSS
+
+C JAVA
+
+D JAVASCRIPT
+判断题：
+
+1、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+2、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+3、微信公众号的类型目前主要为三种订阅号、服务号、企业号：：
+
+正确答案：对	
+
+√
+
+×
+
+4、Struts2国际化同一组资源文件必须有相同的基名，也就是资源文件名前缀：：
+
+正确答案：对	
+
+√
+
+×
+
+5、注册公众号微信官方链接，注意配置一下 URL，Token。Token 必须为英文或数字，长度没有限制：：
+
+正确答案：错	
+
+√
+
+×
+
+6、微信公众号可以主动添加关注用户：：
+
+正确答案：错	
+
+√
+
+×
+
+7、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+8、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+9、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+10、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+
+单选题：
+
+1、MyBatis框架是一个什么样的框架：
+
+  正确答案：D
+
+A  js框架
+
+B  MVC框架
+
+C  整合框架
+
+D  数据持久化框架
+
+2、下列不属于sql的聚合函数的是：：
+
+  正确答案：C
+
+A  max
+
+B  count
+
+C  today
+
+D  min
+
+3、订阅号的运营策略，其核心是（）：：
+
+  正确答案：A
+
+A  内容为王
+
+B  客户为王
+
+C  服务为王
+
+D  形式为王
+
+4、下面操作可以通过ID获得页面元素：：
+
+  正确答案：B
+
+A  $(ID)
+
+B  $("#ID")
+
+C  $(".ID")
+
+D  $("ID")
+
+5、MyBatis指定配置文件的根元素使用的是：：
+
+  正确答案：C
+
+A  <sqlMapConfig>
+
+B  <setting>
+
+C  <configuration>
+
+D  <environments>
+
+6、关于sql优化错误的是：
+
+  正确答案：D
+
+A  尽量使用关键字段查询不用星号
+
+B  尽量避免在where子句中使用!=或<>操作符
+
+C  尽量避免向客户端返回大数据量若数据量过大应该考虑相应需求是否合理
+
+D  尽量使用$号不用#号因为$安全
+
+7、bootstrap说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap 的组件不支持定制
+
+B  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  bootstrap不是开源的
+
+8、bootstrap中哪个是按钮的默认样式类：：
+
+  正确答案：A
+
+A  .btn-default
+
+B  .btn-primary
+
+C  .btn-info
+
+D  .btn-success
+
+9、主要标签和成功按钮分别是:______：：
+
+  正确答案：C
+
+A  label-default, btn-primary
+
+B  btn-default, label-waring
+
+C  label-primary, btn-success
+
+D  btn-primary,label-success
+
+10、bootstrap中使用弹出框需要导入下面哪个js插件：：
+
+  正确答案：B
+
+A  javascript.js
+
+B  popover.js
+
+C  Angular.js
+
+D  prototype.js
+
+11、Linux系统中的vi命令，使用哪个命令进行退出：
+
+  正确答案：A
+
+A  :q!
+
+B  :s
+
+C  :w
+
+D  :r
+
+12、AngularJs中ng-model指令用于：：
+
+  正确答案：A
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  初始化应用程序数据
+
+C  创建模型工厂
+
+D  初始化应用程序
+
+13、关于angularjs说法，错误的是：：
+
+  正确答案：D
+
+A  是一个前端框架
+
+B  实现了数据双向绑定
+
+C  实现了依赖注入
+
+D  使开发复杂
+
+14、以下说法正确的是：：
+
+  正确答案：C
+
+A  ng-bind-html:规定要使用模板替换的文本内容
+
+B  ng_bind:绑定 HTML 元素到应用程序数据
+
+C  ng-app:定义应用程序的根元素
+
+D  ng_app:定义应用程序的根元素
+
+15、服务号的运营策略，其核心是（）：：
+
+  正确答案：D
+
+A  形式为王
+
+B  客户为王
+
+C  内容为王
+
+D  服务为王
+
+16、过滤器将字符串格式化为大写的是：：
+
+  正确答案：C
+
+A  lowercase
+
+B  orderBy
+
+C  uppercase
+
+D  currency
+
+17、JDBC中的?号占位符开始值：：
+
+  正确答案：B
+
+A  是0
+
+B  是1
+
+C  是3
+
+D  是2
+
+18、在WEB-INF目录下，必须存放的文件为：
+
+  正确答案：C
+
+A  class文件
+
+B  html文件
+
+C  web.xml
+
+D  jar文件
+
+19、下面哪个不是spring的注解：
+
+  正确答案：C
+
+A  @Autowired
+
+B  @ResponseBody
+
+C  @Resource
+
+D  @RequestMapping
+
+20、在select语句的where子句中，使用正则表达式过滤数据的关键字是：：
+
+  正确答案：A
+
+A  regexp
+
+B  like
+
+C  match
+
+D  against
+多选题：
+
+1、以下哪些注解属于Spring框架：：
+						 
+
+正确答案：A ; B ; C
+
+A @Autowired
+
+B @Controller
+
+C @Repository
+
+D @Resource
+
+2、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 语义化标签、依赖注入
+
+B 模块化
+
+C 自动化双向数据绑定
+
+D MVC
+
+3、关于struts2框架，下面哪些说法是正确的：
+						 
+
+正确答案：C ; D
+
+A struts2框架定义了访问数据库的方式
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架的运行环境是web容器
+
+D struts2框架的主要作用是处理Http请求
+
+4、下面对MVC框架描述正确的是：：
+						 
+
+正确答案：A ; B ; D
+
+A V是视图(view)
+
+B M是模型层（model）
+
+C 使开发过程变得复杂
+
+D C是控制器(controller)的缩写
+
+5、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：A ; B
+
+A IOC
+
+B AOP
+
+C ORM
+
+D MVC
+
+6、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步
+
+D 事务提交时发送sql语句与数据库同步
+
+7、下面关于数组声明和初始化的语句正确的有？：
+						 
+
+正确答案：A ; B
+
+A String a2[]={"string1","string1","string1"}
+
+B String a3[]=new String(3)
+
+C int[][] a4=new int[3][3]
+
+D int a1[]={3,4,5}
+
+8、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select sysdate()
+
+B select sdate()
+
+C select now()
+
+D select today()
+
+9、下面关于在Spring中配置Bean的name属性的说法正确的是：
+						 
+
+正确答案：A ; C
+
+A name属性的值不可以重复
+
+B name属性的值可以重复
+
+C name属性不是必须的，可以没有
+
+D name属性是必须，没有name属性就会报错
+
+10、下面关于在Spring中配置Bean的id属性的说法正确的是：
+						 
+
+正确答案：A ; D
+
+A id属性不是必须的，可以没有
+
+B id属性的值可以重复
+
+C id属性是必须，没有id属性就会报错
+
+D id属性的值不可以重复
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2框架的主要作用是处理Http请求：：
+
+正确答案：对	
+
+√
+
+×
+
+3、Java语言中，构造方法是可以继承的：：
+
+正确答案：错	
+
+√
+
+×
+
+4、微信公众号服务接入只支持微信自己的服务器，阿里云的服务器不支持：：
+
+正确答案：错	
+
+√
+
+×
+
+5、使用构造方法只能给非静态变量赋初值：：
+
+正确答案：对	
+
+√
+
+×
+
+6、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+7、微信公众平台只允许用户发送文本消息：：
+
+正确答案：错	
+
+√
+
+×
+
+8、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+9、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+10、Sturts2中params:这是最基本的一个拦截器，它负责解析HTTP请求中的参数，并将参数值设置成Action对应的属性值。：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中说法有误的是：
+
+  正确答案：B
+
+A  bootstrap支持火狐浏览器
+
+B  bootstrap必须在移动设备上使用
+
+C  bootstrap支持自定义 Bootstrap 组件
+
+D  bootstrap支持谷歌浏览器
+
+2、Hibernate中对象在session关闭之后的状态是：：
+
+  正确答案：C
+
+A  Persistent
+
+B  Transient
+
+C  Detached
+
+D  singleton
+
+3、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：C
+
+A  prototype.js
+
+B  Angular.js
+
+C  popover.js
+
+D  javascript.js
+
+4、在Controller类中可以使用到的注解有：：
+
+  正确答案：A
+
+A  @Controller
+
+B  @servlet
+
+C  @Auto
+
+D  @RequestMap
+
+5、AngularJs中ng-init指令用于：
+
+  正确答案：D
+
+A  初始化应用程序
+
+B  创建init
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序数据
+
+6、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：B
+
+A  .btn
+
+B  .btn-default
+
+C  .btn-success
+
+D  .btn-primary
+
+7、Hibernate核心配置文件的后缀名是：
+
+  正确答案：D
+
+A  .doc
+
+B  .properties
+
+C  .hbm
+
+D  .xml
+
+8、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：A
+
+A  input, select, textarea
+
+B  input, select, button
+
+C  button, select, textarea
+
+D  input, button, textarea
+
+9、AngularJs中ng-model指令用于：
+
+  正确答案：B
+
+A  初始化应用程序
+
+B  把元素值（比如输入域的值）绑定到应用程序。
+
+C  创建模型工厂
+
+D  初始化应用程序数据
+
+10、路由设置对象说法正确的是：
+
+  正确答案：B
+
+A  AngularJS 路由不可以通过不同的模板来实现
+
+B  AngularJS 路由也可以通过不同的模板来实现
+
+C  $routeProvider.when 函数的第一个参数只能是URL
+
+D  $routeProvider.when 函数的第一个参数是路由配置对象
+
+11、下面哪种不是微信开发平台的消息加解密方式：
+
+  正确答案：A
+
+A  克隆模式
+
+B  明文模式
+
+C  安全模式
+
+D  兼容模式
+
+12、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：B
+
+A  使用.divider可以添加下拉菜单中的分割线
+
+B  使用dropdown-lg可以指定菜单的大小
+
+C  使用dropdown-header可以给下拉菜单可以添加标题
+
+D  使用dropup可以向上弹出菜单
+
+13、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：A
+
+A  ng-controller
+
+B  ng-model
+
+C  ng-template
+
+D  ng-route
+
+14、关于angularjs说法，错误的是：
+
+  正确答案：C
+
+A  实现了数据双向绑定
+
+B  实现了依赖注入
+
+C  极大的丰富了dom操作
+
+D  前端mvc，极大降低前端开发的耦合
+
+15、Bootstrap 的所有 JavaScript 插件都依赖______，因此必须在 Bootstrap________引入；：
+
+  正确答案：D
+
+A  Bootstrap, 之前
+
+B  Bootstrap, 之后
+
+C  jQuery.js, 之后
+
+D  jQuery, 之前
+
+16、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：C
+
+A  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+B  字体图标只能添加在按钮上
+
+C  字体图标可以改变字体尺寸、颜色
+
+D  字体图标大小颜色是固定的无法设置
+
+17、angulars支持以下（）事件：
+
+  正确答案：D
+
+A  ng-srcset
+
+B  ng-switch
+
+C  ng-open
+
+D  ng-click
+
+18、主要标签和成功按钮分别是:______：
+
+  正确答案：A
+
+A  label-primary, btn-success
+
+B  btn-default, label-waring
+
+C  btn-primary,label-success
+
+D  label-default, btn-primary
+
+19、&lt;div ng-app&gt;
+ &lt;p&gt;我的第一个表达式: exam_ &quot;1&quot;+1 ,exam_&quot;1&quot;*2+1&lt;/p&gt;
+ &lt;/div&gt;
+ 以上代码可以正确输出的选项是：
+
+  正确答案：A
+
+A  11,3;
+
+B  2,13;
+
+C  2,3;
+
+D  11,13;
+
+20、Angularjs路由通过_______标记帮助我们区分不同逻辑页面，并将其绑定到对应的控制器上：
+
+  正确答案：B
+
+A  @+
+
+B  #+标记
+
+C  #
+
+D  +#
+多选题：
+
+1、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; C
+
+A struts2框架的运行环境是web容器；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架定义了访问数据库的方式；
+
+2、struts2中下列说法不正确的为( )：：
+						 
+
+正确答案：B ; D
+
+A struts2基于webwork
+
+B struts2是侵入型框架，严重依赖servletAPI
+
+C struts2是非侵入型框架，不严重依赖servletAPI
+
+D strtus2基于struts1
+
+3、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int[][] a4=new int[3][3]; 
+
+B String a2[]={"string1","string1","string1"}; 
+
+C int a1[]={3,4,5};
+
+D String a3[]=new String(3);
+
+4、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A JAVASCRIPT
+
+B JAVA
+
+C CSS
+
+D HTML
+
+5、在拦截器中，使用ActionInvocation:：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可以获得ActionContext对象；
+
+B 可以获得Action对象；
+
+C 的invoke方法可以调用下一个拦截器的intercept方法
+
+D 的invoke方法可以调用action的执行方法；
+
+6、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：B ; C
+
+A 以上都对
+
+B ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D 没有区别
+
+7、属于AngularJS 指令的有：
+						 
+
+正确答案：A ; C ; D
+
+A ng-app
+
+B ng-small
+
+C ng-init
+
+D ng-model
+
+8、ng-model 指令为应用程序数据提供状态：
+						 
+
+正确答案：A ; B ; C ; D
+
+A dirty
+
+B error
+
+C touched
+
+D invalid
+
+9、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A JAVASCRIPT
+
+B HTML
+
+C JAVA
+
+D CSS
+
+10、关于$routeChangeStart下列说法错误的是：
+						 
+
+正确答案：A ; C ; D
+
+A 这个事件不会初始化ng-model
+
+B 这个事件会在路由跳转前触发
+
+C 这个事件会初始化ng-model
+
+D 这个事件会在路由跳转成功后触发
+判断题：
+
+1、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+2、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+3、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+4、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共打印10次：：
+
+正确答案：错	
+
+√
+
+×
+
+5、微信公众号可以主动添加粉丝关注：：
+
+正确答案：错	
+
+√
+
+×
+
+6、Angularjs中的路由，应用比较广泛，主要是允许我们通过不同的url访问不同的内容，可实现多视图的单页web应用。 ：：
+
+正确答案：对	
+
+√
+
+×
+
+7、&lt;head&gt;     
+        &lt;script type=&quot;text/javascript&quot;&gt;  
+            function Aaa($scope) {  
+                $scope.name = 'zhang';  
+                $scope.age = 10;  
+            }  
+        &lt;/script&gt;  
+&lt;/head&gt;  
+  
+    &lt;body&gt;  
+  
+        &lt;div ng-controller=&quot;Aaa&quot;&gt;  
+            &lt;p&gt;exam_name&lt;/p&gt;  
+        &lt;/div&gt;  
+        &lt;div&gt;  
+            &lt;p&gt;exam_age&lt;/p&gt;  
+        &lt;/div&gt;  
+  
+    &lt;/body&gt;  
+打印结果为zhang 10：：
+
+正确答案：错	
+
+√
+
+×
+
+8、$routeProvider.when 函数的第一个参数是 URL 或者 URL 正则规则，第二个参数为路由配置对象：：
+
+正确答案：对	
+
+√
+
+×
+
+9、ng-bind可以实现双向绑定：：
+
+正确答案：对	
+
+√
+
+×
+
+10、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+
+单选题：
+
+1、MVC中的C是()：
+
+  正确答案：A
+
+A  控制层
+
+B  业务层
+
+C  视图层
+
+D  模型层
+
+2、jquery匹配所有的单行文本框的选择器是：：
+
+  正确答案：B
+
+A  input选择器
+
+B  text选择器
+
+C  button选择器
+
+D  singletext选择器
+
+3、Angularjs路由通过_______标记帮助我们区分不同逻辑页面，并将其绑定到对应的控制器上：
+
+  正确答案：D
+
+A  +#
+
+B  @+
+
+C  #
+
+D  #+标记
+
+4、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：B
+
+A  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+B  字体图标可以改变字体尺寸、颜色
+
+C  字体图标大小颜色是固定的无法设置
+
+D  字体图标只能添加在按钮上
+
+5、关于angularjs说法，错误的是：
+
+  正确答案：D
+
+A  实现了依赖注入
+
+B  实现了数据双向绑定
+
+C  前端mvc，极大降低前端开发的耦合
+
+D  极大的丰富了dom操作
+
+6、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：B
+
+A  .btn-success
+
+B  .btn-default
+
+C  .btn-primary
+
+D  .btn
+
+7、bootstrap中说法正确的是：
+
+  正确答案：D
+
+A  bootstrap不是开源的
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的组件不支持定制
+
+D  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+8、jquery匹配所有的单行文本框的选择器是：：
+
+  正确答案：B
+
+A  button选择器
+
+B  text选择器
+
+C  input选择器
+
+D  singletext选择器
+
+9、AngularJs中ng-init指令用于：
+
+  正确答案：A
+
+A  初始化应用程序数据
+
+B  把元素值（比如输入域的值）绑定到应用程序。
+
+C  创建init
+
+D  初始化应用程序
+
+10、AngularJs中ng-model指令用于：
+
+  正确答案：C
+
+A  创建模型工厂
+
+B  初始化应用程序
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序数据
+
+11、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  谷歌
+
+C  IE
+
+D  以下都是
+
+12、ng-model与ng-bind的区别是：
+
+  正确答案：A
+
+A  ng-model会绑定到模型，ng-bind不会
+
+B  ng-model可以使用在div上
+
+C  使用ng-model显示速度比ng-bind快
+
+D  没有区别
+
+13、主要标签和成功按钮分别是:______：
+
+  正确答案：A
+
+A  label-primary, btn-success
+
+B  label-default, btn-primary
+
+C  btn-default, label-waring
+
+D  btn-primary,label-success
+
+14、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持谷歌浏览器
+
+15、bootstrap超小屏幕下，创建三个相等的列，应使用下列哪一个：
+
+  正确答案：B
+
+A   .col-xs-6
+
+B   .col-xs-4
+
+C   .col-xs-2
+
+D   .col-xs-3
+
+16、主要标签和成功按钮分别是:______：
+
+  正确答案：D
+
+A  btn-primary,label-success
+
+B  btn-default, label-waring
+
+C  label-default, btn-primary
+
+D  label-primary, btn-success
+
+17、angulars支持以下（）事件：
+
+  正确答案：C
+
+A  ng-open
+
+B  ng-switch
+
+C  ng-click
+
+D  ng-srcset
+
+18、MVC中的C是()：
+
+  正确答案：B
+
+A  模型层
+
+B  控制层
+
+C  视图层
+
+D  业务层
+
+19、MyBatis框架是一个什么样的框架：
+
+  正确答案：C
+
+A  js框架
+
+B  整合框架
+
+C  数据持久化框架
+
+D  MVC框架
+
+20、AngularJs中ng-app指令用于：
+
+  正确答案：B
+
+A  创建app
+
+B  定义应用程序的根元素。
+
+C  初始化应用程序数据
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+多选题：
+
+1、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A CSS
+
+B JAVA
+
+C HTML
+
+D JAVASCRIPT
+
+2、HTTP指令包括下面哪三个：
+						 
+
+正确答案：A ; B ; C
+
+A $http.head
+
+B $http.get
+
+C $http.post
+
+D $http.gets
+
+3、$routeProvider.when路由设置对象包括：
+						 
+
+正确答案：A ; B ; C ; D
+
+A redirectTo
+
+B Template
+
+C controllerAs
+
+D templateUrl
+
+4、HTTP指令包括下面哪三个：
+						 
+
+正确答案：B ; C ; D
+
+A $http.gets
+
+B $http.get
+
+C $http.head
+
+D $http.post
+
+5、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; B
+
+A 事务提交时发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步；
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+6、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A JAVASCRIPT
+
+B HTML
+
+C JAVA
+
+D CSS
+
+7、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int a1[]={3,4,5};
+
+B String a2[]={"string1","string1","string1"}; 
+
+C int[][] a4=new int[3][3]; 
+
+D String a3[]=new String(3);
+
+8、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：B ; D
+
+A <s:form>
+
+B <bean:write>
+
+C <s: textfield>
+
+D <c:out>
+
+9、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; D
+
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的主要作用是处理Http请求；
+
+10、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A JAVASCRIPT
+
+B JAVA
+
+C HTML
+
+D CSS
+判断题：
+
+1、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共打印10次：：
+
+正确答案：错	
+
+√
+
+×
+
+2、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+3、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+4、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+5、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl打印出当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+6、MVC中的V是控制层：：
+
+正确答案：错	
+
+√
+
+×
+
+7、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+8、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共打印10次：：
+
+正确答案：错	
+
+√
+
+×
+
+9、微信公众号可以主动添加粉丝关注：：
+
+正确答案：错	
+
+√
+
+×
+
+10、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+
+单选题：
+
+1、struts1 的核心控制器是()：
+
+  正确答案：D
+
+A  DispatcherServlet
+
+B   FiltDispatche
+
+C   FiltDispatcherAction
+
+D   ActionServlet
+
+2、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：A
+
+A  regexp
+
+B  against
+
+C  like
+
+D  match
+
+3、bootstrap中pagination说法正确的是：
+
+  正确答案：D
+
+A  bootstrap不是开源的
+
+B  bootstrap跟jQuery一样提供了很多dom操作方法
+
+C  Bootstrap 的组件不支持定制
+
+D  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+4、Hibernate核心配置文件的后缀名是：
+
+  正确答案：B
+
+A  .hbm
+
+B  .xml
+
+C  .doc
+
+D  .properties
+
+5、spring中,bean的作用域不包括？：
+
+  正确答案：D
+
+A  prototype
+
+B  request
+
+C  singleton
+
+D  response
+
+6、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：C
+
+A  Hibernate是一个ORM的实现
+
+B  使用Hibernate可以简化持久化层的编码
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  ibernate是一种数据持久化技术
+
+7、bootstrap中说法有误的是：
+
+  正确答案：D
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap必须在移动设备上使用
+
+8、firebug属于哪款浏览器调试工具：
+
+  正确答案：A
+
+A  火狐
+
+B  以下都是
+
+C  谷歌
+
+D  IE
+多选题：
+
+1、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; B ; C
+
+A int[][] a4=new int[3][3]; 
+
+B int a1[]={3,4,5};
+
+C String a2[]={"string1","string1","string1"}; 
+
+D String a3[]=new String(3);
+
+2、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 立即发送sql语句与数据库同步；
+
+D 事务提交时发送sql语句与数据库同步；
+
+3、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; B
+
+A struts2框架的运行环境是web容器；
+
+B struts2框架的主要作用是处理Http请求；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架定义了访问数据库的方式；
+
+4、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：B ; C
+
+A <s:form>
+
+B <bean:write>
+
+C <c:out>
+
+D <s: textfield>
+
+5、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select sysdate()
+
+B select today()
+
+C select now()
+
+D select now() from dual
+判断题：
+
+1、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+3、bootstrap是开源的：：
+
+正确答案：对	
+
+√
+
+×
+
+4、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+5、bootstrap支持响应式布局：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中说法有误的是：
+
+  正确答案：B
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap必须在移动设备上使用
+
+C  bootstrap支持火狐浏览器
+
+D  bootstrap支持谷歌浏览器
+
+2、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：C
+
+A  ibernate是一种数据持久化技术
+
+B  Hibernate是一个ORM的实现
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  使用Hibernate可以简化持久化层的编码
+
+3、struts1 的核心控制器是()：
+
+  正确答案：B
+
+A   FiltDispatche
+
+B   ActionServlet
+
+C  DispatcherServlet
+
+D   FiltDispatcherAction
+
+4、Hibernate核心配置文件的后缀名是：
+
+  正确答案：A
+
+A  .xml
+
+B  .hbm
+
+C  .doc
+
+D  .properties
+
+5、firebug属于哪款浏览器调试工具：
+
+  正确答案：D
+
+A  IE
+
+B  以下都是
+
+C  谷歌
+
+D  火狐
+
+6、spring中,bean的作用域不包括？：
+
+  正确答案：B
+
+A  prototype
+
+B  response
+
+C  request
+
+D  singleton
+
+7、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持谷歌浏览器
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+8、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：A
+
+A  Hibernate会使数据库的操作变得复杂
+
+B  Hibernate是一个ORM的实现
+
+C  ibernate是一种数据持久化技术
+
+D  使用Hibernate可以简化持久化层的编码
+
+9、struts1 的核心控制器是()：
+
+  正确答案：D
+
+A  DispatcherServlet
+
+B   FiltDispatche
+
+C   FiltDispatcherAction
+
+D   ActionServlet
+
+10、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：C
+
+A  sm是small的缩写;
+
+B  xs是extremely small的缩写。
+
+C  lg是lag的缩写;
+
+D  md是mid的缩写;
+多选题：
+
+1、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; B
+
+A 事务提交时发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 立即发送sql语句与数据库同步；
+
+2、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; B
+
+A <c:out>
+
+B <bean:write>
+
+C <s: textfield>
+
+D <s:form>
+
+3、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：B ; D
+
+A select today()
+
+B select now()
+
+C select now() from dual
+
+D select sysdate()
+
+4、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; D
+
+A struts2框架可以脱离web容器运行
+
+B struts2框架的主要作用是处理Http请求；
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的运行环境是web容器；
+
+5、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; C ; D
+
+A int a1[]={3,4,5};
+
+B String a3[]=new String(3);
+
+C String a2[]={"string1","string1","string1"}; 
+
+D int[][] a4=new int[3][3]; 
+
+6、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; C
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 立即发送sql语句与数据库同步；
+
+7、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：A ; C ; D
+
+A int a1[]={3,4,5};
+
+B String a3[]=new String(3);
+
+C int[][] a4=new int[3][3]; 
+
+D String a2[]={"string1","string1","string1"}; 
+
+8、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; C
+
+A select sysdate()
+
+B select today()
+
+C select now()
+
+D select now() from dual
+
+9、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; B
+
+A <c:out>
+
+B <bean:write>
+
+C <s: textfield>
+
+D <s:form>
+
+10、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：A ; C
+
+A struts2框架的主要作用是处理Http请求；
+
+B struts2框架定义了访问数据库的方式；
+
+C struts2框架的运行环境是web容器；
+
+D struts2框架可以脱离web容器运行
+判断题：
+
+1、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+2、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+3、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+4、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+5、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+
+
+单选题：
+
+1、Hibernate核心配置文件的后缀名是：
+
+  正确答案：A
+
+A  .xml
+
+B  .properties
+
+C  .hbm
+
+D  .doc
+
+2、bootstrap中pagination说法正确的是：
+
+  正确答案：A
+
+A  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+B  bootstrap不是开源的
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  Bootstrap 的组件不支持定制
+
+3、spring中,bean的作用域不包括？：
+
+  正确答案：B
+
+A  singleton
+
+B  response
+
+C  request
+
+D  prototype
+
+4、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：C
+
+A  Hibernate是一个ORM的实现
+
+B  使用Hibernate可以简化持久化层的编码
+
+C  Hibernate会使数据库的操作变得复杂
+
+D  ibernate是一种数据持久化技术
+
+5、firebug属于哪款浏览器调试工具：
+
+  正确答案：B
+
+A  谷歌
+
+B  火狐
+
+C  IE
+
+D  以下都是
+
+6、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持谷歌浏览器
+
+7、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：C
+
+A  md是mid的缩写;
+
+B  sm是small的缩写;
+
+C  lg是lag的缩写;
+
+D  xs是extremely small的缩写。
+
+8、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：A
+
+A  Hibernate会使数据库的操作变得复杂
+
+B  Hibernate是一个ORM的实现
+
+C  ibernate是一种数据持久化技术
+
+D  使用Hibernate可以简化持久化层的编码
+
+9、firebug属于哪款浏览器调试工具：
+
+  正确答案：B
+
+A  IE
+
+B  火狐
+
+C  谷歌
+
+D  以下都是
+
+10、spring中,bean的作用域不包括？：
+
+  正确答案：A
+
+A  response
+
+B  singleton
+
+C  request
+
+D  prototype
+
+11、bootstrap框架是由哪家公司开源的：
+
+  正确答案：C
+
+A  Facebook
+
+B  Baidu
+
+C  Twitter
+
+D  Google
+
+12、struts1 的核心控制器是()：
+
+  正确答案：B
+
+A  DispatcherServlet
+
+B   ActionServlet
+
+C   FiltDispatcherAction
+
+D   FiltDispatche
+
+13、bootstrap中pagination说法正确的是：
+
+  正确答案：D
+
+A  bootstrap不是开源的
+
+B  Bootstrap 的组件不支持定制
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+14、关于Spring中的ApplicationContext接口的描述不正确的是：：
+
+  正确答案：A
+
+A  持久化支持
+
+B  国际化支持
+
+C  对事件的支持
+
+D  继承自BeanFactory接口
+
+15、struts的理解正确的是：
+
+  正确答案：A
+
+A  struts是Apache旗下的框架
+
+B  struts不是基于MVC设计模式的框架
+
+C  struts不是框架
+
+D  struts不是Apache组织开发的
+
+16、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Baidu
+
+C  Facebook
+
+D  Google
+
+17、firebug属于哪款浏览器调试工具：
+
+  正确答案：D
+
+A  以下都是
+
+B  IE
+
+C  谷歌
+
+D  火狐
+
+18、下面操作可以通过ID获得页面元素：：
+
+  正确答案：A
+
+A  $("#ID")
+
+B  $("ID")
+
+C  $(".ID")
+
+D  $(ID)
+
+19、Hibernate核心配置文件的后缀名是：
+
+  正确答案：B
+
+A  .properties
+
+B  .xml
+
+C  .hbm
+
+D  .doc
+
+20、Hibernate中对象在session关闭之后的状态是：：
+
+  正确答案：A
+
+A  Detached
+
+B  Transient
+
+C  singleton
+
+D  Persistent
+
+21、spring中,bean的作用域不包括？：
+
+  正确答案：B
+
+A  request
+
+B  response
+
+C  singleton
+
+D  prototype
+
+22、struts2动态调用的格式为：(    )：：
+
+  正确答案：D
+
+A  ActionName?methodName.action
+
+B  ActionName*methodName.action
+
+C  ActionName@mathodName.action
+
+D  ActionName!methodName.action
+多选题：
+
+1、下面关于数组声明和初始化的语句正确的有？：：
+						 
+
+正确答案：B ; C ; D
+
+A String a3[]=new String(3);
+
+B int a1[]={3,4,5};
+
+C int[][] a4=new int[3][3]; 
+
+D String a2[]={"string1","string1","string1"}; 
+
+2、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：C ; D
+
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架可以脱离web容器运行
+
+C struts2框架的主要作用是处理Http请求；
+
+D struts2框架的运行环境是web容器；
+
+3、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; D
+
+A select now()
+
+B select now() from dual
+
+C select today()
+
+D select sysdate()
+
+4、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; C
+
+A 调用session.flush()时，发送sql语句与数据库同步
+
+B 关闭Session对象时，发送sql语句与数据库同步
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 立即发送sql语句与数据库同步；
+
+5、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; C
+
+A 立即发送sql语句与数据库同步；
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 调用session.flush()时，发送sql语句与数据库同步
+
+D 关闭Session对象时，发送sql语句与数据库同步
+
+6、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; B
+
+A <bean:write>
+
+B <c:out>
+
+C <s:form>
+
+D <s: textfield>
+
+7、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; C
+
+A CSS
+
+B HTML
+
+C JAVASCRIPT
+
+D JAVA
+
+8、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：C ; D
+
+A select today()
+
+B select now() from dual
+
+C select now()
+
+D select sysdate()
+
+9、以下属于struts2动作执行的结果类型Result Type的是  (     )：：
+						 
+
+正确答案：A ; B ; C
+
+A redirectAction
+
+B dispatcher
+
+C redirect
+
+D action
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+3、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+4、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+5、“行（row）”必须包含在 .container （固定宽度）或 .container-fluid （100% 宽度）中，以便为其赋予合适的排列（aligment）和内补（padding）：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+7、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+8、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+9、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Facebook
+
+C  Google
+
+D  Baidu
+
+2、bootstrap中pagination说法正确的是：
+
+  正确答案：D
+
+A  bootstrap不是开源的
+
+B  Bootstrap 的组件不支持定制
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  Bootstrap 的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+3、spring中,bean的作用域不包括？：
+
+  正确答案：A
+
+A  response
+
+B  prototype
+
+C  request
+
+D  singleton
+
+4、struts1 的核心控制器是()：
+
+  正确答案：C
+
+A   FiltDispatcherAction
+
+B   FiltDispatche
+
+C   ActionServlet
+
+D  DispatcherServlet
+
+5、Hibernate核心配置文件的后缀名是：
+
+  正确答案：A
+
+A  .xml
+
+B  .hbm
+
+C  .properties
+
+D  .doc
+
+6、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持火狐浏览器
+
+7、Hibernate中获取最大id,在此基础上加1的主键生成策略为（ ）：
+
+  正确答案：D
+
+A  uuid
+
+B  native
+
+C  sequence
+
+D  increment
+
+8、对于Hibernate框架，下面的说法正确的是：
+
+  正确答案：B
+
+A  hibernate的实体必须有id字段
+
+B  Hibernate是一个ORM的实现
+
+C  使用Hibernate必须引入spring
+
+D  Hibernate只能操作mysql数据库
+
+9、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持自定义 Bootstrap 组件
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持火狐浏览器
+
+10、struts概念是( )：：
+
+  正确答案：D
+
+A  struts不是框架
+
+B  struts不是基于MVC设计模式的框架
+
+C  struts不是Apache组织开发的
+
+D  struts是Apache组织开发的基于MVC设计模式的一个开源的框架
+
+11、Hibernate核心配置文件的后缀名是：
+
+  正确答案：D
+
+A  .doc
+
+B  .properties
+
+C  .hbm
+
+D  .xml
+
+12、下列不属于sql的聚合函数的是：：
+
+  正确答案：C
+
+A  min
+
+B  max
+
+C  today
+
+D  count
+
+13、MVC中的C是()：
+
+  正确答案：C
+
+A  模型层
+
+B  视图层
+
+C  控制层
+
+D  业务层
+
+14、关于Spring中的ApplicationContext接口的描述不正确的是：：
+
+  正确答案：D
+
+A  国际化支持
+
+B  继承自BeanFactory接口
+
+C  对事件的支持
+
+D  持久化支持
+
+15、bootstrap框架是由哪家公司开源的：
+
+  正确答案：C
+
+A  Baidu
+
+B  Facebook
+
+C  Twitter
+
+D  Google
+
+16、对于Hibernate框架，下面的说法不正确的是：
+
+  正确答案：A
+
+A  Hibernate会使数据库的操作变得复杂
+
+B  Hibernate是一个ORM的实现
+
+C  使用Hibernate可以简化持久化层的编码
+
+D  hibernate是一种数据持久化技术
+
+17、Hibernate核心配置文件的后缀名是：
+
+  正确答案：A
+
+A  .xml
+
+B  .hbm
+
+C  .properties
+
+D  .doc
+
+18、MyBatis框架是一个什么样的框架：
+
+  正确答案：A
+
+A  数据持久化框架
+
+B  MVC框架
+
+C  整合框架
+
+D  js框架
+
+19、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：C
+
+A  Angular.js
+
+B  javascript.js
+
+C  popover.js
+
+D  prototype.js
+
+20、下列bootstrap关于大小样式缩写错误的是：
+
+  正确答案：B
+
+A  xs是extremely small的缩写。
+
+B  lg是lag的缩写;
+
+C  md是mid的缩写;
+
+D  sm是small的缩写;
+
+21、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：A
+
+A   .col-xs-4
+
+B   .col-xs-3
+
+C   .col-xs-2
+
+D   .col-xs-6
+
+22、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持自定义 Bootstrap 组件
+多选题：
+
+1、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：B ; C
+
+A <s: textfield>
+
+B <c:out>
+
+C <bean:write>
+
+D <s:form>
+
+2、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; B
+
+A 事务提交时发送sql语句与数据库同步；
+
+B 调用session.flush()时，发送sql语句与数据库同步
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 立即发送sql语句与数据库同步；
+
+3、struts2中下列说法不正确的为( )：：
+						 
+
+正确答案：B ; C
+
+A struts2基于webwork
+
+B struts2是侵入型框架，严重依赖servletAPI
+
+C strtus2基于struts1
+
+D struts2是非侵入型框架，不严重依赖servletAPI
+
+4、bootstrap是基于什么组成的：
+						 
+
+正确答案：B ; C ; D
+
+A JAVA
+
+B CSS
+
+C HTML
+
+D JAVASCRIPT
+
+5、关于struts2框架，下面哪些说法是正确的？：
+						 
+
+正确答案：B ; D
+
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的主要作用是处理Http请求；
+
+
+
+6、在拦截器中，使用ActionInvocation:：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可以获得Action对象；
+
+B 的invoke方法可以调用action的执行方法；
+
+C 可以获得ActionContext对象；
+
+D 的invoke方法可以调用下一个拦截器的intercept方法
+
+7、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; D
+
+A select sysdate()
+
+B select now() from dual
+
+C select today()
+
+D select now()
+
+8、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A HTML
+
+B CSS
+
+C JAVA
+
+D JAVASCRIPT
+
+9、关于类继承关系的映射，下列说法正确的是：：
+						 
+
+正确答案：C ; D
+
+A 继承关系不能映射；
+
+B 只将继承关系中的子类分别映射成不同的表；
+
+C 可以将继承关系中的每个类映射到一张表中；
+
+D 父类映射成一张表，各子类将其特有属性分别映射成不同的表
+判断题：
+
+1、struts2标签可以与ognl表达式结合起来使用：：
+
+正确答案：对	
+
+√
+
+×
+
+2、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+3、Bootstrap 中的导航组件都依赖同一个 .btn 类，状态类也是共用的：：
+
+正确答案：错	
+
+√
+
+×
+
+4、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+5、struts2配置文件中Result标签省略name属性，默认取值为dispatcher：：
+
+正确答案：错	
+
+√
+
+×
+
+6、Bootstrap 轮播（Carousel）插件是一种灵活的响应式的向站点添加滑块的方式：：
+
+正确答案：对	
+
+√
+
+×
+
+7、 MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+8、struts2的Action接受数据对应的方式有属性驱动（FieldDriven）和模型驱动（ModelDriven）：：
+
+正确答案：对	
+
+√
+
+×
+
+9、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+
+
+单选题：
+
+1、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：A
+
+A  regexp
+
+B  against
+
+C  like
+
+D  match
+
+2、在Controller类中可以使用到的注解有：：
+
+  正确答案：A
+
+A  @Controller
+
+B  @Auto
+
+C  @RequestMap
+
+D  @servlet
+
+3、SSH中，关于dao层的spring配置文件中，通常要注入( )：：
+
+  正确答案：C
+
+A  sqlmap
+
+B  factory
+
+C  sessionFactory
+
+D  session
+
+4、jquery匹配所有的单行文本框的选择器是：：
+
+  正确答案：A
+
+A  text选择器
+
+B  singletext选择器
+
+C  button选择器
+
+D  input选择器
+
+5、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Google
+
+C  Baidu
+
+D  Facebook
+
+6、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：D
+
+A  <environments>
+
+B  <sqlMapConfig>
+
+C  <setting>
+
+D  <configuration>
+
+7、bootstrap中pagination说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap的组件不支持定制
+
+B  Bootstrap的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  bootstrap不是开源的
+
+8、要使用bootstrap最基本样式功能必须引入的文件是：
+
+  正确答案：A
+
+A  bootstrap.min.css
+
+B  bootstrap3.css
+
+C  jquery.js
+
+D  bootstrap.min.js
+
+9、MVC中的C是()：
+
+  正确答案：C
+
+A  模型层
+
+B  业务层
+
+C  控制层
+
+D  视图层
+
+10、MyBatis框架是一个什么样的框架：
+
+  正确答案：D
+
+A  整合框架
+
+B  js框架
+
+C  MVC框架
+
+D  数据持久化框架
+
+11、Mybatis中关于sql的描述中正确的是（）：
+
+  正确答案：D
+
+A  sql语句只可以写在子映射文件当中
+
+B  可以使用update标签完成所有的查询功能
+
+C  可以使用delete完成所有的查询功能
+
+D  在实际项目中大多数sql直接写在mybatis的子映射文件当中
+
+12、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：A
+
+A  popover.js
+
+B  javascript.js
+
+C  Angular.js
+
+D  prototype.js
+
+13、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：B
+
+A  是.col-xs-3
+
+B  是.col-xs-4
+
+C  是.col-xs-6
+
+D  是.col-xs-2
+
+14、引入拦截器的标签是：
+
+  正确答案：D
+
+A  <defaull-interceptor-ref>
+
+B  <intercep>
+
+C  <interceptor>
+
+D  <interceptor-ref>
+
+15、firebug属于哪款浏览器调试工具：
+
+  正确答案：D
+
+A  谷歌
+
+B  IE
+
+C  以下都是
+
+D  火狐
+
+16、Spring中Bean的scope值表示原型的是（）：
+
+  正确答案：A
+
+A  prototype
+
+B  request
+
+C  session
+
+D  applicationContext
+
+17、tomcat 更改端口号的配置文件是：
+
+  正确答案：D
+
+A  web.xml
+
+B  config.xml
+
+C  application.xml
+
+D  server.xml
+
+18、已知总记录数listCount和每页显示的记录数pageSize,求总页数,下面说法正确的是()：
+
+  正确答案：D
+
+A  listCount / pageSize + (listCount % pageSize != 0 ? 1 : 1)
+
+B  listCount / pageSize + (listCount % pageSize != 0 ? 0 : 1)
+
+C  listCount / pageSize + (listCount % pageSize != 1 ? 1 : 0)
+
+D  listCount / pageSize + (listCount % pageSize == 0 ? 0 : 1)
+
+19、JDBC中的?号占位符开始值：：
+
+  正确答案：B
+
+A  是3
+
+B  是1
+
+C  是0
+
+D  是2
+
+20、Spring的核心配置文件的默认位置是（）：
+
+  正确答案：C
+
+A  src
+
+B  webRoot
+
+C  WEB-INF
+
+D  dto
+多选题：
+
+1、下面关于在Spring中配置Bean的name属性的说法正确的是：
+						 
+
+正确答案：C ; D
+
+A name属性是必须，没有name属性就会报错
+
+B name属性的值可以重复
+
+C name属性不是必须的，可以没有
+
+D name属性的值不可以重复
+
+2、下面关于在Spring中配置Bean的id属性的说法正确的是：
+						 
+
+正确答案：C ; D
+
+A id属性是必须，没有id属性就会报错
+
+B id属性的值可以重复
+
+C id属性不是必须的，可以没有
+
+D id属性的值不可以重复
+
+3、关于Servlet规范下面说法正确的是：：
+						 
+
+正确答案：A ; C ; D
+
+A Tomcat是符合Servlet规范的优秀Servlet容器
+
+B Servlet规范由oracle公司制定
+
+C Servlet的是javaweb的重要技术
+
+D Servlet规范制定了标准Servlet接口
+
+4、关于AOP的说法正确的是：：
+						 
+
+正确答案：A ; B ; D
+
+A 拦截器是基于AOP思想实现的
+
+B AOP是面向切面编程
+
+C AOP对事务的控制只能在srevice层
+
+D AOP的一个重要作用就是事务控制
+
+5、ssm整合时关于web.xml的描述说法正确的是（）：
+						 
+
+正确答案：A ; D
+
+A 位置在WEB-INF下
+
+B 经常被用于注入数据源
+
+C 配置springmvc核心控制器使用filter标签
+
+D 需要配置springmvc的核心控制器
+
+6、Map的遍历可以使用以下哪些方法：：
+						 
+
+正确答案：A ; B
+
+A keySet
+
+B entrySet
+
+C contains
+
+D listMap
+
+7、hibernate与mybatis的区别描述正确的是：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 项目初期如果在需求上具有好多不确定的因素，建议使用mybatis框架，因为其更灵活。
+
+B 一般而言，hibernate的开发效率高
+
+C sql优化方面mybatis比hibernate做的更好。
+
+D mybatis的运行效率或者执行效率高于hibernate
+
+8、abstractclass和interface的区别或描述正确的是（）：
+						 
+
+正确答案：B ; C ; D
+
+A 都可以写抽象的方法
+
+B 抽象类有构造方法,接口没有
+
+C 抽象类中可以有普通方法
+
+D 抽象类中可以有普通的成员变量,普通的非抽象方法.接口没有。
+
+9、关于事务的描述正确的是（ ）：
+						 
+
+正确答案：B ; C
+
+A 事务只可以加在service层
+
+B 事务一般都是加在service层
+
+C 事务存在的目的就是为了保证一个业务的完整性
+
+D 事务只能用于持久层框架，其他的都不可以
+
+10、事务的隔离级别包含
+：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可重复读
+
+B 串行化
+
+C 读未提交
+
+D 读已提交
+判断题：
+
+1、MyBatis是一个orm框架：：
+
+正确答案：对	
+
+√
+
+×
+
+2、select * from stu;中的*代表是表中的所有字段：：
+
+正确答案：对	
+
+√
+
+×
+
+3、如果表设置了主外键关键，那么外键的值要在主键范围之内。：：
+
+正确答案：对	
+
+√
+
+×
+
+4、集合（set）中可以包含相同对象：：
+
+正确答案：错	
+
+√
+
+×
+
+5、JDK的动态代理要求必须有接口：：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Spring的核心配置文件可以引入properties文件作为资源文件：：
+
+正确答案：对	
+
+√
+
+×
+
+7、Hibernate不是一个orm框架：：
+
+正确答案：错	
+
+√
+
+×
+
+8、基本数据类型的数组在创建时系统将指定默认值：：
+
+正确答案：对	
+
+√
+
+×
+
+9、cookie也是服务器端会话技术,session是服务器端会话技术：：
+
+正确答案：错	
+
+√
+
+×
+
+10、spring mvc 的Controller类默认Scope是单例(singleton)的：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、AngularJs中ng-init指令用于：
+
+  正确答案：A
+
+A  初始化应用程序数据
+
+B  初始化应用程序
+
+C  创建init
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+
+2、MyBatis框架是一个什么样的框架：
+
+  正确答案：B
+
+A  整合框架
+
+B  数据持久化框架
+
+C  MVC框架
+
+D  js框架
+
+3、bootstrap中说法有误的是：
+
+  正确答案：A
+
+A  bootstrap必须在移动设备上使用
+
+B  bootstrap支持火狐浏览器
+
+C  bootstrap支持谷歌浏览器
+
+D  bootstrap支持自定义 Bootstrap 组件
+
+4、AngularJs中ng-repeat指令说法正确的是：
+
+  正确答案：B
+
+A  为 HTML 元素提供 CSS 类
+
+B  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+C  为应用程序数据提供状态
+
+D  为应用程序数据提供类型验证
+
+5、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：D
+
+A  使用dropup可以向上弹出菜单
+
+B  使用dropdown-header可以给下拉菜单可以添加标题
+
+C  使用.divider可以添加下拉菜单中的分割线
+
+D  使用dropdown-lg可以指定菜单的大小
+
+6、那个指令可以实现重复一个 HTML 元素：
+
+  正确答案：A
+
+A  ng-repeat
+
+B  ng-app
+
+C  ng-include
+
+D  na-src
+
+7、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：B
+
+A  字体图标大小颜色是固定的无法设置
+
+B  字体图标可以改变字体尺寸、颜色
+
+C  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+D  字体图标只能添加在按钮上
+
+8、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：B
+
+A  为了切分职责
+
+B  为了加重工作量
+
+C  为了后期维护方便
+
+D  为了代码复用
+
+9、在AngularJs中,自定义指令可以：
+
+  正确答案：B
+
+A  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+B  使用.directive 函数来添加自定义的指令
+
+C  初始化应用程序数据
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+
+10、在Controller类中可以使用到的注解有：：
+
+  正确答案：C
+
+A  @Auto
+
+B  @RequestMap
+
+C  @Controller
+
+D  @servlet
+
+11、$timeout 服务的时间设置是以什么为单位的：
+
+  正确答案：B
+
+A  分
+
+B  毫秒
+
+C  秒
+
+D  时
+
+12、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：C
+
+A  ng-init
+
+B  ng-show
+
+C  ng-bind
+
+D  ng-model
+
+13、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：B
+
+A  .btn-success
+
+B  .btn-default
+
+C  .btn-primary
+
+D  .btn
+
+14、AngularJs中ng-model指令用于：
+
+  正确答案：A
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  初始化应用程序
+
+C  创建模型工厂
+
+D  初始化应用程序数据
+
+15、ng-model与ng-bind的区别是：
+
+  正确答案：B
+
+A  ng-model可以使用在div上
+
+B  ng-model会绑定到模型，ng-bind不会
+
+C  没有区别
+
+D  使用ng-model显示速度比ng-bind快
+
+16、以下能够删除一列的是：
+
+  正确答案：A
+
+A  alter table emp drop column addcolumn
+
+B  alter table emp remove addcolumn
+
+C  alter table emp delete addcolumn
+
+D  alter table emp delete column addcolumn
+
+17、AngularJs中ng-init指令用于：
+
+  正确答案：A
+
+A  初始化应用程序数据
+
+B  初始化应用程序
+
+C  创建init
+
+D  把元素值（比如输入域的值）绑定到应用程序。
+
+18、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：A
+
+A  regexp
+
+B  like
+
+C  match
+
+D  against
+
+19、angularjs的根作用域为：
+
+  正确答案：B
+
+A  $sce
+
+B  $rootScope
+
+C  $http
+
+D  $scope
+
+20、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：A
+
+A  popover.js
+
+B  prototype.js
+
+C  javascript.js
+
+D  Angular.js
+多选题：
+
+1、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：C ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 立即发送sql语句与数据库同步；
+
+C 事务提交时发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+2、 在SQL语言中，条件“BETWEEN 20 AND 30”说法错误的是：
+						 
+
+正确答案：A ; B ; C
+
+A 包括20岁，不包括30岁
+
+B  不包括20岁，包括30岁
+
+C 不包括20岁和30岁
+
+D 包括20岁和30岁
+
+3、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; C
+
+A HTML
+
+B JAVASCRIPT
+
+C CSS
+
+D JAVA
+
+4、下面不是struts2的标签的是(  )：：
+						 
+
+正确答案：A ; C
+
+A <c:out>
+
+B <s:form>
+
+C <bean:write>
+
+D <s: textfield>
+
+5、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：A ; D
+
+A 调用session.flush()时，发送sql语句与数据库同步
+
+B 立即发送sql语句与数据库同步；
+
+C 关闭Session对象时，发送sql语句与数据库同步
+
+D 事务提交时发送sql语句与数据库同步；
+
+6、在Hibernate的Session对象中，变更一个持久化对象，会导致：
+						 
+
+正确答案：B ; D
+
+A 关闭Session对象时，发送sql语句与数据库同步
+
+B 事务提交时发送sql语句与数据库同步；
+
+C 立即发送sql语句与数据库同步；
+
+D 调用session.flush()时，发送sql语句与数据库同步
+
+7、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：A ; G
+
+A IOC
+
+B MVC
+
+C 
+
+D 
+
+E 
+
+F 
+
+G AOP
+
+H 
+
+ ORM
+
+8、以下哪些是mysql聚合函数：
+						 
+
+正确答案：B ; D
+
+A all
+
+B sum
+
+C round
+
+D avg
+
+9、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：C ; D
+
+A 以上都对
+
+B 没有区别
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+10、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; B ; D
+
+A HTML
+
+B CSS
+
+C JAVA
+
+D JAVASCRIPT
+判断题：
+
+1、Bootstrap 轮播（Carousel）插件是一种灵活的响应式的向站点添加滑块的方式：：
+
+正确答案：对	
+
+√
+
+×
+
+2、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数10：：
+
+正确答案：错	
+
+√
+
+×
+
+3、AngularJs中P标签的ng-show指令的值为true时标签内容不可见：：
+
+正确答案：错	
+
+√
+
+×
+
+4、Spring中Bean默认是原型（多例的）：：
+
+正确答案：错	
+
+√
+
+×
+
+5、AngularJs中P标签的ng-hide指令的值为true时标签内容不可见：：
+
+正确答案：对	
+
+√
+
+×
+
+6、 $interval(function () {
+        $scope.theTime = new Date().toLocaleTimeString();
+    }, 1000);
+$interval服务函数共显示10次：：
+
+正确答案：错	
+
+√
+
+×
+
+7、&lt;td ng-if=&quot;$even&quot;  style=&quot;background-color:red&quot;&gt;列表第一行背景显示为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+8、app.service('String', function() {
+ this.myFunc = function (x) {
+        return x.toString(16);
+    }
+});
+$string属于内建服务，可以将数字转换为16进制：：
+
+正确答案：错	
+
+√
+
+×
+
+9、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+10、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn-primary
+
+B  .btn
+
+C  .btn-success
+
+D  .btn-default
+
+2、过滤器将字符串格式化为大写的是：
+
+  正确答案：D
+
+A  lowercase
+
+B  currency
+
+C  orderBy
+
+D  uppercase
+
+3、在Controller类中可以使用到的注解有：：
+
+  正确答案：C
+
+A  @RequestMap
+
+B  @Auto
+
+C  @Controller
+
+D  @servlet
+
+4、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：D
+
+A  Angular.js
+
+B  javascript.js
+
+C  prototype.js
+
+D  popover.js
+
+5、ng-model与ng-bind的区别是：
+
+  正确答案：C
+
+A  没有区别
+
+B  使用ng-model显示速度比ng-bind快
+
+C  ng-model会绑定到模型，ng-bind不会
+
+D  ng-model可以使用在div上
+
+6、&lt;div ng-app&gt;
+ &lt;p&gt;我的第一个表达式: exam_ &quot;1&quot;+1 ,exam_&quot;1&quot;*2+1&lt;/p&gt;
+ &lt;/div&gt;
+ 以上代码可以正确输出的选项是：
+
+  正确答案：A
+
+A  11,3;
+
+B  2,3;
+
+C  11,13;
+
+D  2,13;
+
+7、下列哪一项不属于AngularJS 服务(Service)：
+
+  正确答案：A
+
+A  $service
+
+B  $timeout
+
+C  $http
+
+D  $interval
+
+8、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：D
+
+A  ng-template
+
+B  ng-route
+
+C  ng-model
+
+D  ng-controller
+
+9、Bootstrap 的所有 JavaScript 插件都依赖______，因此必须在 Bootstrap.js________引入；：
+
+  正确答案：D
+
+A  jQuery.js, 之后
+
+B  Bootstrap, 之后
+
+C  Bootstrap, 之前
+
+D  jQuery, 之前
+
+10、AngularJs中ng-init指令用于：
+
+  正确答案：B
+
+A  创建init
+
+B  初始化应用程序数据
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序
+
+11、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+12、假设有如下代码，那么a(10)的返回结果是？
+function a(a)
+{
+  a^=(1&lt;&lt;4)-1;
+   return a;
+}：
+
+  正确答案：B
+
+A  16
+
+B  5
+
+C  10
+
+D  15
+
+13、在AngularJs中,自定义指令可以：
+
+  正确答案：B
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  使用.directive 函数来添加自定义的指令
+
+C  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+D  初始化应用程序数据
+
+14、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：D
+
+A  字体图标大小颜色是固定的无法设置
+
+B  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+C  字体图标只能添加在按钮上
+
+D  字体图标可以改变字体尺寸、颜色
+
+15、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：D
+
+A  input, select, button
+
+B  button, select, textarea
+
+C  input, button, textarea
+
+D  input, select, textarea
+
+16、&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+       &lt;div class=&quot;col-xm-* col-md-*&quot;&gt;&lt;/div&gt;       
+    &lt;/div&gt;   
+  &lt;/div&gt;
+   以上代码可以实现最小屏幕一行一列，中型屏幕一行4列的选项：
+
+  正确答案：B
+
+A  col-xm-1 col-md-4;
+
+B  col-xm-12 col-md-3;
+
+C  col-xm-1 col-md-3;
+
+D  col-xm-12 col-md-4;
+
+17、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：A
+
+A  使用dropdown-lg可以指定菜单的大小
+
+B  使用dropdown-header可以给下拉菜单可以添加标题
+
+C  使用dropup可以向上弹出菜单
+
+D  使用.divider可以添加下拉菜单中的分割线
+
+18、ng-model与ng-bind的区别是：
+
+  正确答案：D
+
+A  使用ng-model显示速度比ng-bind快
+
+B  ng-model可以使用在div上
+
+C  没有区别
+
+D  ng-model会绑定到模型，ng-bind不会
+
+19、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：C
+
+A  ng-model
+
+B  ng-init
+
+C  ng-bind
+
+D  ng-show
+
+20、angularjs的mvc模式不包括：
+
+  正确答案：C
+
+A  controller（控制器）
+
+B  $scope（作用域）
+
+C  springMVC
+
+D  内置service 过滤器
+多选题：
+
+1、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：C ; D
+
+A ORM
+
+B MVC
+
+C IOC
+
+D AOP
+
+2、AngularJS内建服务有：
+						 
+
+正确答案：A ; C ; D
+
+A $timeout服务
+
+B 自定义服务
+
+C $http服务
+
+D $interval服务
+
+3、以下哪些是mysql聚合函数：
+						 
+
+正确答案：A ; D
+
+A avg
+
+B all
+
+C round
+
+D sum
+
+4、AngularJS 应用组成有：
+						 
+
+正确答案：A ; C ; D
+
+A Model(模型), 当前视图中可用的数据
+
+B Filter过滤器
+
+C View(视图)，即html
+
+D Controller(控制器), 即 JavaScript 函数
+
+5、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：C ; D
+
+A 没有区别
+
+B 以上都对
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+6、$routeProvider.when路由设置对象包括：
+						 
+
+正确答案：A ; B ; C ; D
+
+A redirectTo
+
+B controllerAs
+
+C Template
+
+D templateUrl
+
+7、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 自动化双向数据绑定
+
+B 语义化标签、依赖注入
+
+C 模块化
+
+D MVC
+
+8、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：A ; B
+
+A ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+B ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+C 以上都对
+
+D 没有区别
+
+9、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：B ; C ; D
+
+A 脏数据检测会检测rootscope下部分被watcher的元素。
+
+B 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+C 脏数据检测会检测rootscope下所有被watcher的元素。
+
+D 每个双向绑定的元素都有一个watcher
+
+10、HTTP指令包括下面哪三个：
+						 
+
+正确答案：A ; B ; C
+
+A $http.post
+
+B $http.head
+
+C $http.get
+
+D $http.gets
+判断题：
+
+1、MVC是一种框架，是java开发的：：
+
+正确答案：错	
+
+√
+
+×
+
+2、Bootstrap 轮播（Carousel）插件不依赖jquery：：
+
+正确答案：错	
+
+√
+
+×
+
+3、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+4、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+
+正确答案：错	
+
+√
+
+×
+
+5、app.service('String', function() {
+ this.myFunc = function (x) {
+        return x.toString(16);
+    }
+});
+$string属于内建服务，可以将数字转换为16进制：：
+
+正确答案：错	
+
+√
+
+×
+
+6、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+7、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl显示为当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+8、&lt;td ng-if=&quot;$even&quot;  style=&quot;background-color:red&quot;&gt;列表第一行背景显示为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+9、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+10、ng-option 指令来创建一个下拉列表，列表项通过对象和数组循环输出：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、bootstrap中哪个是按钮的默认样式类：
+
+  正确答案：D
+
+A  .btn-primary
+
+B  .btn
+
+C  .btn-success
+
+D  .btn-default
+
+2、过滤器将字符串格式化为大写的是：
+
+  正确答案：D
+
+A  lowercase
+
+B  currency
+
+C  orderBy
+
+D  uppercase
+
+3、在Controller类中可以使用到的注解有：：
+
+  正确答案：C
+
+A  @RequestMap
+
+B  @Auto
+
+C  @Controller
+
+D  @servlet
+
+4、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：D
+
+A  Angular.js
+
+B  javascript.js
+
+C  prototype.js
+
+D  popover.js
+
+5、ng-model与ng-bind的区别是：
+
+  正确答案：C
+
+A  没有区别
+
+B  使用ng-model显示速度比ng-bind快
+
+C  ng-model会绑定到模型，ng-bind不会
+
+D  ng-model可以使用在div上
+
+6、&lt;div ng-app&gt;
+ &lt;p&gt;我的第一个表达式: exam_ &quot;1&quot;+1 ,exam_&quot;1&quot;*2+1&lt;/p&gt;
+ &lt;/div&gt;
+ 以上代码可以正确输出的选项是：
+
+  正确答案：A
+
+A  11,3;
+
+B  2,3;
+
+C  11,13;
+
+D  2,13;
+
+7、下列哪一项不属于AngularJS 服务(Service)：
+
+  正确答案：A
+
+A  $service
+
+B  $timeout
+
+C  $http
+
+D  $interval
+
+8、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：D
+
+A  ng-template
+
+B  ng-route
+
+C  ng-model
+
+D  ng-controller
+
+9、Bootstrap 的所有 JavaScript 插件都依赖______，因此必须在 Bootstrap.js________引入；：
+
+  正确答案：D
+
+A  jQuery.js, 之后
+
+B  Bootstrap, 之后
+
+C  Bootstrap, 之前
+
+D  jQuery, 之前
+
+10、AngularJs中ng-init指令用于：
+
+  正确答案：B
+
+A  创建init
+
+B  初始化应用程序数据
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  初始化应用程序
+
+11、bootstrap中说法有误的是：
+
+  正确答案：C
+
+A  bootstrap支持自定义 Bootstrap 组件
+
+B  bootstrap支持谷歌浏览器
+
+C  bootstrap必须在移动设备上使用
+
+D  bootstrap支持火狐浏览器
+
+12、假设有如下代码，那么a(10)的返回结果是？
+function a(a)
+{
+  a^=(1&lt;&lt;4)-1;
+   return a;
+}：
+
+  正确答案：B
+
+A  16
+
+B  5
+
+C  10
+
+D  15
+
+13、在AngularJs中,自定义指令可以：
+
+  正确答案：B
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  使用.directive 函数来添加自定义的指令
+
+C  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+D  初始化应用程序数据
+
+14、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：D
+
+A  字体图标大小颜色是固定的无法设置
+
+B  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+C  字体图标只能添加在按钮上
+
+D  字体图标可以改变字体尺寸、颜色
+
+15、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：D
+
+A  input, select, button
+
+B  button, select, textarea
+
+C  input, button, textarea
+
+D  input, select, textarea
+
+16、&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+       &lt;div class=&quot;col-xm-* col-md-*&quot;&gt;&lt;/div&gt;       
+    &lt;/div&gt;   
+  &lt;/div&gt;
+   以上代码可以实现最小屏幕一行一列，中型屏幕一行4列的选项：
+
+  正确答案：B
+
+A  col-xm-1 col-md-4;
+
+B  col-xm-12 col-md-3;
+
+C  col-xm-1 col-md-3;
+
+D  col-xm-12 col-md-4;
+
+17、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：A
+
+A  使用dropdown-lg可以指定菜单的大小
+
+B  使用dropdown-header可以给下拉菜单可以添加标题
+
+C  使用dropup可以向上弹出菜单
+
+D  使用.divider可以添加下拉菜单中的分割线
+
+18、ng-model与ng-bind的区别是：
+
+  正确答案：D
+
+A  使用ng-model显示速度比ng-bind快
+
+B  ng-model可以使用在div上
+
+C  没有区别
+
+D  ng-model会绑定到模型，ng-bind不会
+
+19、AngularJs的exam_与下列哪个指令效果相同：
+
+  正确答案：C
+
+A  ng-model
+
+B  ng-init
+
+C  ng-bind
+
+D  ng-show
+
+20、angularjs的mvc模式不包括：
+
+  正确答案：C
+
+A  controller（控制器）
+
+B  $scope（作用域）
+
+C  springMVC
+
+D  内置service 过滤器
+多选题：
+
+1、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：C ; D
+
+A ORM
+
+B MVC
+
+C IOC
+
+D AOP
+
+2、AngularJS内建服务有：
+						 
+
+正确答案：A ; C ; D
+
+A $timeout服务
+
+B 自定义服务
+
+C $http服务
+
+D $interval服务
+
+3、以下哪些是mysql聚合函数：
+						 
+
+正确答案：A ; D
+
+A avg
+
+B all
+
+C round
+
+D sum
+
+4、AngularJS 应用组成有：
+						 
+
+正确答案：A ; C ; D
+
+A Model(模型), 当前视图中可用的数据
+
+B Filter过滤器
+
+C View(视图)，即html
+
+D Controller(控制器), 即 JavaScript 函数
+
+5、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：C ; D
+
+A 没有区别
+
+B 以上都对
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+6、$routeProvider.when路由设置对象包括：
+						 
+
+正确答案：A ; B ; C ; D
+
+A redirectTo
+
+B controllerAs
+
+C Template
+
+D templateUrl
+
+7、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 自动化双向数据绑定
+
+B 语义化标签、依赖注入
+
+C 模块化
+
+D MVC
+
+8、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：A ; B
+
+A ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+B ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+C 以上都对
+
+D 没有区别
+
+9、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：B ; C ; D
+
+A 脏数据检测会检测rootscope下部分被watcher的元素。
+
+B 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+C 脏数据检测会检测rootscope下所有被watcher的元素。
+
+D 每个双向绑定的元素都有一个watcher
+
+10、HTTP指令包括下面哪三个：
+						 
+
+正确答案：A ; B ; C
+
+A $http.post
+
+B $http.head
+
+C $http.get
+
+D $http.gets
+判断题：
+
+1、MVC是一种框架，是java开发的：：
+
+正确答案：错	
+
+√
+
+×
+
+2、Bootstrap 轮播（Carousel）插件不依赖jquery：：
+
+正确答案：错	
+
+√
+
+×
+
+3、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+4、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+
+正确答案：错	
+
+√
+
+×
+
+5、app.service('String', function() {
+ this.myFunc = function (x) {
+        return x.toString(16);
+    }
+});
+$string属于内建服务，可以将数字转换为16进制：：
+
+正确答案：错	
+
+√
+
+×
+
+6、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+7、&lt;div ng-app=&quot;myApp&quot; ng-controller=&quot;myCtrl&quot;&gt;
+
+ &lt;h3&gt;exam_myUrl&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function($scope, $location) {
+      $scope.myUrl = $location.absUrl();
+  });
+&lt;/script&gt;
+myUrl显示为当前页面URL：：
+
+正确答案：对	
+
+√
+
+×
+
+8、&lt;td ng-if=&quot;$even&quot;  style=&quot;background-color:red&quot;&gt;列表第一行背景显示为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+9、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+10、ng-option 指令来创建一个下拉列表，列表项通过对象和数组循环输出：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、过滤器将字符串格式化为大写的是：
+
+  正确答案：C
+
+A  lowercase
+
+B  orderBy
+
+C  uppercase
+
+D  currency
+
+2、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：B
+
+A  使用dropdown-header可以给下拉菜单可以添加标题
+
+B  使用dropdown-lg可以指定菜单的大小
+
+C  使用dropup可以向上弹出菜单
+
+D  使用.divider可以添加下拉菜单中的分割线
+
+3、ng-model与ng-bind的区别是：
+
+  正确答案：A
+
+A  ng-model会绑定到模型，ng-bind不会
+
+B  ng-model可以使用在div上
+
+C  没有区别
+
+D  使用ng-model显示速度比ng-bind快
+
+4、&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+       &lt;div class=&quot;col-xm-* col-md-*&quot;&gt;&lt;/div&gt;       
+    &lt;/div&gt;   
+  &lt;/div&gt;
+   以上代码可以实现最小屏幕一行一列，中型屏幕一行4列的选项：
+
+  正确答案：A
+
+A  col-xm-12 col-md-3;
+
+B  col-xm-1 col-md-3;
+
+C  col-xm-1 col-md-4;
+
+D  col-xm-12 col-md-4;
+
+5、Bootstrap 的所有 JavaScript 插件都依赖______，因此必须在 Bootstrap.js________引入；：
+
+  正确答案：A
+
+A  jQuery, 之前
+
+B  jQuery.js, 之后
+
+C  Bootstrap, 之前
+
+D  Bootstrap, 之后
+
+6、angularjs中服务的正确写法是？：
+
+  正确答案：D
+
+A  ng-server
+
+B  ng-class
+
+C  ng-service
+
+D  ng-command
+
+7、AngularJS中指定控制器的是哪个指令？：
+
+  正确答案：C
+
+A  ng-model
+
+B  ng-template
+
+C  ng-controller
+
+D  ng-route
+
+8、AngularJs中ng-model指令用于：
+
+  正确答案：A
+
+A  把元素值（比如输入域的值）绑定到应用程序。
+
+B  初始化应用程序
+
+C  初始化应用程序数据
+
+D  创建模型工厂
+
+9、angulars支持以下（）事件：
+
+  正确答案：D
+
+A  ng-srcset
+
+B  ng-switch
+
+C  ng-open
+
+D  ng-click
+
+10、下列bootstrap关于下拉菜单说法错误的是：
+
+  正确答案：A
+
+A  使用dropdown-lg可以指定菜单的大小
+
+B  使用.divider可以添加下拉菜单中的分割线
+
+C  使用dropup可以向上弹出菜单
+
+D  使用dropdown-header可以给下拉菜单可以添加标题
+
+11、bootstrap中字体图标(Glyphicons)的说法正确的是：
+
+  正确答案：A
+
+A  字体图标可以改变字体尺寸、颜色
+
+B  字体图标只能添加在按钮上
+
+C  字体图标(Glyphicons)的个数是固定的，无法扩展
+
+D  字体图标大小颜色是固定的无法设置
+
+12、关于angularjs说法，错误的是：
+
+  正确答案：D
+
+A  前端mvc，极大降低前端开发的耦合
+
+B  实现了数据双向绑定
+
+C  实现了依赖注入
+
+D  极大的丰富了dom操作
+
+13、下列哪一项不属于AngularJS 服务(Service)：
+
+  正确答案：D
+
+A  $interval
+
+B  $http
+
+C  $timeout
+
+D  $service
+
+14、下列错误的是：
+
+  正确答案：A
+
+A  我们不可以使用 CSS transition(过渡) 或 CSS 动画让 HTML 元素产生动画效果
+
+B  AngularJS 提供了动画效果，可以配合 CSS 使用
+
+C  AngularJS 使用动画需要引入 angular-animate.min.js 库。
+
+D  CSS 过渡可以让我们平滑的将一个 CSS 属性值修改为另外一个
+
+15、通过 AngularJS 可以实现（）应用：
+
+  正确答案：C
+
+A  可以实现多视图的多页应用
+
+B  只能实现单视图的单页Web
+
+C  可以实现多视图的单页Web
+
+D  不能多视图的单页应用
+
+16、Angularjs路由通过_______标记帮助我们区分不同逻辑页面，并将其绑定到对应的控制器上：
+
+  正确答案：B
+
+A  +#
+
+B  #+标记
+
+C  @+
+
+D  #
+
+17、用什么指令初始化一个 AngularJS 应用程序：
+
+  正确答案：A
+
+A  ng-app
+
+B  ng-model
+
+C  ng-controller
+
+D  ng-bind
+
+18、ng-model 指令用于绑定应用程序数据到 HTML 控制器(____, ___, ___)的值：
+
+  正确答案：A
+
+A  input, select, textarea
+
+B  button, select, textarea
+
+C  input, select, button
+
+D  input, button, textarea
+
+19、在AngularJs中,自定义指令可以：
+
+  正确答案：A
+
+A  使用.directive 函数来添加自定义的指令
+
+B  初始化应用程序数据
+
+C  把元素值（比如输入域的值）绑定到应用程序。
+
+D  对于集合中（数组中）的每个项会 克隆一次 HTML 元素
+
+20、主要标签和成功按钮分别是:______：
+
+  正确答案：A
+
+A  label-primary, btn-success
+
+B  btn-primary,label-success
+
+C  btn-default, label-waring
+
+D  label-default, btn-primary
+多选题：
+
+1、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+
+正确答案：A ; B ; C ; D
+
+A MVC
+
+B 语义化标签、依赖注入
+
+C 模块化
+
+D 自动化双向数据绑定
+
+2、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：A ; B ; C
+
+A 脏数据检测会检测rootscope下所有被watcher的元素。
+
+B 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+C 每个双向绑定的元素都有一个watcher
+
+D 脏数据检测会检测rootscope下部分被watcher的元素。
+
+3、HTTP指令包括下面哪三个：
+						 
+
+正确答案：A ; B ; D
+
+A $http.get
+
+B $http.post
+
+C $http.gets
+
+D $http.head
+
+4、angular 的数据绑定采用什么机制？：
+						 
+
+正确答案：B ; C ; D
+
+A 脏数据检测会检测rootscope下部分被watcher的元素。
+
+B 每个双向绑定的元素都有一个watcher
+
+C 脏数据检测会检测rootscope下所有被watcher的元素。
+
+D 在某些事件发生的时候，调用digest脏数据检测。这些事件有：表单元素内容变化、Ajax请求响应、点击按钮执行的函数等。
+
+5、ng-model 指令为应用程序数据提供状态：
+						 
+
+正确答案：A ; B ; C ; D
+
+A dirty
+
+B touched
+
+C invalid
+
+D error
+
+6、关于$routeChangeStart下列说法错误的是：
+						 
+
+正确答案：A ; B ; D
+
+A 这个事件不会初始化ng-model
+
+B 这个事件会初始化ng-model
+
+C 这个事件会在路由跳转前触发
+
+D 这个事件会在路由跳转成功后触发
+
+7、属于AngularJS 指令的有：
+						 
+
+正确答案：A ; C ; D
+
+A ng-init
+
+B ng-small
+
+C ng-app
+
+D ng-model
+
+8、ng-model 指令为应用程序数据提供状态：
+						 
+
+正确答案：A ; B ; C ; D
+
+A dirty
+
+B error
+
+C invalid
+
+D touched
+
+9、bootstrap是基于什么组成的：
+						 
+
+正确答案：A ; C ; D
+
+A JAVASCRIPT
+
+B JAVA
+
+C CSS
+
+D HTML
+
+10、ng-if 跟 ng-show/hide的区别有哪些？：
+						 
+
+正确答案：B ; C
+
+A 没有区别
+
+B ng-if 在后面表达式为 true 的时候才创建这个 dom 节点，ng-show 是初始时就创建了，用 display:block 和 display:none 来控制显示和不显示。
+
+C ng-if 会（隐式地）产生新作用域，ng-switch 、 ng-include 等会动态创建一块界面的也是如此
+
+D 以上都对
+判断题：
+
+1、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+
+正确答案：错	
+
+√
+
+×
+
+2、&lt;td style=&quot;exam_$even?'background-color: red':''&quot;&gt;}&lt;/td&gt;设置$index偶数行背景为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+3、&lt;td style=&quot;exam_$even?'background-color: red':''&quot;&gt;}&lt;/td&gt;设置$index偶数行背景为红色：：
+
+正确答案：对	
+
+√
+
+×
+
+4、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+5、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+6、$http  是 AngularJS 中的一个核心服务，用于读取远程服务器的数据。：：
+
+正确答案：对	
+
+√
+
+×
+
+7、$routeProvider.when 函数的第一个参数是 URL 或者 URL 正则规则，第二个参数为路由配置对象：：
+
+正确答案：对	
+
+√
+
+×
+
+8、ng-option 指令来创建一个下拉列表，列表项通过对象和数组循环输出：：
+
+正确答案：对	
+
+√
+
+×
+
+9、AngularJS $timeout 服务对应了 JS window.setInterval 函数。：：
+
+正确答案：错	
+
+√
+
+×
+
+10、在 Angularjs中，每个页面均有一个控制器控制，通过路由，从而将不同的页面展示出来。：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、firebug属于哪款浏览器调试工具：
+
+  正确答案：C
+
+A  IE
+
+B  谷歌
+
+C  火狐
+
+D  都正确
+
+2、在oracle中进行分页使用的关键字通常为：
+
+  正确答案：D
+
+A  list
+
+B  limit
+
+C  top
+
+D  rownum
+
+3、tomcat 更改端口号的配置文件是：
+
+  正确答案：D
+
+A  config.xml
+
+B  web.xml
+
+C  application.xml
+
+D  server.xml
+
+4、jquery中$.ajax()的dataType是：
+
+  正确答案：C
+
+A  发送请求的地址
+
+B  发送的数据
+
+C  服务器返回的数据类型
+
+D  提交的类型
+
+5、JDBC中的?号占位符开始值是：
+
+  正确答案：C
+
+A  是2
+
+B  是3
+
+C  是1
+
+D  是0
+
+6、MyBatis框架是一个什么样的框架：
+
+  正确答案：D
+
+A  整合框架
+
+B  MVC框架
+
+C  js框架
+
+D  数据持久化框架
+
+7、MVC中的C是()：
+
+  正确答案：A
+
+A  控制层
+
+B  模型层
+
+C  业务层
+
+D  视图层
+
+8、在Controller类中可以使用到的注解：
+
+  正确答案：B
+
+A  有@servlet
+
+B  有@Controller
+
+C  有@RequestMap
+
+D  有@Auto
+
+9、为什么我们会需要MVC.下面错误的是：
+
+  正确答案：C
+
+A  为了代码复用
+
+B  为了切分职责
+
+C  为了加重工作量
+
+D  为了后期维护方便
+
+10、struts2核心控制器是由（）实现：
+
+  正确答案：D
+
+A  拦截器
+
+B  类型转换器
+
+C  配置文件
+
+D  过滤器
+
+11、下面不是ORM实现的是：
+
+  正确答案：C
+
+A  Hibernate
+
+B  mybatis
+
+C  jsp
+
+D  ibatis
+
+12、下面说法正确的是：
+
+  正确答案：B
+
+A  spring只支持JDK代理
+
+B  JDK的动态代理要求必须有接口
+
+C  spring的事务管理是静态代理
+
+D  AOP的默认代理是JDK的静态代理
+
+13、下列哪一项JQuery代码写法是正确的：
+
+  正确答案：A
+
+A  jQuery(".myclass");
+
+B  jQuery["myclass"]
+
+C  int i = 0;
+
+D  String str = js("*myclass");
+
+14、springMVC的核心控制器是什么：
+
+  正确答案：B
+
+A  ServletAtion
+
+B  DispactherServlet
+
+C  ActionServlet
+
+D  Action
+
+15、在select语句的where子句中，使用正则表达式过滤数据的关键字是：：
+
+  正确答案：A
+
+A  regexp
+
+B  against
+
+C  match
+
+D  like
+
+16、spring中,bean的作用域不包括：
+
+  正确答案：D
+
+A  request
+
+B  singleton
+
+C  prototype
+
+D  response
+
+17、已知总记录数listCount和每页显示的记录数pageSize,求总页数,下面说法正确的是()：
+
+  正确答案：C
+
+A  listCount / pageSize + (listCount % pageSize != 0 ? 1 : 1);
+
+B  listCount / pageSize + (listCount % pageSize != 1 ? 1 : 0);
+
+C  listCount / pageSize + (listCount % pageSize == 0 ? 0 : 1);
+
+D  listCount / pageSize + (listCount % pageSize != 0 ? 0 : 1);
+
+18、关于AOP的说法正确的是：
+
+  正确答案：D
+
+A  AOP又称依赖注入
+
+B  AOP是OOP的替代
+
+C  AOP和OOP是同一个概念
+
+D  AOP的一个最重要的作用就是事务控制
+
+19、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：C
+
+A  <sqlMapConfig>
+
+B  <setting>
+
+C  <configuration>
+
+D  <environments>
+
+20、hibernate中，事务的接口是( )：
+
+  正确答案：C
+
+A  SessionFactory
+
+B  Session
+
+C  Transaction
+
+D  Query
+多选题：
+
+1、在拦截器中，使用ActionInvocation：
+						 
+
+正确答案：A ; B ; C ; D
+
+A invoke方法可以调用action的执行方法
+
+B 可以获得Action对象
+
+C 可以获得ActionContext对象
+
+D 的invoke方法可以调用下一个拦截器的intercept方法
+
+2、Spring的两个核心为_____和_______：
+						 
+
+正确答案：C ; D
+
+A ORM
+
+B MVC
+
+C IOC
+
+D AOP
+
+3、下面关于数组声明和初始化的语句正确的有：
+						 
+
+正确答案：
+
+4、关于$和#说法正确的：
+						 
+
+正确答案：B ; C ; D
+
+A 是$方式能够很大程度防止sql注入
+
+B 是$方式一般用于传入数据库对象，例如传入表名.
+
+C 是#方式能够很大程度防止sql注入
+
+D 是$方式无法防止Sql注入
+
+5、修改的sql语句,下面语句不正确的是()：
+						 
+
+正确答案：A ; B
+
+A update user name='李红',age=22 where id=1
+
+B update from user set name='李红',age=20 where id=1
+
+C update user set name='李红',age=18 where id=1
+
+D update user set age=22,name='李红' where id=1
+
+6、以下哪些方法是String类的：
+						 
+
+正确答案：A ; B ; C ; D
+
+A substring
+
+B toUpperCase
+
+C split
+
+D replace
+
+7、关于AOP的说法正确的是：
+						 
+
+正确答案：A ; B ; C
+
+A AOP是面向切面编程
+
+B AOP的核心是动态代理
+
+C AOP的一个重要作用就是事务控制
+
+D 没有AOP的话spring的框架就启不起来了
+
+8、关于mvc说法正确的是()：
+						 
+
+正确答案：A ; B ; C
+
+A c是控制层
+
+B m是模型层
+
+C v是视图层
+
+D m是控制层
+
+9、下面是struts2中Action接口的常量的是：
+						 
+
+正确答案：B ; C ; D
+
+A HELLO
+
+B SUCCESS
+
+C INPUT
+
+D LOGIN
+
+10、下面关于mysql的日期的获取正确的是：
+						 
+
+正确答案：A ; B ; C
+
+A select now()
+
+B select now() from dual
+
+C select sysdate()
+
+D select today()
+判断题：
+
+1、Java语言只支持单重继承，不支持多重继承：：
+
+正确答案：对	
+
+√
+
+×
+
+2、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+
+正确答案：对	
+
+√
+
+×
+
+3、springmvc的Controller类默认Scope是单例(singleton)的：：
+
+正确答案：对	
+
+√
+
+×
+
+4、Java语言中，构造方法是可以继承的：：
+
+正确答案：错	
+
+√
+
+×
+
+5、使用构造方法只能给非静态变量赋初值：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Bean的作用域：singleton、prototype、request、session 、response：：
+
+正确答案：错	
+
+√
+
+×
+
+7、MVC中的C是控制层：：
+
+正确答案：对	
+
+√
+
+×
+
+8、MyBatis 现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+9、无论将Page指令放在 JSP文件的哪个位置，它的作用范围都是整个JSP页面：：
+
+正确答案：对	
+
+√
+
+×
+
+10、Spring就相当于一个粘合剂，有两个核心，分别是IOC,AOP：：
+
+正确答案：对	
+
+√
+
+×
+
+
+单选题：
+
+1、Java代码的执行结果是
+  int x = 1;
+  int y = 2;
+  int z = 0;
+  x = x ^ y;
+  y = x ^ y;
+  x = x ^ y;
+  z = (x &lt; y) ? 3 : 4;
+  System.out.println(z); ：
+
+  正确答案：A
+
+A  4
+
+B  3
+
+C  1
+
+D  2
+
+2、哪个不是redis的数据类型：
+
+  正确答案：A
+
+A  int
+
+B  list
+
+C  set
+
+D  string
+
+3、在web中，下面关于session的说法中错误的有：
+
+  正确答案：A
+
+A  session中的信息保存在浏览器中
+
+B  session中的信息保存在服务器中
+
+C  如果el表达式只想在session作用域中获取某个变量的值，就必须在前面加上sessionScope
+
+D  session中存在的值的作用域范围大于request
+
+4、哪些不是Spring AOP的通知：
+
+  正确答案：B
+
+A  后置通知
+
+B  异步通知
+
+C  异常通知
+
+D  前置通知
+
+5、用命令ls -la显示出abc的描述为drwxr-xr-x 2 root root 4096 12月 12 15:12 abc ，由此可知abc的类型为：
+
+  正确答案：D
+
+A  符号链接
+
+B  普通文件
+
+C  硬链接
+
+D  目录
+
+6、在Spring中，下列关于依赖注入的说法正确的是：
+
+  正确答案：C
+
+A  依赖注入即“面向接口”的编程
+
+B  依赖注入的使用会增大程序的规模
+
+C  创建被调用者实例的工作由Spring容器完成，然后注入调用者
+
+D  依赖注入是面向对象技术的替代品
+
+7、以下哪种说法是错误的：
+
+  正确答案：A
+
+A  hive适合那些需要低延迟的应用
+
+B  hive可以将sql语句转换为MapReduce任务进行运行
+
+C  hive可以将结构化的数据文件映射为一张数据库表
+
+D  hive是基于Hadoop的一个数据仓库工具
+
+8、“电商中很多的业务数据从缓存中获取”这句话中的缓存指的是：：
+
+  正确答案：D
+
+A  硬盘
+
+B  关系型数据库
+
+C  非关系型数据库
+
+D  内存
+
+9、以下Java代码的输出结果是
+int [] a= {1,2,3};
+int j = 2;
+if(a[j] &gt; 3){
+    j--;
+}else{
+    j++;
+}
+System.out.println(a[j]);：
+
+  正确答案：C
+
+A  1
+
+B  2
+
+C  运行报异常
+
+D  3
+
+10、以下不属于Log4j日志级别的是：
+
+  正确答案：D
+
+A  ERROR
+
+B  INFO
+
+C  DEBUG
+
+D  LEVEL
+
+11、freemarker中关于字符串截取（表达式?substring(from,to)）中的参数描述正确的是：
+
+  正确答案：D
+
+A  form表示截取时起始位置的字符
+
+B  当to省略的时候报错
+
+C  to是一个必须的参数
+
+D  from表示截取时起始位置的下标
+
+12、Spring容器中如果想在方法执行之前执行某个功能，则使用的通知类型是：
+
+  正确答案：D
+
+A  After
+
+B  Throws
+
+C  AfterReturning
+
+D  Before
+
+13、Java中用迭代器遍历集合中的元素，判断集合中是否仍有元素的方法是：
+
+  正确答案：D
+
+A  Next()
+
+B  isNext()
+
+C  next()
+
+D  hasNext()
+
+14、freemarker怎么进行注释：
+
+  正确答案：A
+
+A  <#-- -->
+
+B  /** **/
+
+C  //
+
+D  <!-- -->
+
+15、Solr是基于开放接口（  ）的标准：
+
+  正确答案：D
+
+A  TCP
+
+B  IP
+
+C  UDP
+
+D  Xml、http
+
+16、从emp表中查询3号部门和5号部门员工的信息（部门编号字段为dno），以下sql语句中可以完成该查询的是：
+
+  正确答案：D
+
+A  select * from emp where dno == 3 and dno == 5;
+
+B  select * from emp where dno = 3 and dp = 5;
+
+C  select * from emp where dno >3 and dno < 5;
+
+D  select * from emp where dno in (3,5);
+
+17、Linux中，修改文件所属人要使用的命令是：
+
+  正确答案：D
+
+A  chpow
+
+B  chous
+
+C  chmod
+
+D  chown
+
+18、以下Java代码的执行结果是
+Map&lt;String,String&gt; map = new HashMap&lt;String,String&gt;();
+map.put(null, &quot;111&quot;);
+map.put(null, null);
+System.out.println(map.get(null));
+：
+
+  正确答案：A
+
+A  null
+
+B  111
+
+C  运行报异常
+
+D  编译报错
+
+19、Java中，修改ArrayList集合中的某个元素：
+
+  正确答案：A
+
+A  set
+
+B  replace
+
+C  modify
+
+D  change
+
+20、Solr全文检索结果支持多种输出格式,不包括以下哪一种：
+
+  正确答案：D
+
+A  XML
+
+B  JSON
+
+C  XSLT
+
+D  TXT
+多选题：
+
+1、以下关于电商的常用术语，解释正确是：
+						 
+
+正确答案：A ; B ; C ; D
+
+A O2O的中文含义是“线上（下）对线下（上）”。
+
+B B2B的中文名称是“企业对企业”。
+
+C B2C是Business-to-Customer的缩写，而其中文简称为“商对客”。
+
+D C2C的中文含义是“个人对个人”。
+
+2、下面哪些术语是属于电子商务范畴的：
+						 
+
+正确答案：A ; C ; D
+
+A C2C
+
+B M2B
+
+C B2C
+
+D B2B
+
+3、Java中哪种能实现自动转换：
+						 
+
+正确答案：A ; B ; C
+
+A int型转换为float型
+
+B byte型转换为long型
+
+C float型转换为double型
+
+D double型转换为int型
+
+4、以下对Dubbo描述正确的是：
+						 
+
+正确答案：A ; B ; C ; D
+
+A Dubbo可以和Spring框架无缝集成
+
+B Dubbo是Alibaba开源的分布式服务框架
+
+C Dubbo可以抽象出服务提供方（Provider）和服务消费方（Consumer）两个角色
+
+D Dubbo按照分层的方式来架构
+
+5、linux下的关机(不重启)命令有：
+						 
+
+正确答案：A ; B ; C
+
+A shutdown -h now
+
+B halt
+
+C poweroff
+
+D reboot
+
+6、在JavaScript创建数组正确的是：
+						 
+
+正确答案：B ; D
+
+A var a=new Array[1,2,3]
+
+B var a=[1,2,3]
+
+C var a=new Array[3]
+
+D var a=new Array(1,2,3)
+
+7、在页面引入jquery正确的是：
+						 
+
+正确答案：A ; D
+
+A <script src="jquery.min.js"></script>
+
+B <script language="JavaScript" source="jquery.min.js"></script>
+
+C <script language="Java" src="jquery.min.js"></script>
+
+D <script language="JavaScript" src="jquery.min.js"></script>
+
+8、在Linux中，文件的属性为-rwxr-xr-x，以下说法正确的是：
+						 
+
+正确答案：A ; D
+
+A 文件所属组拥有读执行的权限。
+
+B 文件所属组拥有读写的权限。
+
+C 文件其它人拥有写和执行的权限。
+
+D 文件所有者拥有读写执行的权限。
+
+9、下列哪个不是SQL语句中使用的关系运算符：
+						 
+
+正确答案：B ; C
+
+A AND
+
+B NO
+
+C ELSE
+
+D OR
+
+10、Struts2中，以下动作执行的结果类型是重定向的是：
+						 
+
+正确答案：B ; D
+
+A RedirectActions
+
+B RedirectAction
+
+C Dispatcher
+
+D Redirect
+判断题：
+
+1、电商系统使用缓存是为了减轻数据库的压力。：：
+
+正确答案：对	
+
+√
+
+×
+
+2、java中当方法的返回类型为void时，方法体中不可以使用return关键字。：：
+
+正确答案：错	
+
+√
+
+×
+
+3、dubbo-registry是注册中心模块，基于注册中心下发地址的集群方式，以及对各种注册中心的抽象。：：
+
+正确答案：对	
+
+√
+
+×
+
+4、java面向对象的三大特性是继承、包装、多态。：：
+
+正确答案：错	
+
+√
+
+×
+
+5、Mysql中向用户授予操作权限的SQL语句是GRANT。：：
+
+正确答案：对	
+
+√
+
+×
+
+6、在js中，声明字符串对象使用var。：：
+
+正确答案：对	
+
+√
+
+×
+
+7、jquery中$(&quot;.myClass&quot;).size()查找所有样式是&quot;myClass&quot;的元素的个数。：：
+
+正确答案：对	
+
+√
+
+×
+
+8、Mysql的UPDATE语句修改的是表中数据行中的数据，也可以修改表的结构。：：
+
+正确答案：错	
+
+√
+
+×
+
+9、在Java中，Set接口的父接口是Collection。：：
+
+正确答案：对	
+
+√
+
+×
+
+10、B2C是Business-to-Customer的缩写，而其中文简称为“商对客”。：：
+
+正确答案：对	
+
+√
+
+×
+
+
+
+单选题：
+
+1、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+
+  正确答案：A
+
+A  regexp
+
+B  against
+
+C  like
+
+D  match
+
+2、在Controller类中可以使用到的注解有：：
+
+  正确答案：A
+
+A  @Controller
+
+B  @Auto
+
+C  @RequestMap
+
+D  @servlet
+
+3、SSH中，关于dao层的spring配置文件中，通常要注入( )：：
+
+  正确答案：C
+
+A  sqlmap
+
+B  factory
+
+C  sessionFactory
+
+D  session
+
+4、jquery匹配所有的单行文本框的选择器是：：
+
+  正确答案：A
+
+A  text选择器
+
+B  singletext选择器
+
+C  button选择器
+
+D  input选择器
+
+5、bootstrap框架是由哪家公司开源的：
+
+  正确答案：A
+
+A  Twitter
+
+B  Google
+
+C  Baidu
+
+D  Facebook
+
+6、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：D
+
+A  <environments>
+
+B  <sqlMapConfig>
+
+C  <setting>
+
+D  <configuration>
+
+7、bootstrap中pagination说法正确的是：
+
+  正确答案：B
+
+A  Bootstrap的组件不支持定制
+
+B  Bootstrap的响应式 CSS 能够自适应于台式机、平板电脑和手机
+
+C  bootstrap跟jQuery一样提供了很多dom操作方法
+
+D  bootstrap不是开源的
+
+8、要使用bootstrap最基本样式功能必须引入的文件是：
+
+  正确答案：A
+
+A  bootstrap.min.css
+
+B  bootstrap3.css
+
+C  jquery.js
+
+D  bootstrap.min.js
+
+9、MVC中的C是()：
+
+  正确答案：C
+
+A  模型层
+
+B  业务层
+
+C  控制层
+
+D  视图层
+
+10、MyBatis框架是一个什么样的框架：
+
+  正确答案：D
+
+A  整合框架
+
+B  js框架
+
+C  MVC框架
+
+D  数据持久化框架
+
+11、Mybatis中关于sql的描述中正确的是（）：
+
+  正确答案：D
+
+A  sql语句只可以写在子映射文件当中
+
+B  可以使用update标签完成所有的查询功能
+
+C  可以使用delete完成所有的查询功能
+
+D  在实际项目中大多数sql直接写在mybatis的子映射文件当中
+
+12、bootstrap中使用弹出框需要导入下面哪个js插件：
+
+  正确答案：A
+
+A  popover.js
+
+B  javascript.js
+
+C  Angular.js
+
+D  prototype.js
+
+13、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：B
+
+A  是.col-xs-3
+
+B  是.col-xs-4
+
+C  是.col-xs-6
+
+D  是.col-xs-2
+
+14、引入拦截器的标签是：
+
+  正确答案：D
+
+A  <defaull-interceptor-ref>
+
+B  <intercep>
+
+C  <interceptor>
+
+D  <interceptor-ref>
+
+15、firebug属于哪款浏览器调试工具：
+
+  正确答案：D
+
+A  谷歌
+
+B  IE
+
+C  以下都是
+
+D  火狐
+
+16、Spring中Bean的scope值表示原型的是（）：
+
+  正确答案：A
+
+A  prototype
+
+B  request
+
+C  session
+
+D  applicationContext
+
+17、tomcat 更改端口号的配置文件是：
+
+  正确答案：D
+
+A  web.xml
+
+B  config.xml
+
+C  application.xml
+
+D  server.xml
+
+18、已知总记录数listCount和每页显示的记录数pageSize,求总页数,下面说法正确的是()：
+
+  正确答案：D
+
+A  listCount / pageSize + (listCount % pageSize != 0 ? 1 : 1)
+
+B  listCount / pageSize + (listCount % pageSize != 0 ? 0 : 1)
+
+C  listCount / pageSize + (listCount % pageSize != 1 ? 1 : 0)
+
+D  listCount / pageSize + (listCount % pageSize == 0 ? 0 : 1)
+
+19、JDBC中的?号占位符开始值：：
+
+  正确答案：B
+
+A  是3
+
+B  是1
+
+C  是0
+
+D  是2
+
+20、Spring的核心配置文件的默认位置是（）：
+
+  正确答案：C
+
+A  src
+
+B  webRoot
+
+C  WEB-INF
+
+D  dto
+多选题：
+
+1、下面关于在Spring中配置Bean的name属性的说法正确的是：
+						 
+
+正确答案：C ; D
+
+A name属性是必须，没有name属性就会报错
+
+B name属性的值可以重复
+
+C name属性不是必须的，可以没有
+
+D name属性的值不可以重复
+
+2、下面关于在Spring中配置Bean的id属性的说法正确的是：
+						 
+
+正确答案：C ; D
+
+A id属性是必须，没有id属性就会报错
+
+B id属性的值可以重复
+
+C id属性不是必须的，可以没有
+
+D id属性的值不可以重复
+
+3、关于Servlet规范下面说法正确的是：：
+						 
+
+正确答案：A ; C ; D
+
+A Tomcat是符合Servlet规范的优秀Servlet容器
+
+B Servlet规范由oracle公司制定
+
+C Servlet的是javaweb的重要技术
+
+D Servlet规范制定了标准Servlet接口
+
+4、关于AOP的说法正确的是：：
+						 
+
+正确答案：A ; B ; D
+
+A 拦截器是基于AOP思想实现的
+
+B AOP是面向切面编程
+
+C AOP对事务的控制只能在srevice层
+
+D AOP的一个重要作用就是事务控制
+
+5、ssm整合时关于web.xml的描述说法正确的是（）：
+						 
+
+正确答案：A ; D
+
+A 位置在WEB-INF下
+
+B 经常被用于注入数据源
+
+C 配置springmvc核心控制器使用filter标签
+
+D 需要配置springmvc的核心控制器
+
+6、Map的遍历可以使用以下哪些方法：：
+						 
+
+正确答案：A ; B
+
+A keySet
+
+B entrySet
+
+C contains
+
+D listMap
+
+7、hibernate与mybatis的区别描述正确的是：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 项目初期如果在需求上具有好多不确定的因素，建议使用mybatis框架，因为其更灵活。
+
+B 一般而言，hibernate的开发效率高
+
+C sql优化方面mybatis比hibernate做的更好。
+
+D mybatis的运行效率或者执行效率高于hibernate
+
+8、abstractclass和interface的区别或描述正确的是（）：
+						 
+
+正确答案：B ; C ; D
+
+A 都可以写抽象的方法
+
+B 抽象类有构造方法,接口没有
+
+C 抽象类中可以有普通方法
+
+D 抽象类中可以有普通的成员变量,普通的非抽象方法.接口没有。
+
+9、关于事务的描述正确的是（ ）：
+						 
+
+正确答案：B ; C
+
+A 事务只可以加在service层
+
+B 事务一般都是加在service层
+
+C 事务存在的目的就是为了保证一个业务的完整性
+
+D 事务只能用于持久层框架，其他的都不可以
+
+10、事务的隔离级别包含
+：
+						 
+
+正确答案：A ; B ; C ; D
+
+A 可重复读
+
+B 串行化
+
+C 读未提交
+
+D 读已提交
+判断题：
+
+1、MyBatis是一个orm框架：：
+
+正确答案：对	
+
+√
+
+×
+
+2、select * from stu;中的*代表是表中的所有字段：：
+
+正确答案：对	
+
+√
+
+×
+
+3、如果表设置了主外键关键，那么外键的值要在主键范围之内。：：
+
+正确答案：对	
+
+√
+
+×
+
+4、集合（set）中可以包含相同对象：：
+
+正确答案：错	
+
+√
+
+×
+
+5、JDK的动态代理要求必须有接口：：：
+
+正确答案：对	
+
+√
+
+×
+
+6、Spring的核心配置文件可以引入properties文件作为资源文件：：
+
+正确答案：对	
+
+√
+
+×
+
+7、Hibernate不是一个orm框架：：
+
+正确答案：错	
+
+√
+
+×
+
+8、基本数据类型的数组在创建时系统将指定默认值：：
+
+正确答案：对	
+
+√
+
+×
+
+9、cookie也是服务器端会话技术,session是服务器端会话技术：：
+
+正确答案：错	
+
+√
+
+×
+
+10、spring mvc 的Controller类默认Scope是单例(singleton)的：：
+
+正确答案：对	
+
+√
+
+×
+
+单选题：
+
+1、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+   正确答案：D
+A  against
+
+B  like
+
+C  match
+
+D  regexp
+
+2、AngularJs中ng-init指令用于：
+   正确答案：A
+A  初始化应用程序数据
+
+B  把元素值（比如输入域的值）绑定到应用程序。
+
+C  创建init
+
+D  初始化应用程序
+
+3、在Controller类中可以使用到的注解有：：
+   正确答案：A
+A  @Controller
+
+B  @RequestMap
+
+C  @Auto
+
+D  @servlet
+
+4、AngularJS中指定控制器的是哪个指令？：
+   正确答案：C
+A  ng-route
+
+B  ng-model
+
+C  ng-controller
+
+D  ng-template
+
+5、关于angularjs说法，错误的是：
+   正确答案：A
+A  极大的丰富了dom操作
+
+B  实现了依赖注入
+
+C  前端mvc，极大降低前端开发的耦合
+
+D  实现了数据双向绑定
+
+6、MVC中的C是()：
+   正确答案：D
+A  模型层
+
+B  视图层
+
+C  业务层
+
+D  控制层
+
+7、MyBatis框架是一个什么样的框架：
+   正确答案：D
+A  整合框架
+
+B  MVC框架
+
+C  js框架
+
+D  数据持久化框架
+
+8、js中alert(alert(1));效果语句说法正确的是：
+   正确答案：B
+A  先弹undefined 然后弹1
+
+B  先弹1 然后弹undefined
+
+C  报错
+
+D  先弹1 然后报错
+
+9、java字符串String类的内部数据结构是：
+   正确答案：D
+A  double[]
+
+B  byte[]
+
+C  int[]
+
+D  char[]
+
+10、AngularJs的exam_与下列哪个指令效果相同：
+   正确答案：D
+A  ng-init
+
+B  ng-show
+
+C  ng-model
+
+D  ng-bind
+
+11、MVC中的C是()：
+   正确答案：C
+A  视图层
+
+B  模型层
+
+C  控制层
+
+D  业务层
+
+12、bootstrap中使用弹出框需要导入下面哪个js插件：
+   正确答案：B
+A  javascript.js
+
+B  popover.js
+
+C  prototype.js
+
+D  Angular.js
+
+13、angularjs中$http不支持的方法是：
+   正确答案：C
+A  get
+
+B  put
+
+C  remove
+
+D  post
+
+14、过滤器将字符串格式化为大写的是：
+   正确答案：C
+A  currency
+
+B  lowercase
+
+C  uppercase
+
+D  orderBy
+
+15、RESTful风格中http协议不支持的方法是：
+   正确答案：B
+A  get
+
+B  remove
+
+C  put
+
+D  post
+
+16、bootstrap中col-lg-4的意思是（单选）：
+   正确答案：C
+A  任何屏幕下占12份中的4份宽度
+
+B  小屏幕下占12份中的4份宽度
+
+C  大屏幕下占12份中的4份宽度
+
+D  超小屏幕下占12份中的4份宽度
+
+17、tomcat 更改端口号的配置文件是 ：
+   正确答案：C
+A  config.xml
+
+B  web.xml
+
+C  server.xml
+
+D  application.xml
+
+多选题：
+
+1、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; D
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的主要作用是处理Http请求；
+
+2、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：A ; B
+A select sysdate()
+
+B select now()
+
+C select today()
+
+D select now() from dual
+
+3、在拦截器中，使用ActionInvocation:：
+						 
+ 正确答案：A ; B ; C ; D
+A 的invoke方法可以调用action的执行方法；
+
+B 的invoke方法可以调用下一个拦截器的intercept方法
+
+C 可以获得Action对象；
+
+D 可以获得ActionContext对象；
+
+4、bootstrap是基于什么组成的：
+						 
+ 正确答案：A ; B ; C
+A CSS
+
+B HTML
+
+C JAVASCRIPT
+
+D JAVA
+
+5、$routeProvider.when路由设置对象包括：
+						 
+ 正确答案：A ; B ; C ; D
+A controllerAs
+
+B templateUrl
+
+C Template
+
+D redirectTo
+
+6、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+ 正确答案：A ; B ; C ; D
+A 模块化
+
+B MVC
+
+C 自动化双向数据绑定
+
+D 语义化标签、依赖注入
+
+7、公众账号有哪几种类型? ：
+						 
+ 正确答案：A ; C ; D
+A 订阅号
+
+B 亲情号
+
+C 服务号
+
+D 企业号
+
+8、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; D
+A struts2框架可以脱离web容器运行
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的主要作用是处理Http请求；
+
+9、jquery(&quot;div.ax&quot;)说法正确的是：
+						 
+ 正确答案：A ; C
+A 选择class是ax的div
+
+B 上面说法都对
+
+C 选择到的元素肯定是div
+
+D 选择div下面的class是ax的元素
+
+10、以下哪些是mysql聚合函数：
+						 
+ 正确答案：A ; B
+A sum
+
+B avg
+
+C all
+
+D round
+
+11、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：B ; D
+A <s: textfield>
+
+B <bean:write>
+
+C <s:form>
+
+D <c:out>
+
+12、超小屏幕下，下列代码说法错误的有：
+&lt;div class=&quot;row&quot; &gt;
+      &lt;div class=&quot;col-xs-6 col-md-offset-3&quot;  &gt;
+        hello
+      &lt;/div&gt;
+   &lt;/div&gt;：
+						 
+ 正确答案：A ; B ; C
+A hello字符所在div宽度占12份中的9份
+
+B hello字符所在div宽度占12份中的3份
+
+C hello字符显示在浏览器的最左边
+
+D hello字符所在div宽度占12份中的6份
+
+13、hibernate中关于Session对象的get方法与load方法的正确说法是：
+						 
+ 正确答案：A ; C
+A 通过load方法获得的对象在关闭Session后可能访问不到对象的全部属性
+
+B 通过get方法获得的对象在关闭Session后可能访问不到对象的全部属性
+
+C get方法是立即加载对象，load方法是延迟加载对象
+
+D get方法的性能优于load方法；
+
+判断题：
+
+1、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+2、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+ 正确答案：错
+√单选题：
+
+1、在select语句的where子句中，使用正则表达式过滤数据的关键字是：
+   正确答案：D
+A  against
+
+B  like
+
+C  match
+
+D  regexp
+
+2、AngularJs中ng-init指令用于：
+   正确答案：A
+A  初始化应用程序数据
+
+B  把元素值（比如输入域的值）绑定到应用程序。
+
+C  创建init
+
+D  初始化应用程序
+
+3、在Controller类中可以使用到的注解有：：
+   正确答案：A
+A  @Controller
+
+B  @RequestMap
+
+C  @Auto
+
+D  @servlet
+
+4、AngularJS中指定控制器的是哪个指令？：
+   正确答案：C
+A  ng-route
+
+B  ng-model
+
+C  ng-controller
+
+D  ng-template
+
+5、关于angularjs说法，错误的是：
+   正确答案：A
+A  极大的丰富了dom操作
+
+B  实现了依赖注入
+
+C  前端mvc，极大降低前端开发的耦合
+
+D  实现了数据双向绑定
+
+6、MVC中的C是()：
+   正确答案：D
+A  模型层
+
+B  视图层
+
+C  业务层
+
+D  控制层
+
+7、MyBatis框架是一个什么样的框架：
+   正确答案：D
+A  整合框架
+
+B  MVC框架
+
+C  js框架
+
+D  数据持久化框架
+
+8、js中alert(alert(1));效果语句说法正确的是：
+   正确答案：B
+A  先弹undefined 然后弹1
+
+B  先弹1 然后弹undefined
+
+C  报错
+
+D  先弹1 然后报错
+
+9、java字符串String类的内部数据结构是：
+   正确答案：D
+A  double[]
+
+B  byte[]
+
+C  int[]
+
+D  char[]
+
+10、AngularJs的exam_与下列哪个指令效果相同：
+   正确答案：D
+A  ng-init
+
+B  ng-show
+
+C  ng-model
+
+D  ng-bind
+
+11、MVC中的C是()：
+   正确答案：C
+A  视图层
+
+B  模型层
+
+C  控制层
+
+D  业务层
+
+12、bootstrap中使用弹出框需要导入下面哪个js插件：
+   正确答案：B
+A  javascript.js
+
+B  popover.js
+
+C  prototype.js
+
+D  Angular.js
+
+13、angularjs中$http不支持的方法是：
+   正确答案：C
+A  get
+
+B  put
+
+C  remove
+
+D  post
+
+14、过滤器将字符串格式化为大写的是：
+   正确答案：C
+A  currency
+
+B  lowercase
+
+C  uppercase
+
+D  orderBy
+
+15、RESTful风格中http协议不支持的方法是：
+   正确答案：B
+A  get
+
+B  remove
+
+C  put
+
+D  post
+
+16、bootstrap中col-lg-4的意思是（单选）：
+   正确答案：C
+A  任何屏幕下占12份中的4份宽度
+
+B  小屏幕下占12份中的4份宽度
+
+C  大屏幕下占12份中的4份宽度
+
+D  超小屏幕下占12份中的4份宽度
+
+17、tomcat 更改端口号的配置文件是 ：
+   正确答案：C
+A  config.xml
+
+B  web.xml
+
+C  server.xml
+
+D  application.xml
+
+多选题：
+
+1、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; D
+A struts2框架定义了访问数据库的方式；
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架可以脱离web容器运行
+
+D struts2框架的主要作用是处理Http请求；
+
+2、下面关于mysql的日期的获取正确的是：：
+						 
+ 正确答案：A ; B
+A select sysdate()
+
+B select now()
+
+C select today()
+
+D select now() from dual
+
+3、在拦截器中，使用ActionInvocation:：
+						 
+ 正确答案：A ; B ; C ; D
+A 的invoke方法可以调用action的执行方法；
+
+B 的invoke方法可以调用下一个拦截器的intercept方法
+
+C 可以获得Action对象；
+
+D 可以获得ActionContext对象；
+
+4、bootstrap是基于什么组成的：
+						 
+ 正确答案：A ; B ; C
+A CSS
+
+B HTML
+
+C JAVASCRIPT
+
+D JAVA
+
+5、$routeProvider.when路由设置对象包括：
+						 
+ 正确答案：A ; B ; C ; D
+A controllerAs
+
+B templateUrl
+
+C Template
+
+D redirectTo
+
+6、AngularJS是为了克服HTML在构建应用上的不足而设计的。 AngularJS有着诸多特性，最为核心的是：：
+						 
+ 正确答案：A ; B ; C ; D
+A 模块化
+
+B MVC
+
+C 自动化双向数据绑定
+
+D 语义化标签、依赖注入
+
+7、公众账号有哪几种类型? ：
+						 
+ 正确答案：A ; C ; D
+A 订阅号
+
+B 亲情号
+
+C 服务号
+
+D 企业号
+
+8、关于struts2框架，下面哪些说法是正确的？：
+						 
+ 正确答案：B ; D
+A struts2框架可以脱离web容器运行
+
+B struts2框架的运行环境是web容器；
+
+C struts2框架定义了访问数据库的方式；
+
+D struts2框架的主要作用是处理Http请求；
+
+9、jquery(&quot;div.ax&quot;)说法正确的是：
+						 
+ 正确答案：A ; C
+A 选择class是ax的div
+
+B 上面说法都对
+
+C 选择到的元素肯定是div
+
+D 选择div下面的class是ax的元素
+
+10、以下哪些是mysql聚合函数：
+						 
+ 正确答案：A ; B
+A sum
+
+B avg
+
+C all
+
+D round
+
+11、下面不是struts2的标签的是(  )：：
+						 
+ 正确答案：B ; D
+A <s: textfield>
+
+B <bean:write>
+
+C <s:form>
+
+D <c:out>
+
+12、超小屏幕下，下列代码说法错误的有：
+&lt;div class=&quot;row&quot; &gt;
+      &lt;div class=&quot;col-xs-6 col-md-offset-3&quot;  &gt;
+        hello
+      &lt;/div&gt;
+   &lt;/div&gt;：
+						 
+ 正确答案：A ; B ; C
+A hello字符所在div宽度占12份中的9份
+
+B hello字符所在div宽度占12份中的3份
+
+C hello字符显示在浏览器的最左边
+
+D hello字符所在div宽度占12份中的6份
+
+13、hibernate中关于Session对象的get方法与load方法的正确说法是：
+						 
+ 正确答案：A ; C
+A 通过load方法获得的对象在关闭Session后可能访问不到对象的全部属性
+
+B 通过get方法获得的对象在关闭Session后可能访问不到对象的全部属性
+
+C get方法是立即加载对象，load方法是延迟加载对象
+
+D get方法的性能优于load方法；
+
+判断题：
+
+1、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+2、&lt;script&gt;
+   var app = angular.module('myApp', []);
+
+   app.controller('myCtrl', function($scope, $rootScope) {
+      $scope.names = [&quot;mei&quot;];
+      $rootScope.lastname = &quot;han&quot;;
+   });
+&lt;/script&gt;
+
+&lt;ul ng-app=&quot;myApp&quot;&gt;
+    &lt;li ng-repeat=&quot;x in names&quot;&gt; exam_lastname exam_x &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt; exam_names&lt;/li&gt;
+&lt;/ul&gt;
+
+显示结果为 han mei mei：：
+ 正确答案：错
+√
+
+×
+
+3、微信公众平台群发消息的人数没有限制，只能群发给粉丝,不支持群发给非订阅用户：：
+ 正确答案：对
+√
+
+×
+
+4、AngularJS 过滤器可用于转换数据：：
+ 正确答案：对
+√
+
+×
+
+5、ng-option 指令来创建一个下拉列表，列表项通过对象和数组循环输出：：
+ 正确答案：对
+√
+
+×
+
+6、Spring中Bean默认是singleton(単例)：：
+ 正确答案：对
+√
+
+×
+
+7、angularjs中ng-bing可以实现双向绑定：：
+ 正确答案：对
+√
+
+×
+
+8、微信公众号可以主动添加粉丝关注：：
+ 正确答案：错
+√
+
+×
+
+9、 angularJS中的控制器controller可以操作当前页面所有元素：：
+ 正确答案：错
+√
+
+×
+
+10、在行(.row)中可以添加列(.col)，但列数之和不能超过平分的总列数12：：
+ 正确答案：对
+√
+
+×
+
+
+单选题：
+
+1、Spring核心技术ioc具体包含在（）模块中：
+
+  正确答案：D
+
+A  Web
+
+B  orm
+
+C  dao
+
+D  core
+
+2、下面关于AngularJS描述正确的是：
+
+  正确答案：A
+
+A  通过AngularJS可以实现多视图的单页Web应用
+
+B  增加了前端的复杂度
+
+C  不是前端框架
+
+D  AngularJS 路由不可以通过不同的模板来实现
+
+3、有语句String s=”hello world”，以下操作哪个是不合法的？：
+
+  正确答案：B
+
+A  String ts=s.trim()
+
+B  int i=s.length
+
+C  int i=s.length()
+
+D  String t=s+“!”
+
+4、MyBatis指定配置文件的根元素使用的是：
+
+  正确答案：B
+
+A  <sqlMapConfig>
+
+B  <configuration>
+
+C  <environments>
+
+D  <setting>
+
+5、bootstrap中，一行内创建三个相等的列，应使用下列哪一个：
+
+  正确答案：D
+
+A  ".col-xs-2"
+
+B  ".col-xs-6"
+
+C  ".col-xs-3"
+
+D  ".col-xs-4"
+
+6、下列bootstrap说法错误的是：
+
+  正确答案：C
+
+A  简化了页面的编码
+
+B  有强大的栅格系统
+
+C  是一个收费的框架
+
+D  是一个响应式框架
+
+7、主要标签和成功按钮分别是:______：
+
+  正确答案：C
+
+A  btn-default, label-waring
+
+B  label-primary, btn_success
+
+C  label-primary, btn-success
+
+D  label-default, btn-primary
+
+8、JDBC中的?号占位符开始值是：：
+
+  正确答案：D
+
+A  是0
+
+B  是3
+
+C  是2
+
+D  是1
+
+9、关于sql优化错误的是：
+
+  正确答案：C
+
+A  尽量避免在where子句中使用!=或<>操作符
+
+B  尽量使用关键字段查询不用星号
+
+C  尽量使用$号不用#号因为$安全
+
+D  尽量避免向客户端返回大数据量若数据量过大应该考虑相应需求是否合理
+
+10、关于Servlet规范下面说法正确的是：
+
+  正确答案：B
+
+A  Servlet规范属HTTP协议的一部分
+
+B  Tomcat是符合Servlet规范的优秀Servlet容器
+
+C  Servlet和数据库交互
+
+D  Servlet规范由oracle公司制定
+
+11、依赖注入最常使用的方式是：
+
+  正确答案：C
+
+A  构造函数
+
+B  get
+
+C  set
+
+D  构造方法
+
+12、tomcat 更改端口号的配置文件是 ：：
+
+  正确答案：B
+
+A  web.xml
+
+B  server.xml
+
+C  config.xml
+
+D  application.xml
+
+13、bootstrap框架是一个什么框架：
+
+  正确答案：D
+
+A  持久层
+
+B  综合性框架
+
+C  后端
+
+D  前端
+
+14、Mybatis中用来配置公共sql代码片段所使用的标签是：
+
+  正确答案：A
+
+A  sql
+
+B  trim
+
+C  if
+
+D  where
+
+15、在SpringMVC框架中ViewResolver类的作用是：：
+
+  正确答案：B
+
+A  扫描包
+
+B  视图解析
+
+C  跳转页面+给页面传对象
+
+D  开启注解
+
+16、发布项目需要将war包发布到tomcat的哪个目录下：
+
+  正确答案：B
+
+A  bin
+
+B  webapps
+
+C  lib
+
+D  conf
+
+17、客户端语法错误会返回那个错误状态码：
+
+  正确答案：C
+
+A  是200
+
+B  是500
+
+C  是400
+
+D  是304
+
+18、以下哪个注解不属于Spring框架：
+
+  正确答案：B
+
+A  Repository
+
+B  Resource
+
+C  Controller
+
+D  Autowired
+
+19、bootstrap过滤器将字符串格式化为大写的是：
+
+  正确答案：B
+
+A  lowercase
+
+B  uppercase
+
+C  currency
+
+D  orderBy
+
+20、spring中bean的作用域不包括：
+
+  正确答案：A
+
+A  response
+
+B  prototype
+
+C  singleton
+
+D  request
+多选题：
+
+1、下面关于mysql的日期的获取正确的是：：
+						 
+
+正确答案：A ; B ; C
+
+A select now()
+
+B select now() from dual
+
+C select sysdate()
+
+D select today()
+
+2、Spring的两个核心为_____和_______：：
+						 
+
+正确答案：B ; C
+
+A MVC
+
+B IOC
+
+C AOP
+
+D ORM
+
+3、为什么我们会需要MVC.下面正确说法是：
+						 
+
+正确答案：A ; C ; D
+
+A 为了后期维护方便
+
+B 为了加重工作量
+
+C 为了代码复用
+
+D 为了切分职责
+
+4、下面关于在Spring中配置Bean的id属性的说法正确的是：
+						 
+
+正确答案：B ; D
+
+A id属性是必须，没有id属性就会报错
+
+B id属性不是必须的，可以没有
+
+C id属性的值可以重复
+
+D id属性的值不可以重复
+
+5、以下哪些方法是String类的：
+						 
+
+正确答案：A ; B ; C ; D
+
+A toUpperCase
+
+B substring
+
+C split
+
+D replace
+
+6、默认创建对象是单例的框架有：
+						 
+
+正确答案：A ; B ; C
+
+A struts
+
+B servlet
+
+C spring
+
+D struts2
+
+7、以下哪些注解属于Spring框架：
+						 
+
+正确答案：A ; B ; D
+
+A Repository
+
+B Autowired
+
+C Resource
+
+D Controller
+
+8、下面是mvc模式的框架是?：
+						 
+
+正确答案：A ; C
+
+A Struts
+
+B Spring
+
+C SpringMvc
+
+D Springboot
+
+9、可以通过以下三种方式获取类的Class对象：
+						 
+
+正确答案：A ; C ; D
+
+A 对象.getClass()
+
+B 对象.GetName()
+
+C Class.forName("类的全名")
+
+D 类名.class
+
+10、图片上传时,解决文件上传时名字重复问题的办法有：
+						 
+
+正确答案：C ; D
+
+A 不能解决
+
+B 就用原来的文件名
+
+C 分不同的文件夹存放
+
+D UUID
+判断题：
+
+1、MyBatis是一个持久层框架：：：
+
+正确答案：对	
+
+√
+
+×
+
+2、SSH框架的搭建没有spring：：
+
+正确答案：错	
+
+√
+
+×
+
+3、MyBatis现属于apache的一个开源项目：：
+
+正确答案：错	
+
+√
+
+×
+
+4、springmvc默认是原型的：：
+
+正确答案：错	
+
+√
+
+×
+
+5、集合（HashSet）中可以包含相同对象：：：
+
+正确答案：错	
+
+√
+
+×
+
+6、抽象类中可以有抽象方法和普通方法：：
+
+正确答案：对	
+
+√
+
+×
+
+7、spring默认创建的是一个原型对象：：
+
+正确答案：错	
+
+√
+
+×
+
+8、Linux下的删除文件可以使用rm命令：：
+
+正确答案：对	
+
+√
+
+×
+
+9、HashMap不是键值对进行存储的：：
+
+正确答案：错	
+
+√
+
+×
+
+10、大部分的线上环境部署在Linux系统上：：
+
+正确答案：对	
+
+√
+
+×
